@@ -36,6 +36,17 @@
                 </a>
               </li>
             {% endif %}
+              
+               {% if site.author.researchgate_username %}
+              <!-- researchgate -->
+              <li class="navigation__item">
+                <a href="https://www.researchgate.net/profile/Benjamin_Rohaut" title="{{ site.author.researchgate_username }} on Researchgate" target="_blank">
+                  <i class="icon icon-list-bullet"></i>
+                  <span class="label">Researchgate</span>
+                </a>
+              </li>
+            {% endif %}
+               
 
             {% if site.author.facebook_username %}
               <!-- Facebook -->
