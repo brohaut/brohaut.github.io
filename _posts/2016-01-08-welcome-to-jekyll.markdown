@@ -6,5 +6,4 @@ tags: [background]
 ---
 
 I am a French neuro-intensivist & neuroscientist.
-My work is dedicated to the evaluation and the monitoring of brain dysfunction in ICU patients. I develop tools to probe residual cognitive abilities in patients suffering from disorder of consciousness (DOC) to improve prognosis and recovery detection.
-
+My work is dedicated to the evaluation and the monitoring of brain dysfunction in ICU patients. I develop tools to probe residual cognitive abilities in patients suffering from disorder of consciousness (DOC) to improve prognosis.
