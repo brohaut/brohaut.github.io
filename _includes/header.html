@@ -78,6 +78,17 @@
                 </a>
               </li>
             {% endif %}
+              
+                {% if site.author.scholar_username %}
+              <!-- GitHub -->
+              <li class="navigation__item">
+                <a href="https://scholar.google.fr/citations?user=jgHpg1oAAAAJ&hl=fr" title="{{ site.author.github_username }} on GoogleScholar" target="_blank">
+                  <i class="icon icon-social-github"></i>
+                  <span class="label">Scholar</span>
+                </a>
+              </li>
+            {% endif %}
+              
 
             {% if site.author.email %}
               <!-- Email -->
