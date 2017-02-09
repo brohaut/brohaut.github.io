@@ -12,9 +12,10 @@ author:
   twitter_username: Benrohaut
   #facebook_username: brohaut
   github_username:  brohaut
-  linkedin_username:  benjamin rohaut
+  linkedin_username:  benjaminrohaut
   reddit_username: rohaut
-
+  scholar_username: b.rohaut
+  
 defaults:
   -
     scope:
