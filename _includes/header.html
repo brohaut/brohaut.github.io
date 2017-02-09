@@ -27,7 +27,15 @@
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
           
-        
+          {% if site.author.scholar_username %}
+              <!-- scholar -->
+              <li class="navigation__item">
+                <a href="https://scholar.google.fr/citations?user=jgHpg1oAAAAJ&hl=fr" title="{{ site.author.scholar_username }} on GoogleScholar" target="_blank">
+                  <i class="icon icon-list-bullet"></i>
+                  <span class="label">Scholar</span>
+                </a>
+              </li>
+            {% endif %}
 
             {% if site.author.facebook_username %}
               <!-- Facebook -->
@@ -48,19 +56,7 @@
                 </a>
               </li>
             {% endif %}
-              
-              
-             {% if site.author.reddit_username %}
-              <!-- Reddit -->
-              <li class="navigation__item">
-                <a href="https://www.reddit.com/user/{{ site.author.reddit_username }}" title="{{ site.author.reddit_username }} on Reddit" target="_blank">
-                  <i class="icon icon-social-reddit"></i>
-                  <span class="label">Reddit</span>
-                </a>
-              </li>
-            {% endif %}
         
-
             {% if site.author.github_username %}
               <!-- GitHub -->
               <li class="navigation__item">
@@ -71,17 +67,17 @@
               </li>
             {% endif %}
               
-                {% if site.author.scholar_username %}
-              <!-- GitHub -->
+                 {% if site.author.reddit_username %}
+              <!-- Reddit -->
               <li class="navigation__item">
-                <a href="https://scholar.google.fr/citations?user=jgHpg1oAAAAJ&hl=fr" title="{{ site.author.scholar_username }} on GoogleScholar" target="_blank">
-                  <i class="icon icon-list-bullet"></i>
-                  <span class="label">Scholar</span>
+                <a href="https://www.reddit.com/user/{{ site.author.reddit_username }}" title="{{ site.author.reddit_username }} on Reddit" target="_blank">
+                  <i class="icon icon-social-reddit"></i>
+                  <span class="label">Reddit</span>
                 </a>
               </li>
             {% endif %}
               
- {% if site.author.twitter_username %}
+            {% if site.author.twitter_username %}
               <!-- Twitter -->
               <li class="navigation__item">
                 <a href="http://twitter.com/{{ site.author.twitter_username }}" title="@{{ site.author.twitter_username }} on Twitter" target="_blank">
