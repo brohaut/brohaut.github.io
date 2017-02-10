@@ -4,5 +4,5 @@ date:   2016-02-09 15:04:23
 categories: [generality]
 tags: [generality]
 ---
-I am a French neuro intensivist & neuro scientist (Md, PhD).
+I am a French neuro intensivist & neuro scientist (MD, PhD).
 My research aims at better understand brain dysfunctions in ICU patients and to develop new tools to probe residual cognitive abilities in patients suffering from disorder of consciousness in order to improve diagnosis and prognosis.
