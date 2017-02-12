@@ -1,7 +1,7 @@
 # Site settings
 title: Benjamin Rohaut
 description: 'Neuro Intensivist & Scientist'
-url: 'https://brohaut.github.io'
+url: 'http://brohaut.github.io'
 baseurl: '/'
 
 google_analytics: 'UA-91771314-1'
