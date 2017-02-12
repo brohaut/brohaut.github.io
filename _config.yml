@@ -1,6 +1,7 @@
 # Site settings
 title: Benjamin Rohaut
 description: 'Neuro Intensivist & Scientist'
+
 url: 'https://brohaut.github.io'
 baseurl: '/'
 
@@ -10,7 +11,7 @@ google_analytics: 'UA-91771314-1'
 author:
   name: 'Benjamin Rohaut'
   email: benjamin.rohaut@gmx.com
-  
+
   #facebook_username: brohaut
   github_username:  brohaut
   linkedin_username:  Benjamin
@@ -18,8 +19,8 @@ author:
   scholar_username: Benjamin
   twitter_username: Benrohaut
   researchgate_username: Benjamin
- 
-  
+
+
 defaults:
   -
     scope:
