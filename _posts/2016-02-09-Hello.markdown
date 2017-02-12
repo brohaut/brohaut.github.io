@@ -1,7 +1,7 @@
 ---
-title:  "Hello !"
+title:  "Summary"
 date:   2016-02-09 15:04:23
-categories: [me]
+categories: [Bio]
 tags: [AboutMe]
 ---
 I am a French neuro intensivist & neuro scientist (MD, PhD).
