@@ -6,6 +6,8 @@ tags: [Consciousness, Semantic, Disorders of Consciousness, MyPublications]
 
 Our paper in entitled **"Probing ERP correlates of verbal semantic processing in patients with impaired consciousness"** about semantic abilities in non-communicating patients is available online in [Neuropsychologia] and in [PDF via Researchgate].
 
+![Figure-1](http://ars.els-cdn.com/content/image/1-s2.0-S0028393214X0014X-cov150h.gif)
+
 **Reference:** Rohaut, B., Faugeras, F., Chausson, N., King, J.-R., Karoui, I. E., Cohen, L., & Naccache, L. (2015). *Probing ERP correlates of verbal semantic processing in patients with impaired consciousness*. Neuropsychologia, 66, 279–292.
 
 
