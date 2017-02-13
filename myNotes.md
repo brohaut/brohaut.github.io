@@ -16,13 +16,13 @@ bundle exec jekyll serve --watch
 ### list of mismach
 git status
 ### update
-git add .; git commit -m 'Type your commit message here'; git push
+git add .; git commit -m 'message'; git push
 
 
 ## help
 http://stackoverflow.com/questions/11019839/how-to-use-terminal-commands-with-github#11019894
 
-insert image in post:
+insert an image in a post:
 ![My helpful screenshot]({{ site.url }}/images/AST_3183.jpg)
 or
 ![a picture of nature](http://placeimg.com/400/300/nature)
