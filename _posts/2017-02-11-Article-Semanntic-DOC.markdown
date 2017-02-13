@@ -1,5 +1,6 @@
 ---
 title:  "Probing verbal semantic processing in unconscious patients"
+date:   2017-02-12 16:04:23
 categories: [Publi]
 tags: [Consciousness, Semantic, Disorders of Consciousness, MyPublications]
 ---
