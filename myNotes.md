@@ -16,7 +16,7 @@ bundle exec jekyll serve --watch
 ### list of mismach
 git status
 ### update
-git add .; git commit -m 'message'; git push
+git add .; git commit -m 'minor update'; git push
 
 
 ## help
