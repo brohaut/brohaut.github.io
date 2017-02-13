@@ -5,7 +5,7 @@ categories: [Publi]
 tags: [Consciousness, Semantic,  MyPublications]
 ---
 
-Our paper in entitled **"Unconscious semantic processing of polysemous words is not automatic"** about processing of subliminal polysemous (or ambiguous) words like "BANK", "PALM" ect ... is available online in [Neuroscience of Consciousness] (open access).
+Our paper entitled **"Unconscious semantic processing of polysemous words is not automatic"** about processing of subliminal polysemous (or ambiguous) words like "BANK", "PALM" ect ... is available online in [Neuroscience of Consciousness] (open access).
 
 See also the [INSERM press release], the article in [Le Figaro] newspaper (Fr) and the ["Votre santé m'interesse "TV show] (Fr)
 
