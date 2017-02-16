@@ -12,6 +12,8 @@ See also the [INSERM press release], the article in [Le Figaro] newspaper (Fr) a
 ### Experimental Paradigm:
 ![Figure-1](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nc/2016/1/10.1093_nc_niw010/2/m_niw010f1p.jpeg?Expires=1487036097&Signature=Gswh5DTCS0jpA4akHOXQnIwlJaTeFlrMJq2UPoAEfDKWBlhLU7QUbPJRwkdcAu~HeQUE5TnlRRKtQ~6xQ8Da8aYVdkAo729FT9AzDqut979K4h8uEUE5QD1kqFXpK80kPHem0K5kD2KWl1xHitQWViPGBnc9jS8G2M~Hddgfh8DV058sHj0pmHP63HVUDmDl~XUObAhNVBCz-hfsn6zKkZGml~~bN-64Ipw6ku-dnL~jESUIlZKC7ta-dTdJkZt7UBktw~eY8L-lvC6Nf5pBumfwlk~~zKO99LWpSn5MJ4DVOJvZ80CLtWwONyC77MffZSc8Q0vIWlXcmrSn~SJBwA__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q)
 
+---
+
 **Reference:** Rohaut, B., Alario, F.-X., Meadow, J., Cohen, L., & Naccache, L. (2016). *Unconscious semantic processing of polysemous words is not automatic.* Neuroscience of Consciousness, 2016, niw010. [[Download PDF]]
 
 [INSERM press release]: http://presse.inserm.fr/en/unconscious-processing-operates-under-conscious-influence/24846/
