@@ -8,7 +8,7 @@ url: 'https://brohaut.github.io'
 baseurl: '/'
 
 google_analytics: 'UA-91771314-1'
-# disqus_shortname: 'your-disqus-name'
+#disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Benjamin Rohaut'
@@ -45,5 +45,5 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
-gems: jekyll-sitemap
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png','MyNotes.md']
+gems: ['jekyll-sitemap']
