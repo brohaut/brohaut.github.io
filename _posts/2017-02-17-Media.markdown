@@ -1,0 +1,26 @@
+---
+title:  "Articles en Français"
+date:   2017-02-17 1:03:23
+categories: [Publi]
+tags:  [Consciousness, Disorders of Consciousness, Locked in Syndrome, AboutMe]
+---
+**Des chercheurs parviennent à communiquer avec des patients totalement paralysés:**
+interview dans [Science & Avenir] au sujet d'un article publié dans [Plos Biology]
+
+**Un inconscient sous influence consciente:** article dans [Le Figaro] et interview sur [BFM] au sujet de notre article dans [Neuroscience of Consciousness]
+
+{::comment}
+To add: link for S&V ..
+{:/comment}
+
+**Pourquoi évaluer l'état de conscience minimale est si difficile:** article dans [Science & Vie] au sujet du cas Vincent Lambert
+
+**Le Coma** sur le site de l'[Inserm]
+
+[Le Figaro]:http://sante.lefigaro.fr/actualite/2016/09/19/25411-inconscient-sous-influence-consciente
+[Science & Avenir]: https://www.sciencesetavenir.fr/sante/cerveau-et-psy/des-chercheurs-communiquent-avec-des-patients-atteints-de-la-maladie-de-charcot-et-totalement-paralyses_110426
+[Plos Biology]: http://dx.doi.org/10.1371/journal.pbio.1002593
+[Inserm]:http://www.inserm.fr/thematiques/neurosciences-sciences-cognitives-neurologie-psychiatrie/dossiers-d-information/coma
+[BFM]: http://bfmbusiness.bfmtv.com/mediaplayer/video/comment-fonctionnent-l-inconscient-et-le-conscient-dans-le-cerveau-24-09-870457.html
+[Neuroscience of Consciousness]:https://doi.org/10.1093/nc/niw010
+[Science & Vie]:http://scienceetvie-pvgpsla5.immanens.com/fr/pvPageFl.asp?puc=003263&nu=1160&pa=42
