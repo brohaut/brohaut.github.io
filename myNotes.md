@@ -13,7 +13,7 @@ cd ~rohaut/Sites/mysite; bundle exec jekyll serve --watch
 ### list of mismach
 git status
 ### update
-git add .; git commit -m 'minor update'; git push
+cd ~rohaut/Sites/mysite; git add .; git commit -m 'minor update'; git push
 
 ## help
 http://stackoverflow.com/questions/11019839/how-to-use-terminal-commands-with-github#11019894
