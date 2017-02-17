@@ -45,4 +45,5 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
+gems: jekyll-sitemap
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
