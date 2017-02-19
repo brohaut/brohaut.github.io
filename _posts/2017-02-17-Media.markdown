@@ -1,5 +1,5 @@
 ---
-title:  "Articles en Français"
+title:  "Media (Français)"
 date:   2017-02-17 1:03:23
 categories: [Publi]
 tags:  [Consciousness, Disorders of Consciousness, Locked in Syndrome, AboutMe]
@@ -9,7 +9,7 @@ interview dans [Science & Avenir] au sujet d'un article de l'équipe de Niels Bi
 
 **Un inconscient sous influence consciente:** article dans [Le Figaro] et interview sur [BFM] au sujet de notre article dans [Neuroscience of Consciousness]
 
-**Prédiction du retour à la conscience:** interview sur [Europe1] (26') au sujet d'un article de l'équipe de Stein SIlva utilisant l'IRM publié dans [Neurology]
+**Prédiction du retour à la conscience:** interview sur [Europe1] (26') et [France5]({{ site.url }}/images/Radio-Ben.mp4) au sujet d'un article de l'équipe de Stein Silva décrivant un nouveau marqueur pronostique IRM publié dans [Neurology]
 
 **Pourquoi évaluer l'état de conscience minimale est si difficile:** article dans [Science & Vie] au sujet du cas Vincent Lambert
 
