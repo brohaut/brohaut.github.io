@@ -7,9 +7,9 @@ tags:  [Consciousness, Disorders of Consciousness, Locked in Syndrome, AboutMe]
 **Des chercheurs parviennent à communiquer avec des patients totalement paralysés:**
 interview dans [Science & Avenir] au sujet d'un article de l'équipe de Niels Birbaumer utilisant une interface cerveau-machine publié dans [Plos Biology] (Février 2017).
 
-Participation au documentaire **"Les pouvoirs du cerveau: *Déchiffrer la conscience, voyage dans l'étoffe de nos pensées* "** de Cécile Denjean ([ARTE], Avril 2016).
-
 **Un inconscient sous influence consciente:** article dans [Le Figaro] et interview sur [BFM] au sujet de notre article dans [Neuroscience of Consciousness] (Septembre 2016).
+
+Participation au documentaire **"Les pouvoirs du cerveau: *Déchiffrer la conscience, voyage dans l'étoffe de nos pensées* "** de Cécile Denjean ([ARTE], Avril 2016).
 
 **Prédiction du retour à la conscience:** interview sur [Europe1] (26') et [France5]({{ site.url }}/images/Radio-Ben.mp4) au sujet d'un article de l'équipe de Stein Silva décrivant un nouveau marqueur pronostique IRM publié dans [Neurology] (Novembre 2015).
 
