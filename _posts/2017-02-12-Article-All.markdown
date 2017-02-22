@@ -5,7 +5,7 @@ categories: [Publi]
 tags: [AboutMe, MyPublications]
 ---
 
-My list of publication is available in [Google Scholar], [Researchgate] and [Pubmed]
+My list of publications is available in [Google Scholar], [Researchgate] and [Pubmed]
 
 
 [Google Scholar]:https://scholar.google.fr/citations?user=jgHpg1oAAAAJ&hl=fr
