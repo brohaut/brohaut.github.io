@@ -10,7 +10,7 @@ git clone https://github.com/brohaut/brohaut.github.io
 cd ~rohaut/Sites/mysite; bundle exec jekyll serve --watch   
 
 ## Update local changes on github
-### list of mismach
+### list of mismatches
 git status
 ### update
 cd ~rohaut/Sites/mysite; git add .; git commit -m 'minor update'; git push
