@@ -8,8 +8,8 @@ git clone https://github.com/brohaut/brohaut.github.io
 
 ## Local preview
 cd ~rohaut/Sites/mysite; bundle exec jekyll serve --watch   
-
 ## Update local changes on github
+
 ### list of mismatches
 git status
 ### update
