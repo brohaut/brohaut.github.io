@@ -9,7 +9,7 @@ My research aims at better understand brain dysfunctions in ICU patients and to 
 
 My **Resumé** is available [here]({{ site.url }}/images/Benjamin_Rohaut.pdf)
 
-[ORCID] (0000-0001-6752-8756), [Publon] (1235063)
+[ORCID] (1-6752-8756), [Publon] (1235063)
 
 ---
 
