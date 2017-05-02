@@ -4,7 +4,6 @@ date:   2017-04-25 15:04:23
 categories: [Publi]
 tags: [Brainstem dysfunction, ICU,  Sedation, MyPublications]
 ---
-![PlosOne]({{ site.url }}/images/PLoS ONE.jpg)
 
 Our paper entitled **"Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality"** about Brainstem dysfunction in ICU sedated patients is available in [PLOS ONE](https://doi.org/10.1371/journal.pone.0176012) (open access).
 
@@ -16,6 +15,8 @@ In this multicenter prospective study, we explored the brainstem responses of de
 ---
 
 **Reference:** Rohaut B, Porcher R, Hissem T, Heming N, Chillet P, Djedaini K, et al. (2017) *Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality.* PLoS ONE 12(4): e0176012. [https://doi.org/10.1371/journal.pone.0176012](https://doi.org/10.1371/journal.pone.0176012)
+
+![PlosOne]({{ site.url }}/images/PLoS ONE.jpg)
 
 **Supplement:** Brainstem Assessmement Sedation Score **Form** is available [in PDF here]({{ site.url }}/images/BRASS_Form_site.pdf)
 ![sample]({{ site.url }}/images/BRASS_Form_site.png)
