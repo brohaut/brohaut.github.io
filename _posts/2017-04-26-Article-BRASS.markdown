@@ -1,5 +1,5 @@
 ---
-title:  "A new score using Brainstem Reflexes predicts mortality in patients receiving a deep sedation in ICU"
+title:  "A new score using Brainstem Reflexes predicts mortality in ICU patients receiving a deep sedation"
 date:   2017-04-25 15:04:23
 categories: [Publi]
 tags: [Brainstem dysfunction, ICU,  Sedation, MyPublications]
