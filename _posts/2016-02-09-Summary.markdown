@@ -7,13 +7,30 @@ tags: [AboutMe]
 I am a French neuro intensivist & neuro scientist (M.D., Ph.D.).
 My research aims at better understand brain dysfunctions in ICU patients and to develop new tools to probe residual cognitive abilities in patients suffering from disorder of consciousness in order to improve diagnosis and prognosis.
 
-My **Resumé** is available [here]({{ site.url }}/images/Benjamin_Rohaut.pdf)
+Advances in modern intensive care medicine have led to an increase in the number of patients who survive critical illness and especially severe brain injuries. For these patients, the impact of brain injuries on consciousness, cognitive disability and more generally on quality of life can be highly significant. To make well-grounded decisions, caregivers need accurate diagnosis and prognostic tools.
 
-[ORCID] (1-6752-8756), [Publon] (1235063)
+I have dedicated my career to deciphering the underpinnings of acute brain dysfunction in ICU patients and to develop cutting edge tools to probe residual cognitive abilities in order to improve diagnosis and prognosis accuracy for patients suffering from disorder of consciousness.
+
+Since 2008, I have been actively involved in the development and the activity of the mixed clinical & research team led by **Prof Lionel Naccache** at La Pitié-Salpêtrière Hospital. We developed new approaches to explore cognitive abilities of patients suffering from disorders of consciousness. For instance, we have already explored several electrophysiological markers such as deviant stimuli detection ([1](http://dx.doi.org/10.1073/pnas.0809667106), [2](http://dx.doi.org/10.1212/WNL.0b013e3182217ee8), [3](http://dx.doi.org/10.1016/j.neuropsychologia.2011.12.015)), semantic processing ([4](http://dx.doi.org/10.1016/j.neuropsychologia.2014.10.014)) or, more recently, the functional connectivity using a new measure called wSMI (for weighted Symbolic Mutual Information, [5](http://dx.doi.org/10.1016/j.cub.2013.07.075)) and a multimodal approach using machine learning ([6](https://doi.org/10.1093/brain/awu141)).
+
+As an active member of the collaborative project (“GENER”, Groupe d’Exploration Neurologique en Réanimation) led by **Prof Tarek Sharshar** since 2009, I am also highly invested in the research about brain dysfunction in ICU patients, its relation with delirium, mortality and long-term outcome ([7](https://doi.org/10.1371/journal.pone.0176012), [8](http://dx.doi.org/10.1097/CCM.0b013e31821b843b)).
+
+My PhD research, done at the Brain & Spine Institute (ICM) – Paris, under the supervision of Prof Lionel Naccache, explored the relations between semantic processing and consciousness both in brain injured patients and healthy volunteers. Failing to replicate a set of classical 30 years old results, we could finally reframe a well- established model of semantic unconscious processing ([9](https://doi.org/10.1093/nc/niw010)). Taking advantage of this experience in fundamental cognitive neuroscience, I continue to develop cutting edges approaches to improve the monitoring, the assessment of brain functions and the neuro-prognosis of ICU patients.
+
+
+### My **Resumé** is available [here]({{ site.url }}/images/Benjamin_Rohaut.pdf)
+### [ORCID] (1-6752-8756), [Publon] (1235063)
+###  List of selected articles available [here]({{ site.url }}/2017/Article-All/)
+### Complete list of publication available on [Google Scholar], [Researchgate] or [Pubmed]
+
+
+[Google Scholar]: https://scholar.google.fr/citations?hl=fr&user=jgHpg1oAAAAJ&view_op=list_works&sortby=pubdate
+[Researchgate]:https://www.researchgate.net/profile/Benjamin_Rohaut
+[Pubmed]:https://www.ncbi.nlm.nih.gov/pubmed/?term=Rohaut+B%5BAuthor%5D
 
 ---
 
-### Contact:
+## Contact:
 **Postal Address:** Division of Critical Care & Hospitalist Neurology,
 Columbia University Medical Center,
 177 Fort Washington Avenue,
@@ -22,3 +39,25 @@ New York, NY 10032. **Telephone:** (+1) 212-305-1928; **Fax:** (+1) 212-305-2792
 
 [ORCID]:http://orcid.org/0000-0001-6752-8756
 [Publon]:https://publons.com/author/1235063/benjamin-rohaut#profile
+
+
+### References:
+
+1. Bekinschtein TA, Dehaene S, Rohaut B, Tadel F, Cohen L, Naccache L. **Neural signature of the conscious processing of auditory regularities.** [PNAS](http://dx.doi.org/10.1073/pnas.0809667106). 2009 Feb 3;106(5):1672–7.
+
+2. Faugeras F, Rohaut B, Weiss N, Bekinschtein TA, Galanaud D, Puybasset L, et al. **Probing consciousness with event-related potentials in the vegetative state.** [Neurology](http://dx.doi.org/10.1212/WNL.0b013e3182217ee8). 2011 Jul 19;77(3):264–8.
+
+3. Faugeras F, Rohaut B, Weiss N, Bekinschtein T, Galanaud D, Puybasset L, et al.  **Event related potentials elicited by violations of auditory regularities in patients with impaired consciousness.** [Neuropsychologia](http://dx.doi.org/10.1016/j.neuropsychologia.2011.12.015). 2012 Feb;50(3):403–18.
+
+4. Rohaut B, Faugeras F, Chausson N, King J-R, Karoui IE, Cohen L, et al. **Probing ERP correlates of verbal semantic processing in patients with impaired consciousness.** [Neuropsychologia](http://dx.doi.org/10.1016/j.neuropsychologia.2014.10.014). 2015 Jan;66:279–92. (post about this publication [here]({{ site.url }}/2017/Article-Semantic-DOC/))
+
+5. King J-R, Sitt JD, Faugeras F, Rohaut B, El Karoui I, Cohen L, et al. **Information sharing in the brain indexes consciousness in noncommunicative patients.** [Curr Biol](http://dx.doi.org/10.1016/j.cub.2013.07.075). 2013 Oct 7;23(19):1914–9.
+
+6. Sitt JD, King J-R, El Karoui I, Rohaut B, Faugeras F, Gramfort A, et al. **Large scale screening of neural signatures of consciousness in patients in a vegetative or minimally conscious state.** [Brain](https://doi.org/10.1093/brain/awu141). 2014 Aug;137(Pt 8):2258–70.
+
+
+7. Rohaut B, Porcher R, Hissem T, Heming N, Chillet P, Djedaini K, et al. **Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality.** [PLOS ONE](https://doi.org/10.1371/journal.pone.0176012). 2017 Apr 25;12(4): e0176012. (post about this publication [here]({{ site.url }}/2017/Article-BRASS/))
+
+8. Sharshar T, Porcher R, Siami S, Rohaut B, Bailly-Salin J, Hopkinson NS, et al. **Brainstem responses can predict death and delirium in sedated patients in intensive care unit.** [Crit Care Med](http://dx.doi.org/10.1097/CCM.0b013e31821b843b). 2011 Aug;39(8):1960–7. (reprint available [here]({{ site.url }}/images/Sharshar et al. - Critical Care Medicine - 2011.pdf))
+
+9. Rohaut B, Alario F-X, Meadow J, Cohen L, Naccache L. **Unconscious semantic processing of polysemous words is not automatic.** [Neurosci Conscious](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010. (post about this publication [here]({{ site.url }}/2017/Article-Polysemy/))

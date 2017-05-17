@@ -4,12 +4,15 @@ date:   2017-02-11 15:03:23
 categories: [Publi]
 tags: [AboutMe, MyPublications]
 ---
-### Main publications:
+
+Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
+
+## Selected publications:
 {::comment}
 Style Vancouvert
 {:/comment}
 
-- Rohaut B, Porcher R, Hissem T, Heming N, Chillet P, Djedaini K, et al. **Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality.** [PLOS ONE](https://doi.org/10.1371/journal.pone.0176012). 2017 Apr 25;12(4): e0176012. (post about this publication [here]({{ site.url }}/2017/Article-BRASS/))
+### Neuroscience of Consciousness, Disorders of consciousness:
 
 - Rohaut B, Alario F-X, Meadow J, Cohen L, Naccache L. **Unconscious semantic processing of polysemous words is not automatic.** [Neurosci Conscious](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010. (post about this publication [here]({{ site.url }}/2017/Article-Polysemy/))
 
@@ -23,13 +26,18 @@ Style Vancouvert
 
 - Faugeras F, Rohaut B, Weiss N, Bekinschtein TA, Galanaud D, Puybasset L, et al. **Probing consciousness with event-related potentials in the vegetative state.** [Neurology](http://dx.doi.org/10.1212/WNL.0b013e3182217ee8). 2011 Jul 19;77(3):264–8.
 
-- Sharshar T, Porcher R, Siami S, Rohaut B, Bailly-Salin J, Hopkinson NS, et al. **Brainstem responses can predict death and delirium in sedated patients in intensive care unit.** [Crit Care Med](http://dx.doi.org/10.1097/CCM.0b013e31821b843b). 2011 Aug;39(8):1960–7. (reprint available [here]({{ site.url }}/images/Sharshar et al. - Critical Care Medicine - 2011.pdf))
-
 - Bekinschtein TA, Dehaene S, Rohaut B, Tadel F, Cohen L, Naccache L. **Neural signature of the conscious processing of auditory regularities.** [PNAS](http://dx.doi.org/10.1073/pnas.0809667106). 2009 Feb 3;106(5):1672–7.
 
 
+### Assessment of brain dysfunction in critically ill patients:
 
-### Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
+- Rohaut B, Porcher R, Hissem T, Heming N, Chillet P, Djedaini K, et al. **Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality.** [PLOS ONE](https://doi.org/10.1371/journal.pone.0176012). 2017 Apr 25;12(4): e0176012. (post about this publication [here]({{ site.url }}/2017/Article-BRASS/))
+
+- Sharshar T, Porcher R, Siami S, Rohaut B, Bailly-Salin J, Hopkinson NS, et al. **Brainstem responses can predict death and delirium in sedated patients in intensive care unit.** [Crit Care Med](http://dx.doi.org/10.1097/CCM.0b013e31821b843b). 2011 Aug;39(8):1960–7. (reprint available [here]({{ site.url }}/images/Sharshar et al. - Critical Care Medicine - 2011.pdf))
+
+
+## Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
+
 
 
 
