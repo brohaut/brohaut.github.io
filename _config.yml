@@ -1,8 +1,7 @@
 # Site settings
 title: Benjamin Rohaut
 #description: 'Neuro Intensivist & Scientist'
-description: 'Neuro Intensivist & Scientist (MD, PhD)
-Exploring Consciousness and Brain Dysfunctions in ICU'
+description: 'Neuro Intensivist & Scientist exploring Consciousness and Brain Dysfunctions in ICU'
 
 url: 'https://brohaut.github.io'
 baseurl: '/'
