@@ -2,14 +2,15 @@
 title:  "A new score using Brainstem Reflexes predicts mortality in ICU patients receiving a deep sedation"
 date:   2017-04-25 15:04:23
 categories: [Publi]
-tags: [Brainstem dysfunction, ICU,  Sedation, MyPublications]
+tags: [Brainstem dysfunction, ICU, Sedation, MyPublications]
 ---
 
-Our paper entitled **"Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality"** about Brainstem dysfunction in ICU sedated patients is available in [PLOS ONE](https://doi.org/10.1371/journal.pone.0176012) (open access).
+Our paper entitled **"Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality"** about Brainstem dysfunction in Intensive Care Unit (ICU) sedated patients is available in [*PLOS ONE*](https://doi.org/10.1371/journal.pone.0176012) (open access).
 
 
-Brain dysfunction (confusion, delirium, coma) is frequently observed in critically ill patients and has been associated with an increased mortality. Neurological assessment may help improve our understanding of the role of brainstem dysfunction in this increased mortality.
-In this multicenter prospective study, we explored the brainstem responses of deeply sedated critically ill patients during the first 24h following the initiation of sedation. Using latent class analysis, we reported two sub-phenotypes, supporting the fact that brainstem dysfunction was robustly associated with increased 28 days-mortality. As a consequence, we designed a new clinical score: the “Brainstem Responses Assessment Sedation Score” (BRASS), to help identify this brainstem dysfunction in the clinical practice.
+Brain dysfunction (confusion, delirium, coma) is frequently observed in critically ill patients and has been associated with an increased mortality. Despite sedation, neurological assessment may help improve our understanding of the role of brainstem dysfunction in this increased mortality.
+In this multicenter prospective study, we explored the brainstem responses of deeply sedated critically ill patients during the first 24h following the initiation of sedation. Using latent class analysis, we reported two sub-phenotypes (or syndromes), supporting the fact that brainstem dysfunction was robustly associated with increased 28 days-mortality.
+We then designed a new score: the “Brainstem Responses Assessment Sedation Score” (BRASS), to help quantifying this brainstem dysfunction in the clinical practice.
 
 
 ---
