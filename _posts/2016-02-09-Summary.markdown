@@ -6,9 +6,9 @@ tags: [AboutMe]
 ---
 Hello,
 
-I am a French Neurologist, Intensivist & Neuroscientist (M.D., Ph.D.). My research aims at exploring **Brain Dysfunction** in Intensive Care Unit (ICU) patients and developing cutting edge tools to improve assessment & treatment of severely brain injured patients suffering from **Disorder of Consciousness**.
+I am a French Neurologist, Intensivist & Neuroscientist (M.D., Ph.D.). My research aims at exploring **Brain Dysfunction** in Intensive Care Unit (ICU) and developing tools to improve assessment & treatment of severely brain injured patients suffering from **Disorder of Consciousness**.
 
-Indeed, advances in modern intensive care medicine have led to an increase in the number of patients who survive critical illness. For these patients, **the impact of brain injuries on consciousness, cognitive disability and more generally on quality of life can be highly significant.** To make well-grounded medical decisions, caregivers need accurate diagnosis and prognostic tools.
+Advances in modern intensive care medicine have led to an increase in the number of patients who survive critical illness. For these patients, **the impact of brain injuries on consciousness, cognitive disability and more generally on quality of life can be highly significant.** To make well-grounded medical decisions, caregivers need accurate diagnosis and prognostic tools.
 
 Since 2008, I have been working in the mixed clinical & research team led by **Prof Lionel Naccache** at La Pitié-Salpêtrière Hospital in Paris, which is dedicated to the exploration of Consciousness Disorders. We could developed new approaches to explore cognitive abilities in such patients. For instance, we have already explored several electrophysiological markers such as deviant stimuli detection ([1](http://dx.doi.org/10.1073/pnas.0809667106), [2](http://dx.doi.org/10.1212/WNL.0b013e3182217ee8), [3](http://dx.doi.org/10.1016/j.neuropsychologia.2011.12.015)), semantic processing ([4](http://dx.doi.org/10.1016/j.neuropsychologia.2014.10.014)) or, more recently, functional connectivity using a new measure called wSMI (for weighted Symbolic Mutual Information, [5](http://dx.doi.org/10.1016/j.cub.2013.07.075)) and a multimodal approach using machine learning ([6](https://doi.org/10.1093/brain/awu141)).
 
