@@ -5,7 +5,7 @@ categories: [Publi]
 tags: [Disorders of Consciousness, Locked in Syndrome, ICU, MyPublications]
 ---
 
-Our paper entitled **"Probing consciousness in a sensory-disconnected paralyzed patient"**, showing how advanced EEG methods can help clinicians to probe consciousness in an extreme case (named *"Deafferented Locked-in Syndrome"*) is available online in [*Brain Injury*](http://www.tandfonline.com/eprint/MyfqFbsr6UeQyMpYK6A7/full)
+Our paper entitled **"Probing consciousness in a sensory-disconnected paralyzed patient"**, showing how advanced EEG methods can help clinicians to probe consciousness in an extreme case - named *"Deafferented Locked-in Syndrome"* - is available online in [*Brain Injury*](http://www.tandfonline.com/eprint/MyfqFbsr6UeQyMpYK6A7/full)
 
 ---
 ![Fig-1]({{ site.url }}/images/Brain_injury/Figure_1.tiff)
