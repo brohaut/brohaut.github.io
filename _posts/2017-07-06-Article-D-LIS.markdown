@@ -8,7 +8,7 @@ tags: [Disorders of Consciousness, Locked in Syndrome, ICU, MyPublications]
 Our paper entitled **"Probing consciousness in a sensory-disconnected paralyzed patient"**, showing how advanced EEG methods can help clinicians to probe consciousness in an extreme case, - named *"Deafferented Locked-in Syndrome"*, - is available online in [*Brain Injury*](http://www.tandfonline.com/eprint/MyfqFbsr6UeQyMpYK6A7/full)
 
 ---
-![Fig-1]({{ site.url }}/images/Brain_injury/Figure_1.tiff)
+![Fig-1]({{ site.url }}/images/Brain_injury/Figure_1.jpg)
 ***Figure 1. MRI in sagittal T1-weigthed (A) and axial T2-weighted acquisitions (B, C).***
 There is a localized ischemic lesion at the upper part of the medulla oblongata and lower part of the pons, including the cortico spinal tracks and nuclei of the VIIIth nerves. Bilateral filling of the mastoids and middle ears and small ischemic infarction of the right cerebellar hemisphere are also present.
 
