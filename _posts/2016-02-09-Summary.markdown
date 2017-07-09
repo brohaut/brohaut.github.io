@@ -18,7 +18,7 @@ During my PhD at the Sorbonne University / Brain & Spine Institute (ICM) – Par
 
 
 
-### My **Resumé** is available [here]({{ site.url }}/images/Benjamin_Rohaut.pdf)
+### My **Resumé** is available [here]({{ site.url }}/images/CV_Rohaut.pdf)
 ### [ORCID] (1-6752-8756), [Publon] (1235063)
 ###  List of selected articles available [here]({{ site.url }}/2017/Article-All/)
 ### Complete list of publication available on [Google Scholar], [Researchgate] or [Pubmed]
