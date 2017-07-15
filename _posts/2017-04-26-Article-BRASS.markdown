@@ -2,7 +2,7 @@
 title:  "A new score using Brainstem Reflexes predicts mortality in ICU patients receiving a deep sedation"
 date:   2017-04-25 15:04:23
 categories: [Publi]
-tags: [Brainstem dysfunction, ICU, Sedation, MyPublications]
+tags: [Brain dysfunction in ICU, ICU, Sedation, MyPublications]
 ---
 
 Our paper entitled **"Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality"** about Brainstem dysfunction in Intensive Care Unit (ICU) sedated patients is available in [*PLOS ONE*](https://doi.org/10.1371/journal.pone.0176012) (open access).

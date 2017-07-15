@@ -13,6 +13,8 @@ Style Vancouvert
 {:/comment}
 
 ### Neuroscience of Consciousness, Disorders of consciousness:
+- Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt JD, Naccache L. **Probing
+consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Jun;28:1-6. (post about this publication [here]({{ site.url }}/2017/Article-D-LIS/))
 
 - Rohaut B, Alario F-X, Meadow J, Cohen L, Naccache L. **Unconscious semantic processing of polysemous words is not automatic.** [Neurosci Conscious](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010. (post about this publication [here]({{ site.url }}/2017/Article-Polysemy/))
 
@@ -30,6 +32,10 @@ Style Vancouvert
 
 
 ### Assessment of brain dysfunction in critically ill patients:
+
+- Azabou E, Rohaut B, Heming N, Magalhaes E, Morizot-Koutlidis R, Kandelman S, et al. **Early impairment of intracranial conduction time predicts
+mortality in deeply sedated critically ill patients: a prospective observational
+pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 2017 Dec;7(1):63.
 
 - Rohaut B, Porcher R, Hissem T, Heming N, Chillet P, Djedaini K, et al. **Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality.** [PLOS ONE](https://doi.org/10.1371/journal.pone.0176012). 2017 Apr 25;12(4): e0176012. (post about this publication [here]({{ site.url }}/2017/Article-BRASS/))
 
