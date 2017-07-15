@@ -4,7 +4,6 @@ date:   2017-02-09 15:04:23
 categories: [Bio]
 tags: [AboutMe]
 ---
-Hello,
 
 I am a French Neurologist, Intensivist & Neuroscientist working at Columbia University, in the [Neuro-ICU research team](http://columbianeurology.org/research/divisions-and-programs/neurocritical-care) of the Neurological department lead by **Prof Jan Claassen**. My research aims at exploring [Brain Dysfunction]({{ site.url }}/tags/#Disorders%20of%20Consciousness) in Intensive Care Unit (ICU) and developing tools to improve assessment & treatment of severely brain-injured patients suffering from [Disorder of Consciousness]({{ site.url }}/tags/#Disorders%20of%20Consciousness).
 
