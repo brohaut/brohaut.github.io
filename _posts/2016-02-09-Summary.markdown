@@ -19,7 +19,7 @@ I now focus my research on ICU brain-injured patients, trying to improve assessm
 
 
 ### My **Résumé** is available [here]({{ site.url }}/images/Résumé_Rohaut.pdf)
-### <a href="https://orcid.org/0000-0001-6752-8756" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6752-8756</a>
+
 ### [Publon] (1235063)
 ### List of selected articles available [here]({{ site.url }}/2017/Article-All/)
 ### Complete list of publication available on [Google Scholar], [Researchgate] or [Pubmed]
