@@ -1210,7 +1210,7 @@ hr {
 	width: 100%;
 	max-width: none;
 	height: 100%;
-	background: url(../images/background-AST_3183.jpg) top left no-repeat #666666;
+	background: url(../images/AST_3183.jpg) top left no-repeat #666666;
 	background-size: cover; }
 
 .panel-cover--collapsed {
@@ -1679,4 +1679,4 @@ input[type="tel"] {
 
 	.btn, .navigation__item a {
 		display: block;
-		margin-bottom: .4em; } }
+margin-bottom: .4em; } }
