@@ -45,8 +45,6 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 ## Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 
 
-
-
 [Google Scholar]: https://scholar.google.fr/citations?hl=fr&user=jgHpg1oAAAAJ&view_op=list_works&sortby=pubdate
 [Researchgate]:https://www.researchgate.net/profile/Benjamin_Rohaut
 [Pubmed]:https://www.ncbi.nlm.nih.gov/pubmed/?term=Rohaut+B%5BAuthor%5D
