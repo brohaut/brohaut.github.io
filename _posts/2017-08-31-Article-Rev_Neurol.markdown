@@ -10,6 +10,10 @@ We show that in both cases, conscious access to the corresponding representation
 
 Link toward the online version on [*Revue Neurologique*](http://dx.doi.org/10.1016/j.neurol.2017.08.001).
 
+![Rev_Neurol]({{ site.url }}/images/Rev_Neurol/Rev_Neurol.gif)
+
+and pre-print available [here]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)
+
 ---
 ![Fig-1]({{ site.url }}/images/Rev_Neurol/Fig1.png)
 
@@ -24,5 +28,3 @@ Link toward the online version on [*Revue Neurologique*](http://dx.doi.org/10.10
 ---
 
 **Reference:** Rohaut B & Naccache L. (2017). *Disentangling conscious from unconscious cognitive processing with event-related EEG potentials*. Revue Neurologique.  [DOI: 10.1016/j.neurol.2017.08.001 ](http://dx.doi.org/10.1016/j.neurol.2017.08.001).
-
-![Rev_Neurol]({{ site.url }}/images/Rev_Neurol/Rev_Neurol.gif)

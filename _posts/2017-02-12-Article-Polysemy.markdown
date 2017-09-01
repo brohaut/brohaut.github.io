@@ -7,6 +7,8 @@ tags: [Consciousness, Semantic,  MyPublications]
 
 Our paper entitled **"Unconscious semantic processing of polysemous words is not automatic"** about processing of subliminal polysemous (or ambiguous) words like "BANK", "PALM" ect ... is available online in [*Neuroscience of Consciousness*](https://doi.org/10.1093/nc/niw010) (open access).
 
+![NCONS]({{ site.url }}/images/Logo_nconsc.png)
+
 See also the [INSERM press release], the article in [Le Figaro] newspaper (Fr) and the ["Votre santé m'interesse "TV show] (Fr)
 
 #### Experimental Paradigm:
@@ -16,7 +18,6 @@ See also the [INSERM press release], the article in [Le Figaro] newspaper (Fr) a
 
 **Reference:** Rohaut B, Alario F-X, Meadow J, Cohen L, & Naccache L. (2016). *Unconscious semantic processing of polysemous words is not automatic.* Neuroscience of Consciousness, 2016, niw010. [[Download PDF]]
 
-![NCONS]({{ site.url }}/images/Logo_nconsc.png)
 
 [INSERM press release]: http://presse.inserm.fr/en/unconscious-processing-operates-under-conscious-influence/24846/
 
