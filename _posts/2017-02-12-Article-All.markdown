@@ -14,7 +14,7 @@ Style Vancouvert (= Pubmed)
 
 {:/comment}
 
-### Neuroscience of Consciousness, Disorders of consciousness:
+### Neuroscience of Consciousness & Disorders of Consciousness:
 
 
 - Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](http://dx.doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug 23. (post about this publication [here]({{ site.url }}/2017/Article-Rev_Neurol/))
@@ -48,7 +48,7 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 - Sharshar T, Porcher R, Siami S, Rohaut B, Bailly-Salin J, Hopkinson NS, et al. **Brainstem responses can predict death and delirium in sedated patients in intensive care unit.** [Crit Care Med](http://dx.doi.org/10.1097/CCM.0b013e31821b843b). 2011 Aug;39(8):1960–7. (reprint available [here]({{ site.url }}/images/Sharshar et al. - Critical Care Medicine - 2011.pdf))
 
 
-## Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
+## Complete list available on [Google Scholar], [Researchgate] & [Pubmed]
 
 
 [Google Scholar]: https://scholar.google.fr/citations?hl=fr&user=jgHpg1oAAAAJ&view_op=list_works&sortby=pubdate
