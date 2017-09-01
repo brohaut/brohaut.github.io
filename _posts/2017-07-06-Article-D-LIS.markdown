@@ -26,6 +26,6 @@ Scalp topographical 2D projection (top = front) of each measure [contingent nega
 
 ---
 
-**Reference:** Rohaut, B., Raimondo, F., Galanaud, D., Valente, M., Sitt, J.D., Naccache, L. (2017). *Probing consciousness in a sensory-disconnected paralyzed patient*. Brain Injury.  [http://dx.doi.org/10.1080/02699052.2017.1327673](http://dx.doi.org/10.1080/02699052.2017.1327673)
+**Reference:** Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt J.D, Naccache L. (2017). *Probing consciousness in a sensory-disconnected paralyzed patient*. Brain Injury.  [DOI: 10.1080/02699052.2017.1327673](http://dx.doi.org/10.1080/02699052.2017.1327673).
 
 ![Brain_Injury]({{ site.url }}/images/Brain_injury/Brain_Injury.jpeg)

@@ -9,10 +9,16 @@ Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 
 ## Selected publications:
 {::comment}
-Style Vancouvert
+
+Style Vancouvert (= Pubmed)
+
 {:/comment}
 
 ### Neuroscience of Consciousness, Disorders of consciousness:
+
+
+- Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](http://dx.doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug 23. (post about this publication [here]({{ site.url }}/2017/Article-Rev_Neurol/))
+
 - Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt JD, Naccache L. **Probing
 consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Jun;28:1-6. (post about this publication [here]({{ site.url }}/2017/Article-D-LIS/))
 
