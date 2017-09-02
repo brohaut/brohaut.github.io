@@ -5,9 +5,11 @@ categories: [Publi]
 tags: [Disorders of Consciousness, Locked in Syndrome, ICU, MyPublications]
 ---
 
-Our paper entitled **"Probing consciousness in a sensory-disconnected paralyzed patient"**, showing how advanced EEG methods can help clinicians to probe consciousness in an extreme case, - named *"Deafferented Locked-in Syndrome"*, - is available online in [*Brain Injury*](http://www.tandfonline.com/eprint/MyfqFbsr6UeQyMpYK6A7/full).
+Our paper entitled **"Probing consciousness in a sensory-disconnected paralyzed patient"**, showing how advanced EEG methods can help clinicians to probe consciousness in an extreme case, - named *"Deafferented Locked-in Syndrome"*, - is available online on [*Brain Injury*](http://www.tandfonline.com/eprint/MyfqFbsr6UeQyMpYK6A7/full).
 
 ![Brain_Injury]({{ site.url }}/images/Brain_injury/Brain_Injury.jpeg)
+
+free [**pre-print**]({{ site.url }}/images/Brain_injury/Brain_Injury_Pre-Print.pdf) available
 
 ---
 ![Fig-1]({{ site.url }}/images/Brain_injury/Figure_1.jpg)
@@ -28,4 +30,4 @@ Scalp topographical 2D projection (top = front) of each measure [contingent nega
 
 ---
 
-**Reference:** Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt J.D, Naccache L. (2017). *Probing consciousness in a sensory-disconnected paralyzed patient*. Brain Injury.  [DOI: 10.1080/02699052.2017.1327673](http://dx.doi.org/10.1080/02699052.2017.1327673).
+**Reference:** Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt J.D, Naccache L. (2017). *Probing consciousness in a sensory-disconnected paralyzed patient*. Brain Injury.  [DOI: 10.1080/02699052.2017.1327673](http://dx.doi.org/10.1080/02699052.2017.1327673) ([free preprint]({{ site.url }}/images/Brain_injury/Brain_Injury_Pre-Print.pdf)).
