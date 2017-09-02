@@ -6,7 +6,7 @@ tags: [Consciousness, Semantic, Disorders of Consciousness, MyPublications]
 ---
 
 In this paper we present the respective EEG markers of unconscious and conscious processing of two classes of auditory stimuli (sounds and words).
-We show that in both cases, conscious access to the corresponding representation (e.g.: auditory regularity and verbal semantic content) share a similar neural signature (P3b and P600/LPC) that can be distinguished from unconscious processing occurring during an earlier stage (MMN and N400). We propose a two-stage serial model of processing and discuss how unconscious and conscious signatures can be measured at bedside providing relevant informations for both diagnosis and prognosis of consciousness recovery.
+We show that in both cases, conscious access to the corresponding representation (e.g.: auditory regularity and verbal semantic content) shares a similar neural signature (P3b and P600/LPC) that can be distinguished from unconscious processing occurring during an earlier stage (MMN and N400). We propose a two-stage serial model of processing and discuss how unconscious and conscious signatures can be measured at bedside providing relevant informations for both diagnosis and prognosis of consciousness recovery.
 
 Link toward the online version on [*Revue Neurologique*](http://dx.doi.org/10.1016/j.neurol.2017.08.001).
 
