@@ -18,6 +18,10 @@ We then designed a new score: the “Brainstem Responses Assessment Sedation Sco
 
 **Reference:** Rohaut B, Porcher R, Hissem T, Heming N, Chillet P, Djedaini K, et al. (2017) *Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality.* PLOS ONE 12(4): e0176012. [https://doi.org/10.1371/journal.pone.0176012](https://doi.org/10.1371/journal.pone.0176012)
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1371/journal.pone.0176012" data-hide-less-than="3" class="altmetric-embed"></div>
+
+---
 
 **Supplement:** Brainstem Assessmement Sedation Score **Form** is available [in PDF here]({{ site.url }}/images/BRASS_Form_site.pdf)
 ![sample]({{ site.url }}/images/BRASS_Form_site.png)

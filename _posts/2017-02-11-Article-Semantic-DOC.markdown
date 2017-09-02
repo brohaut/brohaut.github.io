@@ -11,7 +11,10 @@ Our paper entitled **"Probing ERP correlates of verbal semantic processing in pa
 
 **Reference:** Rohaut, B., Faugeras, F., Chausson, N., King, J.-R., Karoui, I. E., Cohen, L., & Naccache, L. (2015). *Probing ERP correlates of verbal semantic processing in patients with impaired consciousness*. Neuropsychologia, 66, 279–292.
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 ![logo_NPY]({{ site.url }}/images/NPY.gif)
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1016/j.neuropsychologia.2014.10.014" data-hide-less-than="3" class="altmetric-embed"></div>
 
 
 [here]:{{ site.url }}/images/Rohaut et al. - Neuropsychologia - 2014.pdf
