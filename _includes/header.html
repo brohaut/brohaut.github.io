@@ -20,34 +20,33 @@
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="link to {{ site.title }} blog" class="blog-button">Blog</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/about" title="link to my Résumé" class="blog-button">About</a></li>
             </ul>
           </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/contact" title="link to my Contact" class="blog-button">Contact</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/publis" title="link to my Publications" class="blog-button">Publis</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="link to my Blog" class="blog-button">Blog</a></li>
+            </ul>
+          </nav>
+
 
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
 
-          {% if site.author.scholar_username %}
-              <!-- scholar -->
-              <li class="navigation__item">
-                <a href="https://scholar.google.fr/citations?user=jgHpg1oAAAAJ&hl=fr" title="Google Scholar" target="_blank">
-                  <i class="icon icon-graph-bar"></i>
-                  <span class="label">Scholar</span>
-                </a>
-              </li>
-            {% endif %}
-
-               {% if site.author.researchgate_username %}
-              <!-- researchgate -->
-              <li class="navigation__item">
-                <a href="https://www.researchgate.net/profile/Benjamin_Rohaut" title="Researchgate" target="_blank">
-                  <i class="icon icon-list-bullet"></i>
-                  <span class="label">Researchgate</span>
-                </a>
-              </li>
-            {% endif %}
-
-
+          
             {% if site.author.facebook_username %}
               <!-- Facebook -->
               <li class="navigation__item">
