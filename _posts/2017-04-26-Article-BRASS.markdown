@@ -27,7 +27,8 @@ We then designed a new score: the “Brainstem Responses Assessment Sedation Sco
 <script type="text/javascript" src="//www.redditstatic.com/button/button3.js"></script>
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0176012" data-hide-less-than="3" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type='bar' class="altmetric-embed"
+data-doi="10.1371/journal.pone.0176012"></div>
 
 
 ---

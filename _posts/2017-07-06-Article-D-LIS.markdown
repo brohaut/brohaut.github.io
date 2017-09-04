@@ -39,6 +39,5 @@ Scalp topographical 2D projection (top = front) of each measure [contingent nega
 </script>
 <script type="text/javascript" src="//www.redditstatic.com/button/button3.js"></script>
 
-
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/02699052.2017.1327673" data-hide-less-than="3" class="altmetric-embed"></div>
+<div class='altmetric-embed' data-badge-type='bar' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1327673'></div>
