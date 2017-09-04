@@ -23,7 +23,7 @@ Style Vancouvert (= Pubmed)
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1016/j.neurol.2017.08.001'></div>
 
 - Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt JD, Naccache L. **Probing
-consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Jun;28:1-6. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [free preprint]({{ site.url }}/images/Brain_injury/Brain_Injury_Pre-Print.pdf)).
+consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Jun;28:1-6. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [free preprint]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1327673'></div>
 
 - Rohaut B, Alario F-X, Meadow J, Cohen L, Naccache L. **Unconscious semantic processing of polysemous words is not automatic.** [Neurosci Conscious](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010. ([post]({{ site.url }}/2017/Article-Polysemy/) about this publication).

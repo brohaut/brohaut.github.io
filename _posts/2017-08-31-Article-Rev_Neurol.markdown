@@ -29,6 +29,12 @@ free [**Preprint**]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)
 
 **Reference:** Rohaut B & Naccache L. (2017). *Disentangling conscious from unconscious cognitive processing with event-related EEG potentials*. Revue Neurologique.  [DOI: 10.1016/j.neurol.2017.08.001 ](http://dx.doi.org/10.1016/j.neurol.2017.08.001) ([free preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)).
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script type="text/javascript">
+  reddit_url = "http://www.em-consulte.com/article/1136929/figures/disentangling-conscious-from-unconscious-cognitive";
+  reddit_title = "Disentangling conscious from unconscious cognitive processing with event-related EEG potentials";
+  reddit_newwindow='1';
+</script>
+<script type="text/javascript" src="//www.redditstatic.com/button/button3.js"></script>
 
-<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1016/j.neurol.2017.08.001" class="altmetric-embed"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.neurol.2017.08.001" class="altmetric-embed"></div>

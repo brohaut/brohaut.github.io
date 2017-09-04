@@ -24,6 +24,13 @@ See also the [INSERM press release], the article in [Le Figaro] newspaper (Fr) a
 [Le Figaro]: http://sante.lefigaro.fr/actualite/2016/09/19/25411-inconscient-sous-influence-consciente
 ["Votre santé m'interesse "TV show]: http://bfmbusiness.bfmtv.com/mediaplayer/video/comment-fonctionnent-l-inconscient-et-le-conscient-dans-le-cerveau-24-09-870457.html
 [download PDF]:https://academic.oup.com/nc/article-pdf/2016/1/niw010/8739908/niw010.pdf
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1093/nc/niw010" data-hide-less-than="3" class="altmetric-embed"></div>
+<script type="text/javascript">
+  reddit_url = "http://nc.oxfordjournals.org/content/2016/1/niw010";
+  reddit_title = "Unconscious semantic processing of polysemous words is not automatic";
+  reddit_newwindow='1';
+</script>
+<script type="text/javascript" src="//www.redditstatic.com/button/button3.js"></script>
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/nc/niw010" data-hide-less-than="3" class="altmetric-embed"></div>

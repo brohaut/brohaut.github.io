@@ -9,7 +9,7 @@ Our paper entitled **"Probing consciousness in a sensory-disconnected paralyzed 
 
 ![Brain_Injury]({{ site.url }}/images/Brain_injury/Brain_Injury.jpeg)
 
-free [**pre-print**]({{ site.url }}/images/Brain_injury/Brain_Injury_Pre-Print.pdf) available
+free [**pre-print**]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf) available
 
 ---
 ![Fig-1]({{ site.url }}/images/Brain_injury/Figure_1.jpg)
@@ -30,7 +30,15 @@ Scalp topographical 2D projection (top = front) of each measure [contingent nega
 
 ---
 
-**Reference:** Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt J.D, Naccache L. (2017). *Probing consciousness in a sensory-disconnected paralyzed patient*. Brain Injury.  [DOI: 10.1080/02699052.2017.1327673](http://dx.doi.org/10.1080/02699052.2017.1327673) ([free preprint]({{ site.url }}/images/Brain_injury/Brain_Injury_Pre-Print.pdf)).
+**Reference:** Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt J.D, Naccache L. (2017). *Probing consciousness in a sensory-disconnected paralyzed patient*. Brain Injury.  [DOI: 10.1080/02699052.2017.1327673](http://dx.doi.org/10.1080/02699052.2017.1327673) ([free preprint]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf)).
+
+<script type="text/javascript">
+  reddit_url = "http://www.tandfonline.com/doi/full/10.1080/02699052.2017.1327673";
+  reddit_title = "Probing consciousness in a sensory-disconnected paralyzed patient";
+  reddit_newwindow='1';
+</script>
+<script type="text/javascript" src="//www.redditstatic.com/button/button3.js"></script>
+
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1080/02699052.2017.1327673" data-hide-less-than="3" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/02699052.2017.1327673" data-hide-less-than="3" class="altmetric-embed"></div>
