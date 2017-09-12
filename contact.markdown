@@ -11,7 +11,7 @@ permalink: contact
 Division of Critical Care & Hospitalist Neurology  
 Columbia University Medical Center  
 177 Fort Washington Avenue  
-Milstein 8 Center room 300  
+Milstein Building, 8GS-300  
 New York, NY 10032, USA    
 
 ---
