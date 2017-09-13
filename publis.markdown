@@ -21,7 +21,7 @@ Style Vancouvert (= Pubmed) 6 auteurs et.al
 - Raimondo F, Rohaut B, Demertzi A, Valente M, Engemann D, Salti M, et al. **Brain-heart interactions reveal consciousness in non-communicating patients**. [Annals of Neurology](http://dx.doi.org/10.1002/ana.25045). 2017 Sep 11.
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1002/ana.25045'></div>
 
-- Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](http://dx.doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug 23. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication; [free preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)).
+- Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://authors.elsevier.com/a/1Vj0582q-uB0k). 2017 Aug 23. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1016/j.neurol.2017.08.001'></div>
 
 - Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt J.D, Naccache L. **Probing

@@ -12,7 +12,9 @@ Link toward the online version on [*Revue Neurologique*](http://dx.doi.org/10.10
 
 ![Rev_Neurol]({{ site.url }}/images/Rev_Neurol/Rev_Neurol.gif)
 
-free [**Preprint**]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf) available
+(full temporary [pdf](https://authors.elsevier.com/a/1Vj0582q-uB0k))
+
+free [Preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf) available
 
 ---
 ![Fig-1]({{ site.url }}/images/Rev_Neurol/Fig1.png)
