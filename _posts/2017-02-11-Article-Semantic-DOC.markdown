@@ -22,6 +22,6 @@ Our paper entitled **"Probing ERP correlates of verbal semantic processing in pa
 
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-popover="right" data-badge-type='bar' data-doi="10.1016/j.neuropsychologia.2014.10.014" data-hide-less-than="3" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type='donut' data-doi="10.1016/j.neuropsychologia.2014.10.014" data-hide-less-than="3" class="altmetric-embed"></div>
 
 [here]:{{ site.url }}/images/Rohaut et al. - Neuropsychologia - 2014.pdf

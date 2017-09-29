@@ -18,7 +18,7 @@ Style Vancouvert (= Pubmed) 6 auteurs et.al
 
 ### Neuroscience of Consciousness & Disorders of Consciousness:
 
-- Raimondo F, Rohaut B, Demertzi A, Valente M, Engemann D, Salti M, et al. **Brain-heart interactions reveal consciousness in non-communicating patients**. [Annals of Neurology](http://dx.doi.org/10.1002/ana.25045). 2017 Sep 11.
+- Raimondo F, Rohaut B, Demertzi A, Valente M, Engemann D, Salti M, et al. **Brain-heart interactions reveal consciousness in non-communicating patients**. [Annals of Neurology](http://dx.doi.org/10.1002/ana.25045). 2017 Sep 11. ([post]({{ site.url }}/2017/Article-Brain_heart/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1002/ana.25045'></div>
 
 - Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://authors.elsevier.com/a/1Vj0582q-uB0k). 2017 Aug 23. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication).

@@ -39,4 +39,4 @@ free [Preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf) ava
 <script type="text/javascript" src="//www.redditstatic.com/button/button3.js"></script>
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-popover="right" class='altmetric-embed' data-badge-type='bar' data-hide-less-than='1' data-doi="10.1016/j.neurol.2017.08.001"></div>
+<div data-badge-popover="right" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="3" data-doi="10.1016/j.neurol.2017.08.001"></div>

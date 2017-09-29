@@ -33,5 +33,5 @@ See also the [INSERM press release], the article in [Le Figaro] newspaper (Fr) a
 <script type="text/javascript" src="//www.redditstatic.com/button/button3.js"></script>
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-popover="right" class="altmetric-embed" data-badge-type='bar'
+<div data-badge-popover="right" class="altmetric-embed" data-badge-type='donut'
 data-doi="10.1093/nc/niw010"></div>
