@@ -1,9 +1,13 @@
 ---
 title:  "Media"
-date:   2017-03-16 1:03:23
+date:   2017-09-28 1:03:23
 categories: [Publi]
 tags:  [Consciousness, Disorders of Consciousness, Locked in Syndrome, AboutMe]
 ---
+
+
+**Stimulation du nerf vague dans les états altérés de conscience.**
+Interview pour [Le Figaro](http://sante.lefigaro.fr/article/apres-15-ans-d-etat-vegetatif-un-patient-recouvre-une-forme-de-conscience-/) et [Europe1](http://www.europe1.fr/emissions/europe-1-midi2/europe-midi-maxime-switek-260917-3446702) au sujet de la communication de l'équipe d'Angela Sirigu dans [*Current Biology*](http://www.cell.com/current-biology/fulltext/S0960-9822(17)30964-8) rapportant une discrète amélioration de l'état de conscience d'un malade (suivi du regard, réponse à des ordres simple, réactions émotionelles) apres stimulation électrique du nerf vague (Sept 2017).
 
 **Insolite: un cerveau actif 10 minutes après l'arrêt cardiaque ?**
 Interview pour [Science & Avenir](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/insolite-un-cerveau-actif-10-minutes-apres-l-arret-cardiaque_111243) au sujet d'un article de l'équipe de Bryan Young publié dans le [*Canadian Journal of Neurological Sciences*](https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/div-classtitleelectroencephalographic-recordings-during-withdrawal-of-life-sustaining-therapy-until-30-minutes-after-declaration-of-deathdiv/11F9C14102AECB3D579C7DB879D6BB66) (Mars 2017).
