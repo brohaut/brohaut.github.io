@@ -1,5 +1,5 @@
 ---
-title:  "Better definition of the state of consciousness by measuring brain –heart interactions ?"
+title:  "Better definition of the state of consciousness when measuring brain –heart interactions ?"
 date:   2017-09-29 00:00:00
 categories: [Publi]
 tags: [Disorders of Consciousness, Consciousness, MyPublications]
