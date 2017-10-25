@@ -23,7 +23,9 @@ Link toward the online version on [*Annals of Neurology*](http://dx.doi.org/10.1
 
 ![Annal_of_Neurol]({{ site.url }}/images/AnnalsOfNeurol.gif)
 
-[**ICM** press release](https://icm-institute.org/en/actualite/better-definition-of-the-state-of-consciousness-by-measuring-brain-heart-interactions/)
+#### Press releases
+* **ICM:**  [English](https://icm-institute.org/en/actualite/better-definition-of-the-state-of-consciousness-by-measuring-brain-heart-interactions/)/[French](https://icm-institute.org/fr/actualite/mieux-determiner-letat-de-conscience-evaluant-linteraction-entre-coeur-cerveau/)  
+* **Inserm:** [English](http://presse.inserm.fr/en/interaction-between-brain-and-heart-may-be-new-indicator-of-state-of-consciousness/29814/)/[French](http://presse.inserm.fr/interaction-entre-coeur-et-cerveau-un-nouvel-indicateur-de-letat-de-conscience/29814/)
 
 
 ---
