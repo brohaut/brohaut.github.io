@@ -6,6 +6,13 @@ permalink: media
 Communications grand public / interviews:
 
 ___
+
+### Interaction entre cœur et cerveau: un nouvel indicateur de l’état de conscience
+Interview pour [Le Figaro](http://sante.lefigaro.fr/article/etat-vegetatif-l-activite-du-coeur-reflete-l-etat-de-conscience/) et  au sujet de notre article publié dans [*Annals of Neurology*](http://onlinelibrary.wiley.com/doi/10.1002/ana.25045/full) (Oct 2017, voir aussi [post]({{ site.url }}/2017/Article-Brain_Heart/) sur cette publication).
+
+### Stimulation du nerf vague dans les états altérés de conscience.
+Interview pour [Le Figaro](http://sante.lefigaro.fr/article/apres-15-ans-d-etat-vegetatif-un-patient-recouvre-une-forme-de-conscience-/) et [Europe1](http://www.europe1.fr/emissions/europe-1-midi2/europe-midi-maxime-switek-260917-3446702) au sujet de la communication de l'équipe d'Angela Sirigu dans [*Current Biology*](http://www.cell.com/current-biology/fulltext/S0960-9822(17)30964-8) rapportant une discrète amélioration de l'état de conscience d'un malade (suivi du regard, réponse à des ordres simple, réactions émotionelles) apres stimulation électrique du nerf vague (Sept 2017).
+
 ### Insolite: un cerveau actif 10 minutes après l'arrêt cardiaque ?
 Interview pour [Science & Avenir](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/insolite-un-cerveau-actif-10-minutes-apres-l-arret-cardiaque_111243) au sujet d'un article de l'équipe de Bryan Young publié dans le [*Canadian Journal of Neurological Sciences*](https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/div-classtitleelectroencephalographic-recordings-during-withdrawal-of-life-sustaining-therapy-until-30-minutes-after-declaration-of-deathdiv/11F9C14102AECB3D579C7DB879D6BB66) (Mars 2017).
 
@@ -13,7 +20,7 @@ Interview pour [Science & Avenir](https://www.sciencesetavenir.fr/sante/cerveau-
  Interview pour [Science & Avenir](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/des-chercheurs-communiquent-avec-des-patients-atteints-de-la-maladie-de-charcot-et-totalement-paralyses_110426) au sujet d'un article de l'équipe de Niels Birbaumer utilisant une interface cerveau-machine publié dans [*Plos Biology*](http://dx.doi.org/10.1371/journal.pbio.1002593) (Février 2017).
 
 ### Un inconscient sous influence consciente:
- Article dans [Le Figaro] et interview sur [BFM] au sujet de notre article dans [*Neuroscience of Consciousness*]({{ site.url }}/2017/Article-Polysemy/) (Septembre 2016).
+ Article dans [Le Figaro] et interview sur [BFM] au sujet de notre article publié dans [*Neuroscience of Consciousness*]({{ site.url }}/2017/Article-Polysemy/) (Septembre 2016,voir aussi [post]({{ site.url }}/2017/Article-Polysemy/) sur cette publication)).
 
 ### Les pouvoirs du cerveau: "Déchiffrer la conscience, voyage dans l'étoffe de nos pensées":  
 Participation au documentaire de Cécile Denjean ([ARTE], Avril 2016).

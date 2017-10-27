@@ -23,10 +23,17 @@ Link toward the online version on [*Annals of Neurology*](http://dx.doi.org/10.1
 
 ![Annal_of_Neurol]({{ site.url }}/images/AnnalsOfNeurol.gif)
 
-#### Press releases
-* **ICM:**  [English](https://icm-institute.org/en/actualite/better-definition-of-the-state-of-consciousness-by-measuring-brain-heart-interactions/)/[French](https://icm-institute.org/fr/actualite/mieux-determiner-letat-de-conscience-evaluant-linteraction-entre-coeur-cerveau/)  
-* **Inserm:** [English](http://presse.inserm.fr/en/interaction-between-brain-and-heart-may-be-new-indicator-of-state-of-consciousness/29814/)/[French](http://presse.inserm.fr/interaction-entre-coeur-et-cerveau-un-nouvel-indicateur-de-letat-de-conscience/29814/)
 
+#### Press papers (in french)
+* [Le Figaro](http://sante.lefigaro.fr/article/etat-vegetatif-l-activite-du-coeur-reflete-l-etat-de-conscience/)
+* [Science & Avenir](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/etat-vegetatif-quand-le-coeur-reflete-la-conscience_117717?xtor=RSS-16)
+* [Le Quotidien du Médecin](https://www.lequotidiendumedecin.fr/actualites/article/2017/10/24/etat-vegetatif-mesurer-le-rythme-cardiaque-en-reaction-un-stimulus-sonore-permet-devaluer-letat-de-conscience_851670)
+* [Top Santé](https://www.topsante.com/medecine/votre-sante-vous/fin-de-vie/coma-la-stimulation-sonore-pour-connaitre-l-etat-de-conscience-621892)
+* [Pourquoi Docteur?](https://www.pourquoidocteur.fr/Articles/Question-d-actu/23237-Coma-nouveau-test-mieux-evaluer-pronostic)
+
+#### Press releases (in english & french)
+* **English:** [Inserm](http://presse.inserm.fr/en/interaction-between-brain-and-heart-may-be-new-indicator-of-state-of-consciousness/29814/) / [ICM](https://icm-institute.org/en/actualite/better-definition-of-the-state-of-consciousness-by-measuring-brain-heart-interactions/)
+* **French:**[ Inserm](http://presse.inserm.fr/interaction-entre-coeur-et-cerveau-un-nouvel-indicateur-de-letat-de-conscience/29814/) / [ICM](https://icm-institute.org/fr/actualite/mieux-determiner-letat-de-conscience-evaluant-linteraction-entre-coeur-cerveau/)  
 
 ---
 
