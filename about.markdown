@@ -57,3 +57,5 @@ I now focus my research on ICU brain-injured patients, trying to improve assessm
 10. Azabou E, Rohaut B, Heming N, et al. **Early impairment of intracranial conduction time predicts mortality in deeply sedated critically ill patients: a prospective observational pilot study.** [Ann Intensive Care]((http://dx.doi.org/10.1080/02699052.2017.1327673)). 2017;7(1):63.
 
 11. Rohaut B, Alario F-X, Meadow J, Cohen L, Naccache L. **Unconscious semantic processing of polysemous words is not automatic.** [Neurosci Conscious](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010. (post about this publication [here]({{ site.url }}/2017/Article-Polysemy/))
+
+#### List of main [publications]({{ site.url }}/publis)
