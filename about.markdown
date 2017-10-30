@@ -4,7 +4,7 @@ permalink: about
 ---
 
 Hi, welcome to my page! I am a French Neurologist working at Columbia University in the [Neuro-ICU research team](http://columbianeurology.org/research/divisions-and-programs/neurocritical-care) of the Neurological department lead by Prof Jan Claassen.  
-My research aims at exploring [Brain Dysfunction]({{ site.url }}/tags/#Brain%20dysfunction%20in%20ICU) in Intensive Care Unit (ICU) and developing tools to improve assessment & treatment of severely brain-injured patients suffering from [Disorder of Consciousness]({{ site.url }}/tags/#Disorders%20of%20Consciousness).
+My research aims at exploring [Brain Dysfunction]({{ site.url }}/tags/#Brain%20dysfunction%20in%20ICU) in the Intensive Care Unit (ICU) and developing tools to improve assessment & treatment of severely brain-injured patients suffering from [Disorder of Consciousness]({{ site.url }}/tags/#Disorders%20of%20Consciousness).
 
 Advances in modern intensive care medicine have led to an increase in the number of patients who survive critical illness. For these patients, the impact of brain injuries on consciousness, cognitive disability and more generally on quality of life can be highly significant.  
 As we better understand consciousness, new cutting edge brain stimulation technics, which could help awakening some unconscious patients, now become reality. To make well-grounded medical decisions, we need accurate diagnosis and prognostic tools.
@@ -15,7 +15,7 @@ Through the “GENER” (*Groupe d’Exploration Neurologique en Réanimation*) 
 
 During my Ph.D. at the [UPMC-Sorbonne University](http://www.upmc.fr/en/index.html) / [Brain & Spine Institute](http://icm-institute.org/en/team/team-bartolomeo-cohen-naccache/) – Paris, I have explored with Lionel Naccache the Relations between Language & Consciousness both in brain injured patients and healthy volunteers (4, [thesis](https://tel.archives-ouvertes.fr/tel-01372200)). Trying to replicate a set of classical 30-year-old  results, we could finally reframe a well- established model of semantic unconscious processing (11, [post]({{ site.url }}/2017/Article-polysemy/)).
 
-I now focus my research on ICU brain-injured patients, trying to improve assessment & treatment of consciousness disorders.
+I now focus my research on ICU brain-injured patients, trying to improve assessment & treatment in consciousness disorders.
 
 ---
 ## Links:
