@@ -24,7 +24,7 @@ Style Vancouvert (= Pubmed) 6 auteurs et.al
 - Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://authors.elsevier.com/a/1Vj0582q-uB0k). 2017 Aug 23. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1016/j.neurol.2017.08.001'></div>
 
-- Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt J.D, Naccache L. **Probing
+- Rohaut B* , Raimondo F* , Galanaud D, Valente M, Sitt J.D, Naccache L. **Probing
 consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Jun;28:1-6. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [free preprint]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1327673'></div>
 
@@ -34,10 +34,10 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 - Rohaut B, Faugeras F, Chausson N, King J-R, Karoui IE, Cohen L, et al. **Probing ERP correlates of verbal semantic processing in patients with impaired consciousness.** [Neuropsychologia](http://dx.doi.org/10.1016/j.neuropsychologia.2014.10.014). 2015 Jan;66:279–92. ([post]({{ site.url }}/2017/Article-Semantic-DOC/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3'  data-doi='10.1016/j.neuropsychologia.2014.10.014'></div>
 
-- Sitt J.D*, King J-R*, El Karoui I, Rohaut B, Faugeras F, Gramfort A, et al. **Large scale screening of neural signatures of consciousness in patients in a vegetative or minimally conscious state.** [Brain](https://doi.org/10.1093/brain/awu141). 2014 Aug;137(Pt 8):2258–70.
+- Sitt J.D* , King J-R* , El Karoui I, Rohaut B, Faugeras F, Gramfort A, et al. **Large scale screening of neural signatures of consciousness in patients in a vegetative or minimally conscious state.** [Brain](https://doi.org/10.1093/brain/awu141). 2014 Aug;137(Pt 8):2258–70.
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1093/brain/awu141'></div>
 
-- King J-R*, Sitt J.D*, Faugeras F, Rohaut B, El Karoui I, Cohen L, et al. **Information sharing in the brain indexes consciousness in noncommunicative patients.** [Curr Biol](http://dx.doi.org/10.1016/j.cub.2013.07.075). 2013 Oct 7;23(19):1914–9.
+- King J-R* , Sitt J.D* , Faugeras F, Rohaut B, El Karoui I, Cohen L, et al. **Information sharing in the brain indexes consciousness in noncommunicative patients.** [Curr Biol](http://dx.doi.org/10.1016/j.cub.2013.07.075). 2013 Oct 7;23(19):1914–9.
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/j.cub.2013.07.075'></div>
 
 - Faugeras F, Rohaut B, Weiss N, Bekinschtein T, Galanaud D, Puybasset L, et al.  **Event related potentials elicited by violations of auditory regularities in patients with impaired consciousness.** [Neuropsychologia](http://dx.doi.org/10.1016/j.neuropsychologia.2011.12.015). 2012 Feb;50(3):403–18.
@@ -49,7 +49,7 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 - Bekinschtein TA, Dehaene S, Rohaut B, Tadel F, Cohen L, Naccache L. **Neural signature of the conscious processing of auditory regularities.** [PNAS](http://dx.doi.org/10.1073/pnas.0809667106). 2009 Feb 3;106(5):1672–7.
     <div class='altmetric-embed'  data-hide-less-than='3' data-badge-popover='bottom' data-doi='10.1073/pnas.0809667106'></div>  
 
-(* : first co-author)
+(* : first co-authors)
 
 ### Assessment of brain dysfunction in critically ill patients:
 
