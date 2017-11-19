@@ -36,8 +36,8 @@ Participation à l'élaboration de la [page web](http://www.inserm.fr/thematique
 
 ___
 
-Mes principales [publications scientifiques]({{ site.url }}/publis).  
-Liste complete sur [Google Scholar], [Researchgate] ou [Pubmed]  
+#### Mes principales [publications scientifiques]({{ site.url }}/publis).  
+#### Liste complète sur [Google Scholar], [Researchgate] ou [Pubmed].
 
 [Le Figaro]:http://sante.lefigaro.fr/actualite/2016/09/19/25411-inconscient-sous-influence-consciente
 [BFM]: http://bfmbusiness.bfmtv.com/mediaplayer/video/comment-fonctionnent-l-inconscient-et-le-conscient-dans-le-cerveau-24-09-870457.html

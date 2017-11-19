@@ -6,7 +6,7 @@ permalink: publis
 
 
 ## Selected papers:
-(Complete list available on [Google Scholar], [Researchgate] or [Pubmed])
+Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 
 {::comment}
 
@@ -18,14 +18,14 @@ Style Vancouvert (= Pubmed) 6 auteurs et.al
 
 ### Neuroscience of Consciousness & Disorders of Consciousness:
 
-- Raimondo F, Rohaut B, Demertzi A, Valente M, Engemann D, Salti M, et al. **Brain-heart interactions reveal consciousness in non-communicating patients**. [Annals of Neurology](http://dx.doi.org/10.1002/ana.25045). 2017 Sep 11. ([post]({{ site.url }}/2017/Article-Brain_Heart/) about this publication).
+- Raimondo F, Rohaut B, Demertzi A, Valente M, Engemann D, Salti M, et al. **Brain-heart interactions reveal consciousness in non-communicating patients**. [Annals of Neurology](http://dx.doi.org/10.1002/ana.25045). 2017 Sep;82:578–91. ([post]({{ site.url }}/2017/Article-Brain_Heart/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1002/ana.25045'></div>
 
-- Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://authors.elsevier.com/a/1Vj0582q-uB0k). 2017 Aug 23. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication).
+- Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug;173:521-28. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1016/j.neurol.2017.08.001'></div>
 
 - Rohaut B* , Raimondo F* , Galanaud D, Valente M, Sitt J.D, Naccache L. **Probing
-consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Jun;28:1-6. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [free preprint]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf)).
+consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Aug;31:1398-1403. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [free preprint]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1327673'></div>
 
 - Rohaut B, Alario F-X, Meadow J, Cohen L, Naccache L. **Unconscious semantic processing of polysemous words is not automatic.** [Neurosci Conscious](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010. ([post]({{ site.url }}/2017/Article-Polysemy/) about this publication).
@@ -64,9 +64,9 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 - Sharshar T, Porcher R, Siami S, Rohaut B, Bailly-Salin J, Hopkinson NS, et al. **Brainstem responses can predict death and delirium in sedated patients in intensive care unit.** [Crit Care Med](http://dx.doi.org/10.1097/CCM.0b013e31821b843b). 2011 Aug;39(8):1960–7. (reprint available [here]({{ site.url }}/images/Sharshar et al. - Critical Care Medicine - 2011.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1097/CCM.0b013e31821b843b'></div>
 
-#### Complete liste on [Google Scholar], [Researchgate] or [Pubmed]
+### Complete liste on [Google Scholar], [Researchgate] or [Pubmed]
 
-#### [Media]({{ site.url }}/media) (en français)
+### [Media]({{ site.url }}/media)
 
 [Google Scholar]: https://scholar.google.fr/citations?hl=fr&user=jgHpg1oAAAAJ&view_op=list_works&sortby=pubdate
 [Researchgate]:https://www.researchgate.net/profile/Benjamin_Rohaut

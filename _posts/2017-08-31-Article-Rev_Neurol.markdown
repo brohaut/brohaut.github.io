@@ -11,7 +11,7 @@ We show that in both cases, conscious access to the corresponding representation
 
 We propose a two-stage serial model of processing and discuss how unconscious and conscious signatures can be measured at bedside providing relevant informations for both diagnosis and prognosis of consciousness recovery.
 
-Link toward the online version on [*Revue Neurologique*](http://dx.doi.org/10.1016/j.neurol.2017.08.001).
+Link toward the online version on [*Revue Neurologique*](https://doi.org/10.1016/j.neurol.2017.08.001).
 
 ![Rev_Neurol]({{ site.url }}/images/Rev_Neurol/Rev_Neurol.gif)
 
@@ -32,7 +32,8 @@ free [Preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf) ava
 
 ---
 
-**Reference:** Rohaut B & Naccache L. (2017). *Disentangling conscious from unconscious cognitive processing with event-related EEG potentials*. Revue Neurologique.  [DOI: 10.1016/j.neurol.2017.08.001 ](http://dx.doi.org/10.1016/j.neurol.2017.08.001) ([free preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)).
+**Reference:** Rohaut B & Naccache L. (2017). *Disentangling conscious from unconscious cognitive processing with event-related EEG potentials*. Revue Neurologique, 173, 521-28. [DOI: 10.1016/j.neurol.2017.08.001 ](http://dx.doi.org/10.1016/j.neurol.2017.08.001) ([free preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)).
+
 
 <script type="text/javascript">
   reddit_url = "http://www.em-consulte.com/article/1136929/figures/disentangling-conscious-from-unconscious-cognitive";
