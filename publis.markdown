@@ -16,7 +16,10 @@ Style Vancouvert (= Pubmed) 6 auteurs et.al
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-### Neuroscience of Consciousness & Disorders of Consciousness:
+### Neuroscience of Consciousness, Disorders of Consciousness:
+
+- Faugeras F, Rohaut B, Valente M, Sitt J.D, Demeret S, Bolgert F, et al. **Survival and consciousness recovery are better in the minimally conscious state than in the vegetative state**. [Brain Injury](http://www.tandfonline.com.gate2.inist.fr/doi/full/10.1080/02699052.2017.1364421). 2017, [(DOI: 10.1080/02699052.2017.1364421](https://doi.org/10.1080/02699052.2017.1364421). ([post]({{ site.url }}/2017/Article-MCS_Prognosis/) about this publication).
+    <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1364421'></div>
 
 - Raimondo F, Rohaut B, Demertzi A, Valente M, Engemann D, Salti M, et al. **Brain-heart interactions reveal consciousness in non-communicating patients**. [Annals of Neurology](http://dx.doi.org/10.1002/ana.25045). 2017 Sep;82:578–91. ([post]({{ site.url }}/2017/Article-Brain_Heart/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1002/ana.25045'></div>
