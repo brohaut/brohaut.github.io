@@ -17,10 +17,11 @@ Jennett and Bond proposed the first version of the Glasgow Outcome Scale in 1975
 | 2 | **Persistent vegetative state** | unresponsive and speechless   |
 | 1 | **Death**  |    |
 
-In most of the publication using th GOS, authors refer to a number instead of the name of a given category (e.g. "GOS 3" instead of "Sever disability"). However, because **the order of these categories varies across studies**, the reader should be very cautious when interpreting these numbers and always check carefully the used referential.
-In their first publication (1; but contrarily to second one (2)), Jennett & Bond ordered the 5 categories that way.
+In most of the publications, authors refer to a number instead of the name of a given category (e.g. "GOS 3" instead of "Sever disability"). However, because **the order of these categories varies across studies**, the reader should be very cautious when interpreting these numbers and always check carefully the used referential.  
 
-Latter, the same authors proposed to split the 3 better categories (sever disability to good recovery or, 3 to 5 here) in **lower & upper sub-categories**, giving the extended version of the scale (the GOS-E) which include 6 + 2 (death and VS) = 8 categories (2).
+In their first publication (1; but contrarily to the latter (2)), Jennett & Bond ordered the 5 categories that way.
+
+Latter, the same authors proposed to split the 3 better categories (sever disability to good recovery or, 3 to 5 here) in **Lower & Upper sub-categories**, giving the extended version of the scale (the GOS-E) which include 6 + 2 (death and VS) = 8 categories (2).
 
 ### **Glasgow Outcome Scale Extended GOS-E**
 
