@@ -1,0 +1,46 @@
+---
+title:  "The Glasgow Outcome Scale Extended (GOS-E)"
+date:   2017-11-22 00:00:00
+categories: [Post]
+tags: [Disorders of Consciousness]
+---
+
+Jennett and Bond proposed the first version of the Glasgow Outcome Scale in 1975, defining 5 categories of possible outcomes after a brain injury (1):  
+
+### **Glasgow Outcome Scale GOS**
+
+| Category number     |  Name           | Definition  |
+| :------|:-------------| :-----|
+| 5 | **Good recovery**  | resumption of normal life (minor neurological or psychological deficits)|
+| 4 | **Moderate disability**   | disabled but independent for daily life; work capacity is reduced|
+| 3 | **Sever disability**  | conscious but dependent for daily life; unable to travel or go shopping without assistance|
+| 2 | **Persistent vegetative state** | unresponsive and speechless   |
+| 1 | **Death**  |    |
+
+In most of the publication using th GOS, authors refer to a number instead of the name of a given category (e.g. "GOS 3" instead of "Sever disability"). However, because **the order of these categories varies across studies**, the reader should be very cautious when interpreting these numbers and always check carefully the used referential.
+In their first publication (1; but contrarily to second one (2)), Jennett & Bond ordered the 5 categories that way.
+
+Latter, the same authors proposed to split the 3 better categories (sever disability to good recovery or, 3 to 5 here) in **lower & upper sub-categories**, giving the extended version of the scale (the GOS-E) which include 6 + 2 (death and VS) = 8 categories (2).
+
+### **Glasgow Outcome Scale Extended GOS-E**
+
+| Category number**      |  Name           | Definition (see refs for more details)|
+| :------------- |:-------------| :-----|
+| 8 | **Good recovery** *Upper*   | no current problems related to the brain injury that affect daily life|
+| 7 | **Good recovery** *lower*   | minor problems that affect daily life; resumes >50% of the pre-injury level of social and leisure activities|
+| 6 | **Moderate disability**  *Upper* | reduced work capacity; resumes <50% of the pre-injury level of social and leisure activities|
+| 5 | **Moderate disability** *Lower*| unable to work or only in sheltered workshop|
+| 4 | **Sever disability** *Upper*  | can be left alone at > 8h during the day, but unable to travel and/or go shopping without assistance|
+| 3 | **Sever disability** *Lower* | requires frequent help of someone to be around at home most of the time every day|
+| 2 | **Persistent vegetative state** | unresponsive and speechless   |
+| 1 | **Death**  |    |
+
+** Here I voluntarily kept the same order as in the first table; note that most of recent publications use this order though, "the higher the number the better the outcome" but again, **the reader should always check carefully the used referential!**
+
+Further helpful documentation to assess the GOS-E is available on [www.tbi-impact.org](http://www.tbi-impact.org/cde/mod_templates/12_F_01_GOSE.pdf) and in ref 3 & 4 below.
+
+#### **References:**
+1. Jennett B, Bond M. Assessment of outcome after severe brain damage. Lancet. 1975 Mar 1;1(7905):480–4 ([doi](https://doi.org/10.1016/S0140-6736(75)92830-5)).
+2. Jennett B, Snoek J, Bond MR, Brooks N. Disability after severe head injury: observations on the use of the Glasgow Outcome Scale. J Neurol Neurosurg Psychiatry. 1981 Apr 1;44(4):285–93 ([doi](http://doi.org/10.1136/jnnp.44.4.285)).
+3. Wilson J t. L, Pettigrew LE l., Teasdale GM. Structured Interviews for the Glasgow Outcome Scale and the Extended Glasgow Outcome Scale: Guidelines for Their Use. Journal of Neurotrauma. 1998 Aug 1;15(8):573–85 ([doi](https://doi.org/10.1089/neu.1998.15.573)).
+4. Lu J, Marmarou A, Lapane K, Turf E, Wilson L, IMPACT Group, et al. A method for reducing misclassification in the extended Glasgow Outcome Score. J Neurotrauma. 2010 May;27(5):843–52 ([doi](https://doi.org/10.1089/neu.2010.1293)).

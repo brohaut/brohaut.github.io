@@ -16,7 +16,7 @@ All the tools that have been developed to determine consciousness until now, lik
 
 Can the rest of the body, however, contribute with extra information about the state of consciousness in noncommunicating patients? **YES**
 
-In this paper we show how the exploration of heart-brain interraction enable to improve consciousness assessment in patients.
+In this paper we show how the exploration of heart-brain interaction enable to improve consciousness assessment in patients.
 
 
 Link toward the online version on [*Annals of Neurology*](http://dx.doi.org/10.1002/ana.25045).

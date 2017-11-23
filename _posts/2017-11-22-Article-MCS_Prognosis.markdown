@@ -17,7 +17,7 @@ ___
 ![Fig-1]({{ site.url }}/images/MCS_prognosis/MCS_prog1.jpeg)
 
 ***Functional outcome in patients in the vegetative (VS/UWS) and the minimally conscious state (MCS).***   
-Histograms of vegetative state (aka Unresponsive Wakefulenss Syndrome - VS/UWS) and MCS outcomes evaluated with the [GOSE scale](http://jme.bmj.com/content/41/12/963?utm_source=TrendMD&utm_medium=cpc&utm_campaign=J_Med_Ethics_TrendMD-0).
+Histograms of vegetative state (aka Unresponsive Wakefulenss Syndrome - VS/UWS) and MCS outcomes evaluated with the [GOSE scale]({{ site.url }}/2017/Post_GOS-E/).
 Delay from acute brain injury and outcome was ~16 months.  
 GOSE = 4 corresponds to a patient with a severe disability but conscious and who can be left at least 8h during the day without assistance.
 
