@@ -24,8 +24,9 @@ I now focus my research on ICU brain-injured patients, trying to improve assessm
 * [Media]({{ site.url }}/media)
 * Reviewing activity on [Publon](https://publons.com/author/1235063/benjamin-rohaut#profile)
 * <a href="https://orcid.org/0000-0001-6752-8756" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6752-8756</a>   
-* <span id='badgeCont580764' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont580764&mashlet=badge&showTitle=false&className=a&rid=O-9250-2017&size=small'></script></span>esearcher**ID**
+* <span id='badgeCont2166' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont2166&mashlet=badge&showTitle=false&className=a&rid=O-9250-2017&size=small'></script></span> esearcher**ID**
 * Résumé in [PDF]({{ site.url }}/images/Résumé_B.Rohaut.pdf)  
+
 
 
 [Google Scholar]: https://scholar.google.fr/citations?hl=fr&user=jgHpg1oAAAAJ&view_op=list_works&sortby=pubdate
