@@ -4,7 +4,7 @@ permalink: contact
 ---
 
 ### Email:
-[br2529@cumc.columbia.edu](mailto:br2529@cumc.columbia.edu)
+[br2529@columbia.edu](mailto:br2529@columbia.edu)
 
 ---
 ### Postal Address:
