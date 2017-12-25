@@ -56,6 +56,9 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 
 ### Assessment of brain dysfunction in critically ill patients:
 
+- Rohaut B, Claassen J. **Decision making in perceived devastating brain injury: A call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](https://academic.oup.com/bja). 2018 Jan;120(1):5-9.
+
+
 - Azabou E, Rohaut B, Heming N, Magalhaes E, Morizot-Koutlidis R, Kandelman S, et al. **Early impairment of intracranial conduction time predicts
 mortality in deeply sedated critically ill patients: a prospective observational
 pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 2017 Dec;7(1):63.
