@@ -16,9 +16,10 @@ Style Vancouvert (= Pubmed) 6 auteurs et.al
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-### Neuroscience of Consciousness, Disorders of Consciousness:
+### 1- Neuroscience of Consciousness, Disorders of Consciousness:
+https://doi.org/10.1080/02699052.2017.1364421)
 
-- Faugeras F, Rohaut B, Valente M, Sitt J.D, Demeret S, Bolgert F, et al. **Survival and consciousness recovery are better in the minimally conscious state than in the vegetative state**. [Brain Injury](http://www.tandfonline.com.gate2.inist.fr/doi/full/10.1080/02699052.2017.1364421). 2017, [(DOI: 10.1080/02699052.2017.1364421](https://doi.org/10.1080/02699052.2017.1364421). ([post]({{ site.url }}/2017/Article-MCS_Prognosis/) about this publication).
+- Faugeras F, Rohaut B, Valente M, Sitt J.D, Demeret S, Bolgert F, et al. **Survival and consciousness recovery are better in the minimally conscious state than in the vegetative state**. [Brain Injury](https://doi.org/10.1080/02699052.2017.1364421). 2018 Jan;32:72-77. ([post]({{ site.url }}/2017/Article-MCS_Prognosis/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1364421'></div>
 
 - Raimondo F, Rohaut B, Demertzi A, Valente M, Engemann D, Salti M, et al. **Brain-heart interactions reveal consciousness in non-communicating patients**. [Annals of Neurology](http://dx.doi.org/10.1002/ana.25045). 2017 Sep;82:578–91. ([post]({{ site.url }}/2017/Article-Brain_Heart/) about this publication).
@@ -54,10 +55,10 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 
 (* : first co-authors)
 
-### Assessment of brain dysfunction in critically ill patients:
+### 2- Assessment of brain dysfunction in critically ill patients:
 
-- Rohaut B, Claassen J. **Decision making in perceived devastating brain injury: A call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](https://academic.oup.com/bja). 2018 Jan;120(1):5-9.
-
+- Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: A call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9.
+    <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/j.bja.2017.11.007'></div>
 
 - Azabou E, Rohaut B, Heming N, Magalhaes E, Morizot-Koutlidis R, Kandelman S, et al. **Early impairment of intracranial conduction time predicts
 mortality in deeply sedated critically ill patients: a prospective observational
