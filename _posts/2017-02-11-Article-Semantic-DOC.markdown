@@ -1,6 +1,6 @@
 ---
 title:  "Probing verbal semantic processing in unconscious patients"
-date:   2017-02-12 16:04:23
+date:   2017-02-11 16:04:23
 categories: [Publi]
 tags: [Consciousness, Semantic, Disorders of Consciousness, MyPublications]
 ---
@@ -11,7 +11,7 @@ Our paper entitled **"Probing ERP correlates of verbal semantic processing in pa
 
 ---
 
-**Reference:** Rohaut, B., Faugeras, F., Chausson, N., King, J.-R., Karoui, I. E., Cohen, L., & Naccache, L. (2015). *Probing ERP correlates of verbal semantic processing in patients with impaired consciousness*. Neuropsychologia, 66, 279–292.
+**Reference:** Rohaut, B., Faugeras, F., Chausson, N., King, J.-R., Karoui, I. E., Cohen, L., & Naccache, L. *Probing ERP correlates of verbal semantic processing in patients with impaired consciousness*. [Neuropsychologia](http://dx.doi.org/10.1016/j.neuropsychologia.2014.10.014). 2015 Jan;66:279–92.
 
 <script type="text/javascript">
   reddit_url = "http://dx.doi.org/10.1016/j.neuropsychologia.2014.10.014";

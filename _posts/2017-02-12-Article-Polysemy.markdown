@@ -16,14 +16,13 @@ See also the [INSERM press release], the article in [Le Figaro] newspaper (Fr) a
 
 ---
 
-**Reference:** Rohaut B, Alario F-X, Meadow J, Cohen L, & Naccache L. (2016). *Unconscious semantic processing of polysemous words is not automatic.* Neuroscience of Consciousness, niw010. [[Download PDF]]
+**Reference:** Rohaut B, Alario F-X, Meadow J, Cohen L, & Naccache L. *Unconscious semantic processing of polysemous words is not automatic.* [Neuroscience of Consciousness](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010.
 
 
 [INSERM press release]: http://presse.inserm.fr/en/unconscious-processing-operates-under-conscious-influence/24846/
 
 [Le Figaro]: http://sante.lefigaro.fr/actualite/2016/09/19/25411-inconscient-sous-influence-consciente
 ["Votre santé m'interesse "TV show]: http://bfmbusiness.bfmtv.com/mediaplayer/video/comment-fonctionnent-l-inconscient-et-le-conscient-dans-le-cerveau-24-09-870457.html
-[download PDF]:https://academic.oup.com/nc/article-pdf/2016/1/niw010/8739908/niw010.pdf
 
 <script type="text/javascript">
   reddit_url = "http://nc.oxfordjournals.org/content/2016/1/niw010";

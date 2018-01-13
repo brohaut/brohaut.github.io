@@ -32,7 +32,7 @@ free [Preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf) ava
 
 ---
 
-**Reference:** Rohaut B & Naccache L. (2017). *Disentangling conscious from unconscious cognitive processing with event-related EEG potentials*. Revue Neurologique, 173, 521-28. [DOI: 10.1016/j.neurol.2017.08.001 ](http://dx.doi.org/10.1016/j.neurol.2017.08.001) ([free preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)).
+**Reference:** Rohaut B & Naccache L. *Disentangling conscious from unconscious cognitive processing with event-related EEG potentials*. [Revue Neurologique](http://dx.doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug;173:521-28. ([free preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)).
 
 
 <script type="text/javascript">

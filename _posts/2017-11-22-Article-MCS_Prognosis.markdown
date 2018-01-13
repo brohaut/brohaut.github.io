@@ -1,5 +1,5 @@
 ---
-title:  "Does detecting a Minimally Conscious State in the ICU matter ?"
+title:  "Does detecting Minimally Conscious States in the ICU matter ?"
 date:   2017-11-22 00:00:00
 categories: [Publi]
 tags: [Disorders of Consciousness, ICU, Consciousness, MyPublications]
@@ -23,9 +23,7 @@ GOSE = 4 corresponds to a patient with a severe disability but conscious and who
 
 ---
 
-**Reference:** Faugeras F, Rohaut B, Valente M, Sitt J.D, Demeret S, Bolgert F, et al. (2017) *Survival and consciousness recovery are better in the minimally conscious state than in the vegetative state*. [Brain Injury](http://www.tandfonline.com.gate2.inist.fr/doi/full/10.1080/02699052.2017.1364421), [(DOI: 10.1080/02699052.2017.1364421](https://doi.org/10.1080/02699052.2017.1364421).
-
-
+**Reference:** Faugeras F, Rohaut B, Valente M, Sitt J.D, Demeret S, Bolgert F, et al. *Survival and consciousness recovery are better in the minimally conscious state than in the vegetative state*. [Brain Injury](http://www.tandfonline.com.gate2.inist.fr/doi/full/10.1080/02699052.2017.1364421). 2018 Jan;32:72-77.
 
 
 <script type="text/javascript">

@@ -40,9 +40,8 @@ Comment in [Science TM](http://dx.doi.org/10.1126/scitranslmed.aaq1224 )
 ---
 
 **Reference:** Raimondo F, Rohaut B, Demertzi A, Valente M, Engemann D, Salti M, Fernandez
-Slezak D, Naccache L, Sitt JD. (2017). *Brain-heart interactions reveal consciousness in
-non-communicating patients*. Ann Neurol, 82, 578–91. [DOI: 10.1002/ana.25045](http://dx.doi.org/10.1002/ana.25045).
-
+Slezak D, Naccache L, Sitt JD. *Brain-heart interactions reveal consciousness in
+non-communicating patients*. [Ann Neurol](http://dx.doi.org/10.1002/ana.25045). 2017 Sep;82:578–91.
 
 
 <script type="text/javascript">
