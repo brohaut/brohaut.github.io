@@ -5,7 +5,7 @@ categories: [Publi]
 tags: [Critical Thinking, Cognitive Biases, Consciousness, ICU, MyPublications]
 ---
 
-Our editorial entitled **"Decision making in perceived devastating brain injury: A call to explore the impact of cognitive biases"** related to the new guidelines on the Management of *perceived devastating brain injury* (available [here](http://dx.doi.org/10.1016/j.bja.2017.10.002)) is online on the [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007) website.
+Our editorial entitled **"Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases"** related to the new guidelines on the management of *perceived devastating brain injury* (available [here](http://dx.doi.org/10.1016/j.bja.2017.10.002)) is online on the [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007) website and as a pre-print [here]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_Editorial_BJA_post-print.pdf).
 
 ![logo_BJA]({{ site.url }}/images/BJA_edito/BJA_cover.png)
 
@@ -16,7 +16,7 @@ ___
 
 ---
 
-**Reference:** Rohaut B & Claassen J. *Decision making in perceived devastating brain injury: A call to explore the impact of cognitive biases.* [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9.
+**Reference:** Rohaut B & Claassen J. *Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.* [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9.
 
 <script type="text/javascript">
   reddit_url = "http://bjanaesthesia.org/article/S0007-0912(17)53975-6/abstract";

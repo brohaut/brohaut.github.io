@@ -24,11 +24,11 @@ Style Vancouvert (= Pubmed) 6 auteurs et.al
 - Raimondo F, Rohaut B, Demertzi A, Valente M, Engemann D, Salti M, et al. **Brain-heart interactions reveal consciousness in non-communicating patients**. [Annals of Neurology](http://dx.doi.org/10.1002/ana.25045). 2017 Sep;82:578–91. ([post]({{ site.url }}/2017/Article-Brain_Heart/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1002/ana.25045'></div>
 
-- Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug;173:521-28. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication).
+- Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug;173:521-28. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication; [pre-print]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1016/j.neurol.2017.08.001'></div>
 
 - Rohaut B* , Raimondo F* , Galanaud D, Valente M, Sitt J.D, Naccache L. **Probing
-consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Aug;31:1398-1403. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [free preprint]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf)).
+consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Aug;31:1398-1403. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [pre-print]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1327673'></div>
 
 - Rohaut B, Alario F-X, Meadow J, Cohen L, Naccache L. **Unconscious semantic processing of polysemous words is not automatic.** [Neurosci Conscious](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010. ([post]({{ site.url }}/2017/Article-Polysemy/) about this publication).
@@ -56,7 +56,7 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 
 ### 2- Assessment of brain dysfunction in critically ill patients:
 
-- Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: A call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9.
+- Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Edito_BJA/) about this publication; [pre-print]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_Editorial_BJA_post-print.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/j.bja.2017.11.007'></div>
 
 - Azabou E, Rohaut B, Heming N, Magalhaes E, Morizot-Koutlidis R, Kandelman S, et al. **Early impairment of intracranial conduction time predicts

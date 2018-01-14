@@ -17,7 +17,7 @@ Link toward the online version on [*Revue Neurologique*](https://doi.org/10.1016
 
 (full temporary [pdf](https://authors.elsevier.com/a/1Vj0582q-uB0k))
 
-free [Preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf) available
+free [pre-print]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf) available
 
 ---
 ![Fig-1]({{ site.url }}/images/Rev_Neurol/Fig1.png)
@@ -32,7 +32,7 @@ free [Preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf) ava
 
 ---
 
-**Reference:** Rohaut B & Naccache L. *Disentangling conscious from unconscious cognitive processing with event-related EEG potentials*. [Revue Neurologique](http://dx.doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug;173:521-28. ([free preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)).
+**Reference:** Rohaut B & Naccache L. *Disentangling conscious from unconscious cognitive processing with event-related EEG potentials*. [Revue Neurologique](http://dx.doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug;173:521-28. ([pre-print]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_Pre-Print.pdf)).
 
 
 <script type="text/javascript">
