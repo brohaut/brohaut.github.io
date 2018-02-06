@@ -1,5 +1,5 @@
 ---
-title:  "Is detecting Minimally Conscious States in the ICU matter ?"
+title:  "Does detecting a Minimally Conscious State in the ICU matter ?"
 date:   2017-11-22 00:00:00
 categories: [Publi]
 tags: [Disorders of Consciousness, ICU, Consciousness, MyPublications]

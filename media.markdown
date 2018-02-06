@@ -31,7 +31,7 @@ Interview sur [Europe1] (26') et [France5]({{ site.url }}/images/Radio-Ben.mp4) 
 ### Pourquoi évaluer l'état de conscience minimale est si difficile:
 Interwiew pour [Science & Vie] au sujet du cas Vincent Lambert (Mai 2014).
 
-### Article sur le Coma sur le site de l'Inserm.
+### Article sur le Coma du site de l'Inserm.
 Participation à l'élaboration de la [page web](http://www.inserm.fr/thematiques/neurosciences-sciences-cognitives-neurologie-psychiatrie/dossiers-d-information/coma) (Octobre 2013).
 
 ___
