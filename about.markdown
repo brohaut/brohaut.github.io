@@ -3,7 +3,7 @@ title: My page
 permalink: about
 ---
 
-Hi, welcome to my page! I am a French Neurologist nd intensivist working at Columbia University in the [Neuro-ICU research team](http://columbianeurology.org/research/divisions-and-programs/neurocritical-care) of the Neurological department, lead by Prof Jan Claassen.  
+Hi, welcome to my page! I am a French Neurologist nd intensivist working at Columbia University in the [Neuro-ICU research team](http://columbianeurology.org/research/divisions-and-programs/neurocritical-care) of the Neurological department, led by Prof Jan Claassen.  
 My research aims at exploring [Brain Dysfunction]({{ site.url }}/tags/#Brain%20dysfunction%20in%20ICU) in the Intensive Care Unit (ICU) and at developing tools to improve assessment & treatment of severely brain-injured patients suffering from [Disorder of Consciousness]({{ site.url }}/tags/#Disorders%20of%20Consciousness).
 
 Advances in modern intensive care medicine have led to an increase in the number of patients who survive critical illness. For these patients, the impact of brain injuries on consciousness, cognitive disability and more generally on quality of life can be highly significant.  
