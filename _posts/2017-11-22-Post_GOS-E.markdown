@@ -31,7 +31,7 @@ Latter, the same authors proposed to split the 3 better categories (sever disabi
 | 7 | **Good recovery** *lower*   | minor problems that affect daily life; resumes >50% of the pre-injury level of social and leisure activities|
 | 6 | **Moderate disability**  *Upper* | reduced work capacity; resumes <50% of the pre-injury level of social and leisure activities|
 | 5 | **Moderate disability** *Lower*| unable to work or only in sheltered workshop|
-| 4 | **Sever disability** *Upper*  | can be left alone at > 8h during the day, but unable to travel and/or go shopping without assistance|
+| 4 | **Sever disability** *Upper*  | can be left alone > 8h during the day, but unable to travel and/or go shopping without assistance|
 | 3 | **Sever disability** *Lower* | requires frequent help of someone to be around at home most of the time every day|
 | 2 | **Persistent vegetative state** | unresponsive and speechless   |
 | 1 | **Death**  |    |
