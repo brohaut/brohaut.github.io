@@ -56,6 +56,10 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 
 ### 2- Assessment of brain dysfunction in critically ill patients:
 
+
+- Velly L, Perlbarg V, Boulier T, Adam N, Delphine S, Luyt C-E, et al. **Use of brain diffusion tensor imaging for the prediction of long-term neurological outcomes in patients after cardiac arrest: a multicentre, international, prospective, observational, cohort study.** [The Lancet Neurology](https://doi.org/10.1016/S1474-4422(18)30027-9). 2018 Feb 27.
+    <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/S1474-4422(18)30027-9'></div>
+
 - Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Edito_BJA/) about this publication; [pre-print]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_Editorial_BJA_post-print.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/j.bja.2017.11.007'></div>
 
