@@ -31,14 +31,15 @@ Latter, the same authors proposed to split the 3 better categories (sever disabi
 | 7 | **Good recovery** *lower*   | minor problems that affect daily life; resumes >50% of the pre-injury level of social and leisure activities|
 | 6 | **Moderate disability**  *Upper* | reduced work capacity; resumes <50% of the pre-injury level of social and leisure activities|
 | 5 | **Moderate disability** *Lower*| unable to work or only in sheltered workshop|
-| 4 | **Sever disability** *Upper*  | can be left aloneu > 8h during the day, but unable to travel and/or go shopping without assistance|
+| 4 | **Sever disability** *Upper*  | can be left alone > 8h during the day, but unable to travel and/or go shopping without assistance|
 | 3 | **Sever disability** *Lower* | requires frequent help of someone to be around at home most of the time every day|
 | 2 | **Persistent vegetative state** | unresponsive and speechless   |
 | 1 | **Death**  |    |
 
 ** Here I voluntarily kept the same order as in the first table; note that most of recent publications use this order though, "the higher the number the better the outcome" but again, **the reader should always check carefully the used referential!**
 
-Further helpful documentation to assess the GOS-E is available on [www.tbi-impact.org](http://www.tbi-impact.org/cde/mod_templates/12_F_01_GOSE.pdf) and in ref 3 & 4 below.
+Structured interview for the GOS and the [GOS-E]({{ site.url }}/images/Wilson_GOS-E.pdf) have been proposed (3) as well a useful [comparative table]({{ site.url }}/images/Lu_GOS-E.pdf) with key criteria (4).
+
 
 #### **References:**
 1. Jennett B, Bond M. Assessment of outcome after severe brain damage. Lancet. 1975 Mar 1;1(7905):480–4 ([doi](https://doi.org/10.1016/S0140-6736(75)92830-5)).
