@@ -28,7 +28,7 @@ Latter, the same authors proposed to split the 3 better categories (sever disabi
 | Category number**      |  Name           | Definition (see refs for more details)|
 | :------------- |:-------------| :-----|
 | 8 | **Good recovery** *Upper*   | no current problems related to the brain injury that affect daily life|
-| 7 | **Good recovery** *lower*   | minor problems that affect daily life; resumes >50% of the pre-injury level of social and leisure activities|
+| 7 | **Good recovery** *Lower*   | minor problems that affect daily life; resumes >50% of the pre-injury level of social and leisure activities|
 | 6 | **Moderate disability**  *Upper* | reduced work capacity; resumes <50% of the pre-injury level of social and leisure activities|
 | 5 | **Moderate disability** *Lower*| unable to work or only in sheltered workshop|
 | 4 | **Sever disability** *Upper*  | can be left alone > 8h during the day, but unable to travel and/or go shopping without assistance|
