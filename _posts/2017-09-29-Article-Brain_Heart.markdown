@@ -26,12 +26,17 @@ Link toward the online version on [*Annals of Neurology*](http://dx.doi.org/10.1
 Comment in [Science TM](http://dx.doi.org/10.1126/scitranslmed.aaq1224 )
 
 #### Press (french)
+
+
 * [Le Figaro](http://sante.lefigaro.fr/article/etat-vegetatif-l-activite-du-coeur-reflete-l-etat-de-conscience/)
 * [Science & Avenir](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/etat-vegetatif-quand-le-coeur-reflete-la-conscience_117717?xtor=RSS-16)
 * [Le Quotidien du Médecin](https://www.lequotidiendumedecin.fr/actualites/article/2017/10/24/etat-vegetatif-mesurer-le-rythme-cardiaque-en-reaction-un-stimulus-sonore-permet-devaluer-letat-de-conscience_851670)
 * [Top Santé](https://www.topsante.com/medecine/votre-sante-vous/fin-de-vie/coma-la-stimulation-sonore-pour-connaitre-l-etat-de-conscience-621892)
 * [Pourquoi Docteur?](https://www.pourquoidocteur.fr/Articles/Question-d-actu/23237-Coma-nouveau-test-mieux-evaluer-pronostic)
 * [La Méthode scientifique](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-lundi-6-novembre-2017) (radio)
+
+#### Press (espagnol)
+* [La Nacion](https://www.lanacion.com.ar/2122132-un-test-permite-evaluar-estados-de-conciencia-por-el-ritmo-cardiaco)
 
 #### Press releases
 * **English:** [Inserm](http://presse.inserm.fr/en/interaction-between-brain-and-heart-may-be-new-indicator-of-state-of-consciousness/29814/) / [ICM](https://icm-institute.org/en/actualite/better-definition-of-the-state-of-consciousness-by-measuring-brain-heart-interactions/)
