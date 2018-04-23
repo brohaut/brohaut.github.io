@@ -3,8 +3,6 @@ title: "List of Publications"
 permalink: publis
 ---
 
-
-
 ## Selected papers:
 Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 
@@ -74,9 +72,9 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 - Sharshar T, Porcher R, Siami S, Rohaut B, Bailly-Salin J, Hopkinson NS, et al. **Brainstem responses can predict death and delirium in sedated patients in intensive care unit.** [Crit Care Med](http://dx.doi.org/10.1097/CCM.0b013e31821b843b). 2011 Aug;39(8):1960–7. (reprint available [here]({{ site.url }}/images/Sharshar et al. - Critical Care Medicine - 2011.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1097/CCM.0b013e31821b843b'></div>
 
-### Complete liste on [Google Scholar], [Researchgate] or [Pubmed]
+### Complete liste on [Google Scholar], [Researchgate] or [Pubmed];
 
-### [Media]({{ site.url }}/media)
+### [Media]({{ site.url }}/media) participation
 
 [Google Scholar]: https://scholar.google.fr/citations?hl=fr&user=jgHpg1oAAAAJ&view_op=list_works&sortby=pubdate
 [Researchgate]:https://www.researchgate.net/profile/Benjamin_Rohaut
