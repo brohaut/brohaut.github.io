@@ -3,26 +3,25 @@ title: My page
 permalink: about
 ---
 
-Hi, welcome to my page! I am a French Neurologist and intensivist working at Columbia University in the [Neuro-ICU research team](http://columbianeurology.org/research/divisions-and-programs/neurocritical-care) of the Neurological department, led by Prof Jan Claassen.  
+Hi, welcome to my page! I am a French Neurointensivist working at Columbia University in the [Neuro-ICU research team](http://columbianeurology.org/research/divisions-and-programs/neurocritical-care) of the Neurological department, led by Prof Jan Claassen.  
 My research aims at exploring [Brain Dysfunction]({{ site.url }}/tags/#Brain%20dysfunction%20in%20ICU) in the Intensive Care Unit (ICU) and at developing tools to improve assessment & treatment of severely brain-injured patients suffering from [Disorder of Consciousness]({{ site.url }}/tags/#Disorders%20of%20Consciousness).
 
 Advances in modern intensive care medicine have led to an increase in the number of patients who survive critical illness. For these patients, the impact of brain injuries on consciousness, cognitive disability and more generally on quality of life can be highly significant.  
 As we better understand consciousness, new cutting edge brain stimulation technics, which could help awakening some unconscious patients now become reality. To make well-grounded medical decisions, we need accurate diagnosis and prognostic tools.
 
-Since 2008, I have been working in a mixed clinical & research team led by Prof Lionel Naccache at *La Pitié-Salpêtrière Hospital* in Paris, which is dedicated to the exploration of Consciousness Disorders. We have explored several approaches to assess cognitive abilities in such patients: electrophysiological markers related to deviant stimuli detection (1, 2, 3); correlate of semantic processing (4) and, more recently, functional connectivity using a new measure called *wSMI* (for weighted Symbolic Mutual Information, 5) integrated in a multimodal approach using machine learning (6, 7, [post]({{ site.url }}/2017/Article-D-LIS/)).
+Since 2008, I have been working with Prof Lionel Naccache at *La Pitié-Salpêtrière Hospital* in Paris, exploring several approaches to assess cognitive abilities in unresponsive patients such as electrophysiological markers related to deviant stimuli detection (1, 2, 3); correlate of semantic processing (4) and, more recently, functional connectivity using a new marker called *wSMI* (for weighted Symbolic Mutual Information, 5) integrated in a multidimentional approach using machine learning (6, 7, [post]({{ site.url }}/2017/Article-D-LIS/)).
 
-Through the “GENeR” (*Groupe d’Exploration Neurologique en Réanimation*) and Prof Tarek Sharshar and Jean Mantz, I have also studied Brain Dysfunction in ICU patients, its pathophysiology, its relation with sedation, delirium, mortality and long-term outcome  (8, 9, 10; [post]({{ site.url }}/2017/Article-BRASS/)).
+Through the “GENeR” (*Groupe d’Exploration Neurologique en Réanimation*) and Prof Tarek Sharshar and Jean Mantz, I have also studied [Brain Dysfunction]({{ site.url }}/tags/#Brain%20dysfunction%20in%20ICU) in ICU patients, its pathophysiology, its relation with sedation, delirium, mortality and long-term outcome  (8, 9, 10; [post]({{ site.url }}/2017/Article-BRASS/)).
 
-During my Ph.D. at the [UPMC-Sorbonne University](http://www.upmc.fr/en/index.html) / [Brain & Spine Institute](http://icm-institute.org/en/team/team-bartolomeo-cohen-naccache/) – Paris, I have explored with Lionel Naccache the Relations between Language & Consciousness both in brain injured patients and healthy volunteers (4, [thesis](https://tel.archives-ouvertes.fr/tel-01372200)). Trying to replicate a set of classical 30-year-old  results, we could finally reframe a well- established model of semantic unconscious processing (11, [post]({{ site.url }}/2017/Article-polysemy/)).
+During my Ph.D. at the [Sorbonne University](https://sorbonne-universite.fr/en) & the [Brain & Spine Institute](http://icm-institute.org/en/team/team-bartolomeo-cohen-naccache/) – Paris, I have explored with Lionel Naccache the Relations between Language & Consciousness both in brain injured patients and healthy volunteers (4, [thesis](https://tel.archives-ouvertes.fr/tel-01372200)). Trying to replicate a set of classical 30-year-old  results, we could finally reframe a well- established model of semantic unconscious processing (11, [post]({{ site.url }}/2017/Article-polysemy/)).
 
-I now focus my research on ICU brain-injured patients, trying to improve assessment & treatment in consciousness disorders at Columbia University.
+I now focus my research on ICU brain-injured patients, trying to improve assessment & treatment of patients suffering from consciousness disorders in the ICU.
 
 ---
 ## Links:
 * Main [Publications]({{ site.url }}/publis)  
 * Complete list of publication on [Google Scholar], [Researchgate] or [Pubmed]
 * [Media]({{ site.url }}/media)
-* Reviewing activity on [Publon](https://publons.com/author/1235063/benjamin-rohaut#profile)
 * <a href="https://orcid.org/0000-0001-6752-8756" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6752-8756</a>   
 * Résumé in [PDF]({{ site.url }}/images/Résumé_B.Rohaut.pdf)
 
@@ -31,9 +30,14 @@ I now focus my research on ICU brain-injured patients, trying to improve assessm
 [Researchgate]:https://www.researchgate.net/profile/Benjamin_Rohaut
 [Pubmed]:https://www.ncbi.nlm.nih.gov/pubmed/?term=Rohaut+B%5BAuthor%5D
 
----
+### Peer reviewing:
+<!-- start Publons.com widget -->
+<iframe src="https://publons.com/author/1235063/widget/embed/?width=640&height=460" width="640" height="460" style="border: solid 1px #ddd;"></iframe>
+<!-- end Publons.com widget -->
 
-#### References:
+___
+
+## References:
 
 1. Bekinschtein TA, Dehaene S, Rohaut B, Tadel F, Cohen L, Naccache L. **Neural signature of the conscious processing of auditory regularities.** [PNAS](http://dx.doi.org/10.1073/pnas.0809667106). 2009 Feb 3;106(5):1672–7.
 
