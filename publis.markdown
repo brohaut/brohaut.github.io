@@ -1,10 +1,10 @@
 ---
-title: "List of Publications"
+title: "Scientific publications"
 permalink: publis
 ---
 
-## Selected papers:
-Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
+## List of selected papers:
+(Complete list available on [Google Scholar], [Researchgate] or [Pubmed])
 
 {::comment}
 
