@@ -19,7 +19,8 @@ I now focus my research on ICU brain-injured patients, trying to improve assessm
 
 ---
 ## Links:
-* Main [Publications]({{ site.url }}/publis); complete list of publication on [Google Scholar], [Researchgate] or [Pubmed]
+* Main [Publications]({{ site.url }}/publis)
+* Complete list of publication on [Google Scholar], [Researchgate] or [Pubmed]
 * [Media]({{ site.url }}/media) participations
 * <a href="https://orcid.org/0000-0001-6752-8756" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6752-8756</a>   
 * [Résumé]({{ site.url }}/images/Résumé_B.Rohaut.pdf) in pdf
@@ -30,7 +31,7 @@ I now focus my research on ICU brain-injured patients, trying to improve assessm
 
   [Google Scholar]: https://scholar.google.fr/citations?hl=fr&user=jgHpg1oAAAAJ&view_op=list_works&sortby=pubdate
   [Researchgate]:https://www.researchgate.net/profile/Benjamin_Rohaut
-  [Pubmed]:https://www.ncbi.nlm.nih.gov/pubmed/?term=Rohaut+B%5BAuthor%5D
+  [Pubmed]:https://www.ncbi.nlm.nih.gov/pubmed/?term=Rohaut+B%5BAuthor%5D+OR+Rohaut+B%5BInvestigator%5D
 
 ___
 
