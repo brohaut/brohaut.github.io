@@ -6,11 +6,7 @@ permalink: publis
 ## List of selected papers:
 (Complete list available on [Google Scholar], [Researchgate] or [Pubmed])
 
-{::comment}
-
-Style Vancouvert (= Pubmed) 6 auteurs et.al
-
-{:/comment}
+{::comment} Style Vancouvert (= Pubmed) 6 auteurs et.al {:/comment}
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
@@ -53,7 +49,6 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 (* : first co-authors)
 
 ### Assessment of brain dysfunction in critically ill patients:
-
 
 - Velly L, Perlbarg V, Boulier T, Adam N, Delphine S, Luyt C-E, et al. **Use of brain diffusion tensor imaging for the prediction of long-term neurological outcomes in patients after cardiac arrest: a multicentre, international, prospective, observational, cohort study.** [The Lancet Neurology](https://doi.org/10.1016/S1474-4422(18)30027-9). 2018 Feb 27.
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/S1474-4422(18)30027-9'></div>

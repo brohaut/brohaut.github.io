@@ -22,4 +22,5 @@ New York, NY 10032, USA
 (+1) 212-305-2792
 
 ___
+{::comment} Twitter badge {:/comment}
 <a href="https://twitter.com/benrohaut?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @benrohaut</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
