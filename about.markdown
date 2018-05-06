@@ -19,23 +19,23 @@ I now focus my research on ICU brain-injured patients, trying to improve assessm
 
 ---
 ## Links:
+* [Contact]({{ site.url }}/contact) 
 * Main [Publications]({{ site.url }}/publis)
 * Complete list of publication on [Google Scholar], [Researchgate] or [Pubmed]
-* [Media]({{ site.url }}/media) participations
+* Peer reviewing activity on [Publon]
 * <a href="https://orcid.org/0000-0001-6752-8756" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6752-8756</a>   
 * [Résumé]({{ site.url }}/images/Résumé_B.Rohaut.pdf) in pdf
-* Peer reviewing activity:
-  <!-- start Publons.com widget -->
-  <iframe src="https://publons.com/author/1235063/widget/embed/?width=640&height=460" width="640" height="460" style="border: solid 1px #ddd;"></iframe>
-  <!-- end Publons.com widget -->
+* [Media]({{ site.url }}/media) participations
+
 
   [Google Scholar]: https://scholar.google.fr/citations?hl=fr&user=jgHpg1oAAAAJ&view_op=list_works&sortby=pubdate
   [Researchgate]:https://www.researchgate.net/profile/Benjamin_Rohaut
   [Pubmed]:https://www.ncbi.nlm.nih.gov/pubmed/?term=Rohaut+B%5BAuthor%5D+OR+Rohaut+B%5BInvestigator%5D
+  [Publon]:https://publons.com/author/1235063/benjamin-rohaut#profile
 
 ___
 
-## References:
+### References:
 
 1. Bekinschtein TA, Dehaene S, Rohaut B, Tadel F, Cohen L, Naccache L. **Neural signature of the conscious processing of auditory regularities.** [PNAS](http://dx.doi.org/10.1073/pnas.0809667106). 2009 Feb 3;106(5):1672–7.
 
