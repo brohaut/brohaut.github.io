@@ -14,7 +14,7 @@ Style Vancouvert (= Pubmed) 6 auteurs et.al
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-### 1- Neuroscience of Consciousness, Disorders of Consciousness:
+### Neuroscience of Consciousness, Disorders of Consciousness:
 
 - Faugeras F, Rohaut B, Valente M, Sitt J.D, Demeret S, Bolgert F, et al. **Survival and consciousness recovery are better in the minimally conscious state than in the vegetative state**. [Brain Injury](https://doi.org/10.1080/02699052.2017.1364421). 2018 Jan;32:72-77. ([post]({{ site.url }}/2017/Article-MCS_Prognosis/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1364421'></div>
@@ -52,7 +52,7 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 
 (* : first co-authors)
 
-### 2- Assessment of brain dysfunction in critically ill patients:
+### Assessment of brain dysfunction in critically ill patients:
 
 
 - Velly L, Perlbarg V, Boulier T, Adam N, Delphine S, Luyt C-E, et al. **Use of brain diffusion tensor imaging for the prediction of long-term neurological outcomes in patients after cardiac arrest: a multicentre, international, prospective, observational, cohort study.** [The Lancet Neurology](https://doi.org/10.1016/S1474-4422(18)30027-9). 2018 Feb 27.
