@@ -64,7 +64,11 @@ print]. ([preprint]({{ site.url }}/images/EJN_preprint.pdf)).
 
 ### Brain dysfunction in the critically ill patients:
 
-- Velly L, Perlbarg V, Boulier T, Adam N, Delphine S, Luyt C-E, et al. **Use of brain diffusion tensor imaging for the prediction of long-term neurological outcomes in patients after cardiac arrest: a multicentre, international, prospective, observational, cohort study.** [The Lancet Neurology](https://doi.org/10.1016/S1474-4422(18)30027-9). 2018 Feb 27.
+- André-Obadia N, Zyss J, Gavaret M, Lefaucheur J-P, Azabou E, Boulogne S, Guérit J-M, McGonigal A, Merle P, Mutschler V, Naccache L, Sabourdy C, Trébuchon A,  Tyvaert L,  Vercueil L,  Rohaut B,  Delval A. **Recommendations for the use of electroencephalography and evoked potentials in comatose patients.** [Neurophysiologie Clinique](https://doi.org/10.1016/j.neucli.2018.05.038). 2018 May 18 [Epub ahead of
+print]
+    <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/j.neucli.2018.05.038'></div>
+    
+- Velly L, Perlbarg V, Boulier T, Adam N, Delphine S, Luyt C-E, et al. **Use of brain diffusion tensor imaging for the prediction of long-term neurological outcomes in patients after cardiac arrest: a multicentre, international, prospective, observational, cohort study.** [The Lancet Neurology](https://doi.org/10.1016/S1474-4422(18)30027-9). 2018 Apr;17(4):317-326.
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/S1474-4422(18)30027-9'></div>
 
 - Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Edito_BJA/) about this publication; [preprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_Editorial_BJA_preprint.pdf)).
