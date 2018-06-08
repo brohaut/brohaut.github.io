@@ -13,6 +13,10 @@ Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 
 ### Disorders of Consciousness:
 
+- André-Obadia N, Zyss J, Gavaret M, Lefaucheur J-P, Azabou E, Boulogne S, et al. **Recommendations for the use of electroencephalography and evoked potentials in comatose patients.** [Neurophysiologie Clinique](https://doi.org/10.1016/j.neucli.2018.05.038). 2018 May 18 [Epub ahead of
+print]
+    <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/j.neucli.2018.05.038'></div>
+
 - Faugeras F, Rohaut B, Valente M, Sitt J.D, Demeret S, Bolgert F, et al. **Survival and consciousness recovery are better in the minimally conscious state than in the vegetative state**. [Brain Injury](https://doi.org/10.1080/02699052.2017.1364421). 2018 Jan;32:72-77. ([post]({{ site.url }}/2017/Article-MCS_Prognosis/) about this publication).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1364421'></div>
 
@@ -64,10 +68,11 @@ print]. ([preprint]({{ site.url }}/images/EJN_preprint.pdf)).
 
 ### Brain dysfunction in the critically ill patients:
 
-- André-Obadia N, Zyss J, Gavaret M, Lefaucheur J-P, Azabou E, Boulogne S, Guérit J-M, McGonigal A, Merle P, Mutschler V, Naccache L, Sabourdy C, Trébuchon A,  Tyvaert L,  Vercueil L,  Rohaut B,  Delval A. **Recommendations for the use of electroencephalography and evoked potentials in comatose patients.** [Neurophysiologie Clinique](https://doi.org/10.1016/j.neucli.2018.05.038). 2018 May 18 [Epub ahead of
-print]
-    <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/j.neucli.2018.05.038'></div>
-    
+
+- Reynolds AS, Rohaut B, Holmes MG, Robinson D, Roth W, Velazquez A, et al. **Early myoclonus following anoxic brain injury.** [Neurology Clin Pract](https://doi.org/10.1212/CPJ.0000000000000466). 2018 May 23 [Epub ahead of print]
+    <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1212/CPJ.0000000000000466'></div>
+
+
 - Velly L, Perlbarg V, Boulier T, Adam N, Delphine S, Luyt C-E, et al. **Use of brain diffusion tensor imaging for the prediction of long-term neurological outcomes in patients after cardiac arrest: a multicentre, international, prospective, observational, cohort study.** [The Lancet Neurology](https://doi.org/10.1016/S1474-4422(18)30027-9). 2018 Apr;17(4):317-326.
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/S1474-4422(18)30027-9'></div>
 
