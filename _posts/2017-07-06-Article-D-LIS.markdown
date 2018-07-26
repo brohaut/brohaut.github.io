@@ -9,7 +9,7 @@ Our paper entitled **"Probing consciousness in a sensory-disconnected paralyzed 
 
 ![Brain_Injury]({{ site.url }}/images/Brain_injury/Brain_Injury.jpeg)
 
-free [**pre-print**]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf) available
+free [**postprint**]({{ site.url }}/images/Brain_injury/Brain_Inj_postprint.pdf) available
 
 ---
 ![Fig-1]({{ site.url }}/images/Brain_injury/Figure_1.jpg)
@@ -30,7 +30,7 @@ Scalp topographical 2D projection (top = front) of each measure [contingent nega
 
 ---
 
-**Reference:** Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt J.D, Naccache L. *Probing consciousness in a sensory-disconnected paralyzed patient*. [Brain Injury](http://dx.doi.org/10.1080/02699052.2017.1327673) . 2017 Aug;31:1398-1403. ([pre-print]({{ site.url }}/images/Brain_injury/Brain_Inj_Pre-Print.pdf)).
+**Reference:** Rohaut B, Raimondo F, Galanaud D, Valente M, Sitt J.D, Naccache L. *Probing consciousness in a sensory-disconnected paralyzed patient*. [Brain Injury](http://dx.doi.org/10.1080/02699052.2017.1327673) . 2017 Aug;31:1398-1403. ([postprint]({{ site.url }}/images/Brain_injury/Brain_Inj_postprint.pdf)).
 
 
 <script type="text/javascript">

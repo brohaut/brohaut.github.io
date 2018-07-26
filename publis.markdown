@@ -1,5 +1,5 @@
 ---
-title: "My Scientific publications"
+title: "Publications"
 permalink: publis
 ---
 
@@ -25,7 +25,7 @@ print]
 
 
 - Rohaut B* , Raimondo F* , Galanaud D, Valente M, Sitt J.D, Naccache L. **Probing
-consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Aug;31:1398-1403. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [preprint]({{ site.url }}/images/Brain_injury/Brain_Inj_preprint.pdf)).
+consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Aug;31:1398-1403. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [postprint]({{ site.url }}/images/Brain_injury/Rohaut_Raimondo_Brain_Inj_2017_postprint.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1080/02699052.2017.1327673'></div>
 
 
@@ -53,10 +53,10 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 
 - Rohaut B & Naccache L. **What are the boundaries of unconscious semantic
 cognition?** [Eur J Neurosci](https://doi.org/10.1111/ejn.13930). 2018 May 5 [Epub ahead of
-print]. ([preprint]({{ site.url }}/images/EJN_preprint.pdf)).
+print]. ([postprint]({{ site.url }}/images/Rohaut_Naccache_EJN_2018_postprint.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1111/ejn.13930'></div>
 
-- Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug;173:521-28. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication; [preprint]({{ site.url }}/images/Rev_Neurol/Revue_Neurol_preprint.pdf)).
+- Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug;173:521-28. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication; [postprint]({{ site.url }}/images/Rev_Neurol/Rohaut_Naccache_Revue_Neurol_2017_postprint.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom' data-hide-less-than='3' data-doi='10.1016/j.neurol.2017.08.001'></div>
 
 - Rohaut B, Alario F-X, Meadow J, Cohen L, Naccache L. **Unconscious semantic processing of polysemous words is not automatic.** [Neurosci Conscious](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010. ([post]({{ site.url }}/2017/Article-Polysemy/) about this publication).
@@ -76,7 +76,7 @@ print]. ([preprint]({{ site.url }}/images/EJN_preprint.pdf)).
 - Velly L, Perlbarg V, Boulier T, Adam N, Delphine S, Luyt C-E, et al. **Use of brain diffusion tensor imaging for the prediction of long-term neurological outcomes in patients after cardiac arrest: a multicentre, international, prospective, observational, cohort study.** [The Lancet Neurology](https://doi.org/10.1016/S1474-4422(18)30027-9). 2018 Apr;17(4):317-326.
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/S1474-4422(18)30027-9'></div>
 
-- Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Edito_BJA/) about this publication; [preprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_Editorial_BJA_preprint.pdf)).
+- Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Edito_BJA/) about this publication; [postprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_BJA_2018_postprint.pdf)).
     <div class='altmetric-embed' data-badge-popover='bottom'  data-hide-less-than='3' data-doi='10.1016/j.bja.2017.11.007'></div>
 
 - Azabou E, Rohaut B, Heming N, Magalhaes E, Morizot-Koutlidis R, Kandelman S, et al. **Early impairment of intracranial conduction time predicts
