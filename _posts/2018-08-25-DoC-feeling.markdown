@@ -2,7 +2,7 @@
 title:  "How pooling Nurses’ insights can improve Diagnosis accuracy of altered states of Consciousness"
 date:   2018-08-25 00:00:00
 categories: [Publi]
-tags: [Disorders of Consciousness, Consciousness, ICU, MyPublications]
+tags: [Disorders of Consciousness, Consciousness, Decision Making, ICU, MyPublications]
 ---
 
 Pooling opinions from several individuals has been previously shown to outperform individual judgements in specific settings. Recently, there has been a growing interest for this kind of approach (coined *“collective intelligence”* or *“wisdom of the crowds”*) in the medical field, especially in diagnosis procedure (e.g., diagnosis of skin cancer,  mammography screening, etc …) [1–4].
@@ -44,7 +44,7 @@ ___
 2. Kurvers RHJM, Krause J, Argenziano G, et al. *Detection Accuracy of Collective Intelligence Assessments for Skin Cancer Diagnosis.* [JAMA Dermatol 2015;151:1346–53](https://doi.org/10.1001/jamadermatol.2015.3149).
 3. Kurvers RHJM, Herzog SM, Hertwig R, et al. *Boosting medical diagnostics by pooling independent judgments.* [Proc Natl Acad Sci 2016;113:8777–82](https://doi.org/10.1073/pnas.1601827113).
 4. Hautz WE, Kämmer JE, Schauber SK, et al. *Diagnostic performance by medical students working individually or in teams.* [JAMA 2015;313:303–4](https://doi.org/10.1001/jama.2014.15770).
-5. Hermann B, Goudard G, Courcoux K, et al. *‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.* [bioRxiv 2018;:370775. doi:10.1101/370775](https://doi.org/10.1101/370775)
+5. Hermann B, Goudard G, Courcoux K, et al. *‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.* [BioRxiv 2018;:370775. doi:10.1101/370775](https://doi.org/10.1101/370775)
 6. Giacino JT, Ashwal S, Childs N, et al. *The minimally conscious state: definition and diagnostic criteria.* [Neurology 2002;58:349–53](https://doi.org/10.1212/WNL.58.3.349).
 7. Giacino JT, Katz DI, Schiff ND, et al. *Practice guideline update recommendations summary: Disorders of consciousness.* Neurology. Published Online First: 8 August 2018. [doi:10.1212/WNL.0000000000005928](https://doi.org/10.1212/WNL.0000000000005928).
 
