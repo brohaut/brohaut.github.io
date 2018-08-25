@@ -29,6 +29,7 @@ ___
 
 ![DoC-Feeling results]({{ site.url }}/images/DoC-feeling/Figure_2.png)
 
+
 * UWS: unresponsive wakefulness syndrome (UWS ; or vegetative state)
 * MCS: minimally conscious state
 
