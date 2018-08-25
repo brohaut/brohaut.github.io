@@ -27,7 +27,7 @@ We demonstrate that median of multiple individual ratings obtained for a given p
 ___
 ***Figure 2. DoC-Feeling score compared to the gold standard (CRS-R):***   
 
-![DoC-Feeling]({{ site.url }}/images/DoC-feeling/Figure_2.png)
+![DoC-Feeling results]({{ site.url }}/images/DoC-feeling/Figure_2.png)
 
 * UWS: unresponsive wakefulness syndrome (UWS ; or vegetative state)
 * MCS: minimally conscious state
