@@ -22,7 +22,7 @@ ___
 
 ---
 
-We demonstrate that median of multiple individual ratings obtained for a given patient is highly correlated with the clinical diagnosis based on the CRS-R. We conclude that nursing staff’s expertise can be used and quantified to distinguish Minimally conscious patients from patients in the vegetative/unresponsive wakefulness state.
+We demonstrate that **median of multiple individual ratings obtained for a given patient is highly correlated with the clinical diagnosis based on the CRS-R**. We conclude that nursing staff’s expertise can be used and quantified to distinguish Minimally conscious patients from patients in the vegetative/unresponsive wakefulness state.
 
 ___
 ***Figure 2. DoC-Feeling score compared to the gold standard (CRS-R):***   
