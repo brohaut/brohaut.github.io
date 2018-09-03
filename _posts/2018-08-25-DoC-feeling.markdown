@@ -5,11 +5,11 @@ categories: [Publi]
 tags: [Disorders of Consciousness, Consciousness, Decision Making, ICU, MyPublications]
 ---
 
-Pooling opinions from several individuals has been previously shown to outperform individual judgements in specific settings. Recently, there has been a growing interest for this kind of approach (coined *“collective intelligence”* or *“wisdom of the crowds”*) in the medical field, especially in diagnosis procedure (e.g., diagnosis of skin cancer,  mammography screening, etc …) [1–4].
+Pooling opinions from several individuals has been previously shown to outperform individual judgements in specific settings. Recently, there has been a growing interest for this kind of approach (called *“collective intelligence”* or *“wisdom of the crowds”*) in the medical field, especially in diagnosis procedure (e.g., diagnosis of skin cancer,  mammography screening, etc …) [1–4].
 
 In that perspective, quantifying expertise that is not restricted to physicians might be of prime interest.
 
-**"DoC-feeling"** is a new behavioral tool we designed to capitalize on the expertise of nursing staff (nurses and nurse assistants) in order to probe consciousness in patients affected with a disorder of consciousness (DoC) [5, preprint available [here](https://doi.org/10.1101/370775) ].
+**"DoC-feeling"** (DoC stands for Disorder of Consciousness) is a new behavioral tool we designed to capitalize on the expertise of nursing staff (nurses and nurse assistants) in order to probe consciousness in patients affected with a disorder of consciousness ([5], preprint available on [bioRxiv](https://doi.org/10.1101/370775).
 
 Disentangling unresponsive wakefulness syndrome (UWS or vegetative state) from minimally conscious state (MCS) is of prime importance to elaborate a prognosis and an optimal medical plan [6]. However, this distinction can be very challenging. Behavioral expertise of conscious state mostly relies on a dedicated clinical scale called the Coma Recovery Scale Revised (CRS-R)[6] that is used by physicians and behavior psychologists. This scoring requires an expertise, as well as a substantial dedicated duration (30 to 45 minutes) that limits the number of evaluations to a few measures. However, these evaluations have to be repeated all along daytime and nighttime because DoC patients typically show frequent and fast fluctuations of their state. Therefore, there is an urgent need to enrich the behavioral evaluation and to open it to non-specialist caregivers [7].
 
@@ -44,7 +44,7 @@ ___
 2. Kurvers RHJM, Krause J, Argenziano G, et al. *Detection Accuracy of Collective Intelligence Assessments for Skin Cancer Diagnosis.* [JAMA Dermatol 2015;151:1346–53](https://doi.org/10.1001/jamadermatol.2015.3149).
 3. Kurvers RHJM, Herzog SM, Hertwig R, et al. *Boosting medical diagnostics by pooling independent judgments.* [Proc Natl Acad Sci 2016;113:8777–82](https://doi.org/10.1073/pnas.1601827113).
 4. Hautz WE, Kämmer JE, Schauber SK, et al. *Diagnostic performance by medical students working individually or in teams.* [JAMA 2015;313:303–4](https://doi.org/10.1001/jama.2014.15770).
-5. Hermann B, Goudard G, Courcoux K, et al. *‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.* [BioRxiv 2018;:370775. doi:10.1101/370775](https://doi.org/10.1101/370775)
+5. Hermann B, Goudard G, Courcoux K, et al. *‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.* [bioRxiv 2018;:370775. doi:10.1101/370775](https://doi.org/10.1101/370775)
 6. Giacino JT, Ashwal S, Childs N, et al. *The minimally conscious state: definition and diagnostic criteria.* [Neurology 2002;58:349–53](https://doi.org/10.1212/WNL.58.3.349).
 7. Giacino JT, Katz DI, Schiff ND, et al. *Practice guideline update recommendations summary: Disorders of consciousness.* Neurology. Published Online First: 8 August 2018. [doi:10.1212/WNL.0000000000005928](https://doi.org/10.1212/WNL.0000000000005928).
 
