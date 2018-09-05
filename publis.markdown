@@ -66,7 +66,7 @@ cognition?** [Eur J Neurosci](https://doi.org/10.1111/ejn.13930). 2018 Jun;47(11
 
 
 ### Brain dysfunction in the critically ill patients:
-- Azabou E,* Rohaut B,* Porcher R, Heming N, Kandelman S, Allary J, Moneger G, et al. **Mismatch negativity to predict subsequent awakening in deeply sedated critically ill patients.** [British Journal of Anaesthesia](https://doi.org/10.1016/j.bja.2018.06.029). 2018 Sep 3 [Epub ahead of print].
+- Azabou E,* Rohaut B,* Porcher R, Heming N, Kandelman S, Allary J, Moneger G, et al. **Mismatch negativity to predict subsequent awakening in deeply sedated critically ill patients.** [British Journal of Anaesthesia](https://doi.org/10.1016/j.bja.2018.06.029). 2018 Sep 3 [Epub ahead of print]. ([post]({{ site.url }}/2018/MMN_deep_sedation/) about this publication; [postprint]({{ site.url }}/images//MMN_deep_sed/Azabou _Rohaut_BJA_2018_postprint.pdf)).  
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1016/j.bja.2018.06.029'></div>
 
 - Reynolds AS, Rohaut B, Holmes MG, Robinson D, Roth W, Velazquez A, et al. **Early myoclonus following anoxic brain injury.** [Neurology Clin Pract](https://doi.org/10.1212/CPJ.0000000000000466).  2018 Jun;8(3):249–56.
