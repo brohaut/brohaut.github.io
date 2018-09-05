@@ -93,7 +93,7 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 
 ### Critical thinking & Medical decision making:
 
-- Hermann B,* Goudard G,* Courcoux K,* Valente M, Labat S, Despois L, Bourmaleau J, Louise Richard L, et al. **‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.** [BioRxiv 2018;:370775. doi:10.1101/370775](https://doi.org/10.1101/370775) ([post]({{ site.url }}/2018/DoC-feeling/) about this publication)
+- Hermann B,* Goudard G,* Courcoux K,* Valente M, Labat S, Despois L, Bourmaleau J, Louise Richard L, et al. **‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.** [bioRxiv 2018;:370775. doi:10.1101/370775](https://doi.org/10.1101/370775) ([post]({{ site.url }}/2018/DoC-feeling/) about this publication)
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1101/370775'></div>
 
 - Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Edito_BJA/) about this publication; [postprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_BJA_2018_postprint.pdf)).  
