@@ -24,7 +24,7 @@ print]
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1002/ana.25045'></div>
 
 
-- Rohaut B* , Raimondo F* , Galanaud D, Valente M, Sitt J.D, Naccache L. **Probing
+- Rohaut B,* Raimondo F,* Galanaud D, Valente M, Sitt J.D, Naccache L. **Probing
 consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https://doi.org/10.1080/02699052.2017.1327673). 2017 Aug;31:1398-1403. ([post]({{ site.url }}/2017/Article-D-LIS/) about this publication; [postprint]({{ site.url }}/images/Brain_injury/Rohaut_Raimondo_Brain_Inj_2017_postprint.pdf)).
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1080/02699052.2017.1327673'></div>
 
@@ -32,10 +32,10 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 - Rohaut B, Faugeras F, Chausson N, King J-R, Karoui IE, Cohen L, et al. **Probing ERP correlates of verbal semantic processing in patients with impaired consciousness.** [Neuropsychologia](http://dx.doi.org/10.1016/j.neuropsychologia.2014.10.014). 2015 Jan;66:279–92. ([post]({{ site.url }}/2017/Article-Semantic-DOC/) about this publication).
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1'  data-doi='10.1016/j.neuropsychologia.2014.10.014'></div>
 
-- Sitt J.D* , King J-R* , El Karoui I, Rohaut B, Faugeras F, Gramfort A, et al. **Large scale screening of neural signatures of consciousness in patients in a vegetative or minimally conscious state.** [Brain](https://doi.org/10.1093/brain/awu141). 2014 Aug;137(Pt 8):2258–70.
+- Sitt J.D,* King J-R,* El Karoui I, Rohaut B, Faugeras F, Gramfort A, Cohen L, et al. **Large scale screening of neural signatures of consciousness in patients in a vegetative or minimally conscious state.** [Brain](https://doi.org/10.1093/brain/awu141). 2014 Aug;137(Pt 8):2258–70.
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1093/brain/awu141'></div>
 
-- King J-R* , Sitt J.D* , Faugeras F, Rohaut B, El Karoui I, Cohen L, et al. **Information sharing in the brain indexes consciousness in noncommunicative patients.** [Curr Biol](http://dx.doi.org/10.1016/j.cub.2013.07.075). 2013 Oct 7;23(19):1914–9.
+- King J-R,* Sitt J.D,* Faugeras F, Rohaut B, El Karoui I, Cohen L, Naccache L, et al. **Information sharing in the brain indexes consciousness in noncommunicative patients.** [Curr Biol](http://dx.doi.org/10.1016/j.cub.2013.07.075). 2013 Oct 7;23(19):1914–9.
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1016/j.cub.2013.07.075'></div>
 
 - Faugeras F, Rohaut B, Weiss N, Bekinschtein T, Galanaud D, Puybasset L, et al.  **Event related potentials elicited by violations of auditory regularities in patients with impaired consciousness.** [Neuropsychologia](http://dx.doi.org/10.1016/j.neuropsychologia.2011.12.015). 2012 Feb;50(3):403–18.
@@ -52,8 +52,7 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 ### Language & Consciousness:
 
 - Rohaut B & Naccache L. **What are the boundaries of unconscious semantic
-cognition?** [Eur J Neurosci](https://doi.org/10.1111/ejn.13930). 2018 May 5 [Epub ahead of
-print]. ([postprint]({{ site.url }}/images/Rohaut_Naccache_EJN_2018_postprint.pdf)).
+cognition?** [Eur J Neurosci](https://doi.org/10.1111/ejn.13930). 2018 Jun;47(11):1287–8. ([postprint]({{ site.url }}/images/Rohaut_Naccache_EJN_2018_postprint.pdf)).
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1111/ejn.13930'></div>
 
 - Rohaut B & Naccache L. **Disentangling conscious from unconscious cognitive processing with event-related EEG potentials**. [Revue Neurologique](https://doi.org/10.1016/j.neurol.2017.08.001). 2017 Aug;173:521-28. ([post]({{ site.url }}/2017/Article-Rev_Neurol/) about this publication; [postprint]({{ site.url }}/images/Rev_Neurol/Rohaut_Naccache_Revue_Neurol_2017_postprint.pdf)).
@@ -67,11 +66,11 @@ print]. ([postprint]({{ site.url }}/images/Rohaut_Naccache_EJN_2018_postprint.pd
 
 
 ### Brain dysfunction in the critically ill patients:
+- Azabou E,* Rohaut B,* Porcher R, Heming N, Kandelman S, Allary J, Moneger G, et al. **Mismatch negativity to predict subsequent awakening in deeply sedated critically ill patients.** [British Journal of Anaesthesia](https://doi.org/10.1016/j.bja.2018.06.029). 2018 Sep 3 [Epub ahead of print].
+    <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1016/j.bja.2018.06.029'></div>
 
-
-- Reynolds AS, Rohaut B, Holmes MG, Robinson D, Roth W, Velazquez A, et al. **Early myoclonus following anoxic brain injury.** [Neurology Clin Pract](https://doi.org/10.1212/CPJ.0000000000000466). 2018 May 23 [Epub ahead of print]
+- Reynolds AS, Rohaut B, Holmes MG, Robinson D, Roth W, Velazquez A, et al. **Early myoclonus following anoxic brain injury.** [Neurology Clin Pract](https://doi.org/10.1212/CPJ.0000000000000466).  2018 Jun;8(3):249–56.
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1212/CPJ.0000000000000466'></div>
-
 
 - Velly L, Perlbarg V, Boulier T, Adam N, Delphine S, Luyt C-E, et al. **Use of brain diffusion tensor imaging for the prediction of long-term neurological outcomes in patients after cardiac arrest: a multicentre, international, prospective, observational, cohort study.** [The Lancet Neurology](https://doi.org/10.1016/S1474-4422(18)30027-9). 2018 Apr;17(4):317-326.
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1016/S1474-4422(18)30027-9'></div>
@@ -90,16 +89,17 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 - Sharshar T, Porcher R, Siami S, Rohaut B, Bailly-Salin J, Hopkinson NS, et al. **Brainstem responses can predict death and delirium in sedated patients in intensive care unit.** [Crit Care Med](http://dx.doi.org/10.1097/CCM.0b013e31821b843b). 2011 Aug;39(8):1960–7. (reprint available [here]({{ site.url }}/images/Sharshar et al. - Critical Care Medicine - 2011.pdf)).
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1097/CCM.0b013e31821b843b'></div>
 
+(* : first co-authors)
 
 ### Critical thinking & Medical decision making:
 
-- Hermann B, Goudard G, Courcoux K, et al. **‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.** [BioRxiv 2018;:370775. doi:10.1101/370775](https://doi.org/10.1101/370775) ([post]({{ site.url }}/2018/DoC-feeling/) about this publication)
+- Hermann B,* Goudard G,* Courcoux K,* Valente M, Labat S, Despois L, Bourmaleau J, Louise Richard L, et al. **‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.** [BioRxiv 2018;:370775. doi:10.1101/370775](https://doi.org/10.1101/370775) ([post]({{ site.url }}/2018/DoC-feeling/) about this publication)
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1101/370775'></div>
 
 - Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Edito_BJA/) about this publication; [postprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_BJA_2018_postprint.pdf)).  
   <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1016/j.bja.2017.11.007'></div>
 
-
+(* : first co-authors)
 #### Complete list on [Google Scholar], [Researchgate] or [Pubmed];
 
 ### [Media]({{ site.url }}/media) participations (Press, TV ..)
