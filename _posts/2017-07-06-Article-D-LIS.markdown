@@ -9,7 +9,7 @@ Our paper entitled **"Probing consciousness in a sensory-disconnected paralyzed 
 
 ![Brain_Injury]({{ site.url }}/images/Brain_injury/Brain_Injury.jpeg)
 
-free [**postprint**]({{ site.url }}/images/Brain_injury/Brain_Inj_postprint.pdf) available
+free [**postprint**]({{ site.url }}/images/Brain_injury/Rohaut_Raimondo_Brain_Inj_2017_postprint.pdf) available
 
 ---
 ![Fig-1]({{ site.url }}/images/Brain_injury/Figure_1.jpg)
