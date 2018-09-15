@@ -75,7 +75,7 @@ cognition?** [Eur J Neurosci](https://doi.org/10.1111/ejn.13930). 2018 Jun;47(11
 - Velly L, Perlbarg V, Boulier T, Adam N, Delphine S, Luyt C-E, et al. **Use of brain diffusion tensor imaging for the prediction of long-term neurological outcomes in patients after cardiac arrest: a multicentre, international, prospective, observational, cohort study.** [The Lancet Neurology](https://doi.org/10.1016/S1474-4422(18)30027-9). 2018 Apr;17(4):317-326.
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1016/S1474-4422(18)30027-9'></div>
 
-- Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Edito_BJA/) about this publication; [postprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_BJA_2018_postprint.pdf)).
+- Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Cog_Biases/) about this publication; [postprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_BJA_2018_postprint.pdf)).
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1016/j.bja.2017.11.007'></div>
 
 - Azabou E, Rohaut B, Heming N, Magalhaes E, Morizot-Koutlidis R, Kandelman S, et al. **Early impairment of intracranial conduction time predicts
@@ -96,7 +96,7 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 - Hermann B,* Goudard G,* Courcoux K,* Valente M, Labat S, Despois L, Bourmaleau J, Louise Richard L, et al. **‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.** [bioRxiv 2018;:370775. doi:10.1101/370775](https://doi.org/10.1101/370775) ([post]({{ site.url }}/2018/DoC-feeling/) about this publication)
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1101/370775'></div>
 
-- Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Edito_BJA/) about this publication; [postprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_BJA_2018_postprint.pdf)).  
+- Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Cog_Biases/) about this publication; [postprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_BJA_2018_postprint.pdf)).  
   <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1016/j.bja.2017.11.007'></div>
 
 (* : first co-authors)
