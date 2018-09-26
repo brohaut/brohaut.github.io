@@ -13,8 +13,7 @@ Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 
 ### Disorders of Consciousness:
 
-- André-Obadia N, Zyss J, Gavaret M, Lefaucheur J-P, Azabou E, Boulogne S, et al. **Recommendations for the use of electroencephalography and evoked potentials in comatose patients.** [Neurophysiologie Clinique](https://doi.org/10.1016/j.neucli.2018.05.038). 2018 May 18 [Epub ahead of
-print]
+- André-Obadia N, Zyss J, Gavaret M, Lefaucheur J-P, Azabou E, Boulogne S, et al. **Recommendations for the use of electroencephalography and evoked potentials in comatose patients.** [Neurophysiologie Clinique](https://doi.org/10.1016/j.neucli.2018.05.038). 2018 Jun 1;48(3):143–69.
     <div class='altmetric-embed' data-badge-type='bar'  data-hide-less-than='1' data-doi='10.1016/j.neucli.2018.05.038'></div>
 
 - Faugeras F, Rohaut B, Valente M, Sitt J.D, Demeret S, Bolgert F, et al. **Survival and consciousness recovery are better in the minimally conscious state than in the vegetative state**. [Brain Injury](https://doi.org/10.1080/02699052.2017.1364421). 2018 Jan;32:72-77. ([post]({{ site.url }}/2017/Article-MCS_Prognosis/) about this publication).
