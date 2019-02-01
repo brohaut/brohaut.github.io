@@ -17,7 +17,7 @@ Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 - Rohaut B, Doyle KW, Reynolds AS, Igwe K, Couch C, Matory A, et al. **Deep structural brain lesions associated with consciousness impairment early after haemorrhagic stroke.** [bioRxiv](https://doi.org/10.1101/441709). 2018 Oct 15;441709.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1101/441709" data-hide-less-than="10" class="altmetric-embed"></div>
 
-- Engemann DA, Raimondo F, King J-R, Rohaut B, Louppe G, Faugeras F, et al. **Robust EEG-based cross-site and cross-protocol classification of states of consciousness.** [Brain](https://doi.org/10.1093/brain/awy251) [online first; cited 2018 Oct 4]
+- Engemann DA,* Raimondo F,* King J-R, Rohaut B, Louppe G, Faugeras F, et al. **Robust EEG-based cross-site and cross-protocol classification of states of consciousness.** [Brain](https://doi.org/10.1093/brain/awy251) [online first; cited 2018 Oct 4]
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1093/brain/awy251" data-hide-less-than="10" class="altmetric-embed"></div>
 
 
