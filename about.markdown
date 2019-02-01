@@ -19,7 +19,7 @@ I now focus my research on ICU brain-injured patients, trying to improve assessm
 
 ---
 ## Links:
-* [Contact]({{ site.url }}/contact) 
+* [Contact]({{ site.url }}/contact)
 * Main [Publications]({{ site.url }}/publis)
 * Complete list of publication on [Google Scholar], [Researchgate] or [Pubmed]
 * Peer reviewing activity on [Publon]
@@ -60,3 +60,9 @@ ___
 11. Rohaut B, Alario F-X, Meadow J, Cohen L, Naccache L. **Unconscious semantic processing of polysemous words is not automatic.** [Neurosci Conscious](https://doi.org/10.1093/nc/niw010). 2016 Jan 1;2016(1):niw010. (post about this publication [here]({{ site.url }}/2017/Article-Polysemy/))
 
 #### List of main [publications]({{ site.url }}/publis)
+
+
+---
+
+
+![photo]({{ site.url }}/images/Benjamin Rohaut.jpeg)
