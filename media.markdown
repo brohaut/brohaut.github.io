@@ -7,6 +7,9 @@ permalink: media
 
 ___
 
+### La conscience dans tous ses états
+Interview avec Lionel Naccache et Jacobo Sitt pour [Le Monde](https://www.lemonde.fr/sciences/article/2019/02/12/la-conscience-dans-tous-ses-etats_5422453_1650684.html) au sujet de nos articles publiés dans [*Science Advances*](http://advances.sciencemag.org/content/5/2/eaat7603) et dans [BMJ*open*](http://dx.doi.org/10.1136/bmjopen-2018-02621)(Fev 2019).
+
 ### Interaction entre cœur et cerveau: un nouvel indicateur de l’état de conscience
 Interview pour [Le Figaro](http://sante.lefigaro.fr/article/etat-vegetatif-l-activite-du-coeur-reflete-l-etat-de-conscience/) et  au sujet de notre article publié dans [*Annals of Neurology*](http://onlinelibrary.wiley.com/doi/10.1002/ana.25045/full) (Oct 2017, voir aussi [post]({{ site.url }}/2017/Article-Brain_Heart/) sur cette publication).
 
