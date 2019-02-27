@@ -62,6 +62,10 @@ Cette approche, en complément de l’évaluation clinique médicale et des exam
 ____
 ### Media:
 
-* [Le Monde](https://www.lemonde.fr/sciences/article/2019/02/12/la-conscience-dans-tous-ses-etats_5422453_1650684.html), 12 février
+* [Le Monde](https://www.lemonde.fr/sciences/article/2019/02/12/la-conscience-dans-tous-ses-etats_5422453_1650684.html), 12 février 2019
+
+* Communiqué de presse [AP-HP](https://aphp.fr/contenu/doc-feeling-lexpertise-des-soignants-contribue-ameliorer-le-diagnostic-des-patients-en-etat), 22 février
 
 * FranceInter, 26 février [La une de la Science](https://www.franceinter.fr/emissions/la-une-de-la-science/la-une-de-la-science-26-fevrier-2019)
+
+* [Le magazine de la santé](https://www.allodocteurs.fr/emissions/le-magazine-de-la-sante/le-magazine-de-la-sante-du-26-02-2019_27156.html) (à 9'12''), 26 février
