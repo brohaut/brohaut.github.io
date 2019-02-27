@@ -24,7 +24,6 @@ Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 - Engemann DA,* Raimondo F,* King J-R, Rohaut B, Louppe G, Faugeras F, et al. **Robust EEG-based cross-site and cross-protocol classification of states of consciousness.** [Brain](https://doi.org/10.1093/brain/awy251). 2018 Nov;141(11):3179-3192.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1093/brain/awy251" data-hide-less-than="10" class="altmetric-embed"></div>
 
-
 - André-Obadia N, Zyss J, Gavaret M, Lefaucheur J-P, Azabou E, Boulogne S, et al. **Recommendations for the use of electroencephalography and evoked potentials in comatose patients.** [Neurophysiologie Clinique](https://doi.org/10.1016/j.neucli.2018.05.038). 2018 Jun;48(3):143–69.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.neucli.2018.05.038" data-hide-less-than="10" class="altmetric-embed"></div>
 
@@ -47,19 +46,14 @@ consciousness in a sensory-disconnected paralyzed patient.** [Brain Inj](https:/
 - King J-R,* Sitt J.D,* Faugeras F, Rohaut B, El Karoui I, Cohen L, Naccache L, et al. **Information sharing in the brain indexes consciousness in noncommunicative patients.** [Curr Biol](http://dx.doi.org/10.1016/j.cub.2013.07.075). 2013 Oct;23(19):1914–9.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.cub.2013.07.075" data-hide-less-than="10" class="altmetric-embed"></div>
 
-
 - Faugeras F, Rohaut B, Weiss N, Bekinschtein T, Galanaud D, Puybasset L, et al.  **Event related potentials elicited by violations of auditory regularities in patients with impaired consciousness.** [Neuropsychologia](http://dx.doi.org/10.1016/j.neuropsychologia.2011.12.015). 2012 Feb;50(3):403–18.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.neuropsychologia.2011.12.015" data-hide-less-than="10" class="altmetric-embed"></div>
-
 
 - Faugeras F, Rohaut B, Weiss N, Bekinschtein TA, Galanaud D, Puybasset L, et al. **Probing consciousness with event-related potentials in the vegetative state.** [Neurology](http://dx.doi.org/10.1212/WNL.0b013e3182217ee8). 2011 Jul;77(3):264–8.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1212/WNL.0b013e3182217ee8" data-hide-less-than="10" class="altmetric-embed"></div>
 
-
 - Bekinschtein TA, Dehaene S, Rohaut B, Tadel F, Cohen L, Naccache L. **Neural signature of the conscious processing of auditory regularities.** [PNAS](http://dx.doi.org/10.1073/pnas.0809667106). 2009 Feb;106(5):1672–7.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1073/pnas.0809667106" data-hide-less-than="10" class="altmetric-embed"></div>
-
-
 
 (* : first co-authors)
 
@@ -109,10 +103,15 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 (* : first co-authors)
 
 ### Critical thinking & Medical decision making:
+- Hermann B, * Goudard G, * Courcoux K, * Valente M, Labat S, ... Rohaut B. **Wisdom of the caregivers: pooling individual subjective reports to diagnose states of consciousness in brain-injured patients, a monocentric prospective study.** [BMJopen](http://dx.doi.org/10.1136/bmjopen-2018-026211) 2018-026211. (post about this publication [in french]({{ site.url }}/2019/DoC-feeling_fr/) or [in english]({{ site.url }}/2018/DoC-feeling/))
+    <div data-badge-popover="right" data-badge-type="4" data-doi="10.1136/bmjopen-2018-026211" data-hide-less-than="10" class="altmetric-embed"></div>
 
-- Hermann B,* Goudard G,* Courcoux K,* Valente M, Labat S, Despois L, Bourmaleau J, Louise Richard L, et al. **‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.** [bioRxiv](https://doi.org/10.1101/370775). 2018;:370775. doi:10.1101/370775 ([post]({{ site.url }}/2018/DoC-feeling/) about this publication)
+- Peiffer-Smadja N, Lescure FX, Maatoug R, Rohaut B. **Cognitive biases in the
+decision-making process of antibiotic prescribing.** [Clin Microbiol Infect](https://doi.org/10.1016/j.cmi.2018.12.010). 2018
+
+
+- Hermann B,* Goudard G,* Courcoux K,* Valente M, Labat S, ... Rohaut B. **‘DoC-feeling’: a new behavioural tool to help diagnose the Minimally Conscious State.** [bioRxiv](https://doi.org/10.1101/370775). 2018:370775. doi:10.1101/370775 ([post]({{ site.url }}/2018/DoC-feeling/) about this publication)
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1101/370775" data-hide-less-than="10" class="altmetric-embed"></div>
-
 
 - Rohaut B & Claassen J. **Decision making in perceived devastating brain injury: a call to explore the impact of cognitive biases.** [British Journal of Anaesthesia](http://dx.doi.org/10.1016/j.bja.2017.11.007). 2018 Jan;120(1):5-9. ([post]({{ site.url }}/2018/Cog_Biases/) about this publication; [postprint]({{ site.url }}/images//BJA_edito/Rohaut_Claassen_BJA_2018_postprint.pdf)).  
   <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.bja.2017.11.007" data-hide-less-than="10" class="altmetric-embed"></div>
