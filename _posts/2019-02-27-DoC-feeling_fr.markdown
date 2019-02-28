@@ -69,3 +69,5 @@ ____
 * FranceInter, 26 février [La une de la Science](https://www.franceinter.fr/emissions/la-une-de-la-science/la-une-de-la-science-26-fevrier-2019)
 
 * [Le magazine de la santé](https://www.allodocteurs.fr/emissions/le-magazine-de-la-sante/le-magazine-de-la-sante-du-26-02-2019_27156.html) (à 9'12''), 26 février
+
+* [Le Quotidien du Médecin](https://www.lequotidiendumedecin.fr/actualites/article/2019/02/27/doc-feeling-un-outil-base-sur-le-ressenti-des-soignants-pour-affiner-le-diagnostic-des-patients-en-etat-de-conscience-alteree_866391), 27 février
