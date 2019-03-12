@@ -12,7 +12,7 @@ Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 
 
 ### Disorders of Consciousness:
-- Rohaut B, Doyle KW, Reynolds AS, Igwe K, Couch C, Matory A, et al. **Deep structural brain lesions associated with consciousness impairment early after haemorrhagic stroke.** [Scientific Reports](www.nature.com/articles/s41598-019-41042-2). 2019.s41598-019-41042-2.
+- Rohaut B, Doyle KW, Reynolds AS, Igwe K, Couch C, Matory A, et al. **Deep structural brain lesions associated with consciousness impairment early after hemorrhagic stroke.** [Scientific Reports](https://www.nature.com/articles/s41598-019-41042-2). 2019.s41598-019-41042-2.
     <div data-badge-popover="right" data-badge-type="4" data-doi="s41598-019-41042-2" data-hide-less-than="10" class="altmetric-embed"></div>
 
 - Rohaut B, Eliseyev A, Claassen J. **Uncovering consciousness in unresponsive ICU patients: technical, medical and ethical consideration.** [Critical Care](https://doi.org/10.1186/s13054-019-2370-4). 2019;23(1):78.
@@ -99,9 +99,8 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 - Sharshar T, Porcher R, Siami S, Rohaut B, Bailly-Salin J, Hopkinson NS, et al. **Brainstem responses can predict death and delirium in sedated patients in intensive care unit.** [Crit Care Med](http://dx.doi.org/10.1097/CCM.0b013e31821b843b). 2011 Aug;39(8):1960–7. (reprint available [here]({{ site.url }}/images/Sharshar et al. - Critical Care Medicine - 2011.pdf)).
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1097/CCM.0b013e31821b843b" data-hide-less-than="10" class="altmetric-embed"></div>
 
-
-
 (* : first co-authors)
+
 
 ### Critical thinking & Medical decision making:
 - Hermann B, * Goudard G, * Courcoux K, * Valente M, Labat S, ... Rohaut B. **Wisdom of the caregivers: pooling individual subjective reports to diagnose states of consciousness in brain-injured patients, a monocentric prospective study.** [BMJopen](http://dx.doi.org/10.1136/bmjopen-2018-026211) 2018-026211. (post about this publication [in french]({{ site.url }}/2019/DoC-feeling_fr/) or [in english]({{ site.url }}/2018/DoC-feeling/))
