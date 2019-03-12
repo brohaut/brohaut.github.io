@@ -12,14 +12,15 @@ Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 
 
 ### Disorders of Consciousness:
-- Rohaut B, Eliseyev A, Claassen J. **Uncovering consciousness in unresponsive ICU patients: technical, medical and ethical consideration.** Critical Care. 2019 (in press).
+- Rohaut B, Doyle KW, Reynolds AS, Igwe K, Couch C, Matory A, et al. **Deep structural brain lesions associated with consciousness impairment early after haemorrhagic stroke.** [Scientific Reports](www.nature.com/articles/s41598-019-41042-2). 2019.s41598-019-41042-2.
+    <div data-badge-popover="right" data-badge-type="4" data-doi="s41598-019-41042-2" data-hide-less-than="10" class="altmetric-embed"></div>
+
+- Rohaut B, Eliseyev A, Claassen J. **Uncovering consciousness in unresponsive ICU patients: technical, medical and ethical consideration.** [Critical Care](https://doi.org/10.1186/s13054-019-2370-4). 2019;23(1):78.
+    <div data-badge-popover="right" data-badge-type="4" data-doi="10.1186/s13054-019-2370-4" data-hide-less-than="10" class="altmetric-embed"></div>
 
 - Demertzi A,* Tagliazucchi E*, Dehaene S, Deco G, Barttfeld P, Raimondo F, Martial C, et al.
  **Human consciousness is supported by dynamic complex patterns of brain signal coordination.** [Science Advance](https://doi.org/10.1126/sciadv.aat7603). 2019 Feb;5(2)eaat7603.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1126/sciadv.aat7603" data-hide-less-than="10" class="altmetric-embed"></div>
-
-- Rohaut B, Doyle KW, Reynolds AS, Igwe K, Couch C, Matory A, et al. **Deep structural brain lesions associated with consciousness impairment early after haemorrhagic stroke.** [bioRxiv](https://doi.org/10.1101/441709). 2018 Oct;441709.
-    <div data-badge-popover="right" data-badge-type="4" data-doi="10.1101/441709" data-hide-less-than="10" class="altmetric-embed"></div>
 
 - Engemann DA,* Raimondo F,* King J-R, Rohaut B, Louppe G, Faugeras F, et al. **Robust EEG-based cross-site and cross-protocol classification of states of consciousness.** [Brain](https://doi.org/10.1093/brain/awy251). 2018 Nov;141(11):3179-3192.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1093/brain/awy251" data-hide-less-than="10" class="altmetric-embed"></div>
