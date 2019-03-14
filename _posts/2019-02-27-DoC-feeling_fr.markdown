@@ -71,3 +71,5 @@ ____
 * [Le magazine de la santé](https://www.francetvinfo.fr/sante/maladie/coma-comment-les-soignants-evaluent-l-etat-de-conscience_3211461.html), 26 février
 
 * [Le Quotidien du Médecin](https://www.lequotidiendumedecin.fr/actualites/article/2019/02/27/doc-feeling-un-outil-base-sur-le-ressenti-des-soignants-pour-affiner-le-diagnostic-des-patients-en-etat-de-conscience-alteree_866391), 27 février
+
+* [infirmiers.com](https://www.infirmiers.com/profession-infirmiere/recherche-en-soins-infirmiers/quand-infirmiers-aides-soignants-aussi-bien-que-experts.html), 8 mars
