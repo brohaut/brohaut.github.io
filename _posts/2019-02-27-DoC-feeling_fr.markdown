@@ -60,7 +60,7 @@ Cette approche, en complément de l’évaluation clinique médicale et des exam
 
 
 ____
-### Media:
+### Medias:
 
 * [Le Monde](https://www.lemonde.fr/sciences/article/2019/02/12/la-conscience-dans-tous-ses-etats_5422453_1650684.html), 12 février 2019
 
