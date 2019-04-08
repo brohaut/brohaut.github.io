@@ -66,7 +66,7 @@ ____
 
 * Communiqué de presse [AP-HP](https://aphp.fr/contenu/doc-feeling-lexpertise-des-soignants-contribue-ameliorer-le-diagnostic-des-patients-en-etat), 22 février
 
-* FranceInter, 26 février [La une de la Science](https://www.franceinter.fr/emissions/la-une-de-la-science/la-une-de-la-science-26-fevrier-2019)
+* France Inter,[La une de la Science](https://www.franceinter.fr/emissions/la-une-de-la-science/la-une-de-la-science-26-fevrier-2019), 26 février
 
 * [Le magazine de la santé](https://www.francetvinfo.fr/sante/maladie/coma-comment-les-soignants-evaluent-l-etat-de-conscience_3211461.html), 26 février
 
