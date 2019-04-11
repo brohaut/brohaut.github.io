@@ -29,7 +29,7 @@ We discuss the various terminologies that can be used in the acute setting to de
 | **Cognitive motor dissociation (CMD)**    |  Comatose, UWS or MCS-minus clinically defined patients that show MRI or electrophysiologic evidence of command following  |  Functional locked-in syndrome, *Conscious state-4a*|
 | **Communicating-CMD (Com-CMD)**    |  CMD defined patients able to communicate using a brain computer interface (BCI)  |  *Conscious state-4a*|
 
-**Note:** *Italic terms* refer to the recently proposed [Naccache's terminology](https://doi.org/10.1093/brain/awx324). Ranging from 1 to 4, it takes into account both behavioral (“b”) and brain functional imaging (“a”) evidence. Note that as a consequence, the *Cortically Mediated State (CMS)* and the Conscious state appear both in the behaviorally and the brain functional imaging sections of this table.
+**Note:** *Italic terms* refer to the recently proposed [Naccache's terminology](https://doi.org/10.1093/brain/awx324). Ranging from 1 to 4, it takes into account both behavioral (“b”) and brain functional imaging (“a”) evidence. Note that as a consequence, the *Cortically Mediated State (CMS)* and the Conscious state appear both in the behaviorally and the brain functional imaging sections of this table (see original table for more details).
 
 
 We also summarise and discuss available techniques that can be used to assess consciousness (Table 2)
