@@ -7,7 +7,7 @@ tags: [Disorders of Consciousness, Consciousness, ICU, MyPublications]
 
 In this review published in [Critical Care](https://doi.org/10.1186/s13054-019-2370-4), we gather current knowledge about consciousness disorders useful for the ICU physician.
 
-We discuss the various terminologies that can be used in the acute setting to describe various alterated states of consciousness (Table 1)
+We discuss the various terminologies that can be used in the acute setting to describe various alterated states of consciousness (Table 1).
 
 ## Table 1: Definitions of common states of consciousness
 ### Behaviorally defined states:
@@ -32,7 +32,7 @@ We discuss the various terminologies that can be used in the acute setting to de
 **Note:** *Italic terms* refer to the recently proposed [Naccache's terminology](https://doi.org/10.1093/brain/awx324). Ranging from 1 to 4, it takes into account both behavioral (“b”) and brain functional imaging (“a”) evidence. Note that as a consequence, the *Cortically Mediated State (CMS)* and the Conscious state appear both in the behaviorally and the brain functional imaging sections of this table (see original table for more details).
 
 
-We also summarise and discuss available techniques that can be used to assess consciousness (Table 2)
+We also summarise and discuss available clinical (i.e. the Glasgow Coma Scale [GCS] the Full Outline of UnResponsiveness [FOUR] score and the Coma Recovery Scale - Revised [CRS-R]) as well as brain imaging techniques (e.g. Local Global paradigm, multivariate resting state EEG analysis, resting state and mental imagery MRI, motor imagery EEG paradigm ...) that can be used to assess consciousness in the ICU (Table 2).
 
 ## Table 2: Approaches to assess consciousness in the ICU
 ![Table-2]({{ site.url }}/images/Assessement_of_consciousness.png)
