@@ -22,6 +22,7 @@ We discuss the various terminologies that can be used in the acute setting to de
 
 
 ### Brain functional imaging defined states (e.g., fMRI, fEEG, fNIRS, fPET, fMEG):
+
 |      Name        |  Definition           | Other terminologies similar or very close|
 | ---------------- | --------------------- | ---------------------------------------- |
 | **Higher-order cortex motor dissociation (HMD)**    |   Comatose, UWS or MCS-minus (clinically defined) patients that show association cortex responses to language stimuli|   *CMS-3a*|
