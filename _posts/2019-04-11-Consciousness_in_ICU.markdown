@@ -36,6 +36,10 @@ We also summarise and discuss available techniques that can be used to assess co
 ## Table 2: Approaches to assess consciousness in the ICU
 ![Table-2]({{ site.url }}/images/Assessement_of_consciousness.png)
 
+
+Finally, we discuss future Brain Computer Interface (BCI) perspectives for ICU patients.
+
+
 ---
 **Reference:** Rohaut B, Eliseyev A, Claassen J. *Uncovering consciousness in unresponsive ICU patients: technical, medical and ethical consideration.* [Critical Care](https://doi.org/10.1186/s13054-019-2370-4). 2019;23(1):78.
 
