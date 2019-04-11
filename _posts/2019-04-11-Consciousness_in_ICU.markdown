@@ -7,7 +7,7 @@ tags: [Disorders of Consciousness, Consciousness, ICU, MyPublications]
 
 In this review published in [Critical Care](https://doi.org/10.1186/s13054-019-2370-4), we gather current knowledge about consciousness disorders useful for the ICU physician.
 
-We discuss the various terminologies that can be used in the acute setting to describe various alterated states of consciousness (Table 1).
+We discuss the various terminologies that can be used in the acute setting to describe  alterated states of consciousness (Table 1).
 
 ## Table 1: Definitions of common states of consciousness
 ### Behaviorally defined states:
