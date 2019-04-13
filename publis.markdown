@@ -15,7 +15,7 @@ Complete list available on [Google Scholar], [Researchgate] or [Pubmed]
 - Rohaut B, Doyle KW, Reynolds AS, Igwe K, Couch C, Matory A, et al. **Deep structural brain lesions associated with consciousness impairment early after hemorrhagic stroke.** [Scientific Reports](https://www.nature.com/articles/s41598-019-41042-2). 2019.s41598-019-41042-2.
     <div data-badge-popover="right" data-badge-type="4" data-doi="s41598-019-41042-2" data-hide-less-than="10" class="altmetric-embed"></div>
 
-- Rohaut B, Eliseyev A, Claassen J. **Uncovering consciousness in unresponsive ICU patients: technical, medical and ethical consideration.** [Critical Care](https://doi.org/10.1186/s13054-019-2370-4). 2019;23(1):78.
+- Rohaut B, Eliseyev A, Claassen J. **Uncovering consciousness in unresponsive ICU patients: technical, medical and ethical consideration.** [Critical Care](https://doi.org/10.1186/s13054-019-2370-4). 2019;23(1):78. ([post]({{ site.url }}/2019/Consciousness_in_ICU/) about this publication).
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1186/s13054-019-2370-4" data-hide-less-than="10" class="altmetric-embed"></div>
 
 - Demertzi A,* Tagliazucchi E*, Dehaene S, Deco G, Barttfeld P, Raimondo F, Martial C, et al.
