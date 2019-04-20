@@ -22,14 +22,21 @@ During my Ph.D. at the [Sorbonne University](https://sorbonne-universite.fr/en) 
 
 ---
 ## Links:
-* [Contact]({{ site.url }}/contact)
-* Main [Publications]({{ site.url }}/publis)
-* Complete list of publication on [Google Scholar], [Researchgate] or [Pubmed]
+* [Publications]({{ site.url }}/publis)
+* [Conferences]({{ site.url }}/conferences)
+* [Media]({{ site.url }}/media)
+* Teaching NeuroICU (DIU de NeuroRéanimation) [DUNE](http://www.du-neuroreanimation.fr/)
 * Peer reviewing activity on [Publon]
 * <a href="https://orcid.org/0000-0001-6752-8756" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6752-8756</a>   
-* [Résumé]({{ site.url }}/images/Résumé_B.Rohaut.pdf) in pdf
-* [Media]({{ site.url }}/media) participations
 
+
+
+## Membership:
+* European Academy of Neurology ([EAN](https://www.ean.org/); "Neurocritical Care" and "Coma and chronic disorders of consciousness" scientific panels)
+* Neurocritial Care Society ([NCS](https://www.neurocriticalcare.org/home); Research Operations Sub-Committee and Ethical Committee)
+* French Intensive Care Society ([FICS/SRLF](https://www.srlf.org/en/home/))
+* French Neurological Society ([SFN](https://www.sf-neuro.org/))
+* [Chiasma](https://www.chiasma.co/)
 
   [Google Scholar]: https://scholar.google.fr/citations?hl=fr&user=jgHpg1oAAAAJ&view_op=list_works&sortby=pubdate
   [Researchgate]:https://www.researchgate.net/profile/Benjamin_Rohaut
@@ -38,7 +45,7 @@ During my Ph.D. at the [Sorbonne University](https://sorbonne-universite.fr/en) 
 
 ___
 
-### References:
+#### References:
 
 1. Bekinschtein TA, Dehaene S, Rohaut B, Tadel F, Cohen L, Naccache L. **Neural signature of the conscious processing of auditory regularities.** [PNAS](http://dx.doi.org/10.1073/pnas.0809667106). 2009 Feb 3;106(5):1672–7.
 
