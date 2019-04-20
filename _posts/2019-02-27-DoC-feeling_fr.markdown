@@ -2,7 +2,7 @@
 title:  "DoC Feeling : L’intelligence collective des soignants appliquée au diagnostic des états de conscience altérée"
 date:   2019-02-27 00:00:00
 categories: [Publi]
-tags: [Disorders of Consciousness, Consciousness, Decision Making, ICU, MyPublications]
+tags: [Disorders of Consciousness, Consciousness, Decision Making, ICU, MyPublications, En Francais]
 ---
 
 Notre étude publiée dans le [BMJ open](https://bmjopen.bmj.com/content/9/2/e026211) [1] démontre que l'appréciation subjective des soignants (infirmiers et aides-soignants) concernant l'état de conscience des patients représente une réelle valeur ajoutée aux diagnostics médicaux et aux examens d’électrophysiologie et d’imagerie cérébrale classiques.

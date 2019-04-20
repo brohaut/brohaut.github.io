@@ -3,11 +3,14 @@ title: My page
 permalink: about
 ---
 
-Hi, welcome to my page! I am a French Neurointensivist working at Columbia University in the [Neuro-ICU research team](http://columbianeurology.org/research/divisions-and-programs/neurocritical-care) of the Neurological department, led by Prof Jan Claassen.  
-My research aims at exploring [Brain Dysfunction]({{ site.url }}/tags/#Brain%20dysfunction%20in%20ICU) in the Intensive Care Unit (ICU) and at developing tools to improve assessment & treatment of severely brain-injured patients suffering from [Disorder of Consciousness]({{ site.url }}/tags/#Disorders%20of%20Consciousness).
+Hi, welcome to my page! I am a French Neurologist and intensivist working at Columbia University in the [Neuro-ICU research team](http://columbianeurology.org/research/divisions-and-programs/neurocritical-care) led by Prof Jan Claassen.  
+My research aims at exploring [Brain Dysfunction]({{ site.url }}/tags/#Brain%20dysfunction%20in%20ICU) in the Intensive Care Unit (ICU) and developing tools to improve assessment & treatment of severely brain-injured patients suffering from [Disorders of Consciousness]({{ site.url }}/tags/#Disorders%20of%20Consciousness).
 
 Advances in modern intensive care medicine have led to an increase in the number of patients who survive critical illness. For these patients, the impact of brain injuries on consciousness, cognitive disability and more generally on quality of life can be highly significant.  
-As we better understand consciousness, new cutting edge brain stimulation technics, which could help awakening some unconscious patients now become reality. To make well-grounded medical decisions, we need accurate diagnosis and prognostic tools.
+
+**As we better understand consciousness and develop new cutting edge brain stimulation techniques, the awakening of some unconscious patients is becoming  a reality. However, to make well-grounded medical decisions, we need increasingly accurate diagnosis and prognostic tools.**
+
+____
 
 Since 2008, I have been working with Prof Lionel Naccache at *La Pitié-Salpêtrière Hospital* in Paris, exploring several approaches to assess cognitive abilities in unresponsive patients such as electrophysiological markers related to deviant stimuli detection (1, 2, 3); correlate of semantic processing (4) and, more recently, functional connectivity using a new marker called *wSMI* (for weighted Symbolic Mutual Information, 5) integrated in a multidimentional approach using machine learning (6, 7, [post]({{ site.url }}/2017/Article-D-LIS/)).
 
@@ -15,7 +18,7 @@ Through the “GENeR” (*Groupe d’Exploration Neurologique en Réanimation*) 
 
 During my Ph.D. at the [Sorbonne University](https://sorbonne-universite.fr/en) & the [Brain & Spine Institute](http://icm-institute.org/en/team/team-bartolomeo-cohen-naccache/) – Paris, I have explored with Lionel Naccache the Relations between Language & Consciousness both in brain injured patients and healthy volunteers (4, [thesis](https://tel.archives-ouvertes.fr/tel-01372200)). Trying to replicate a set of classical 30-year-old  results, we could finally reframe a well- established model of semantic unconscious processing (11, [post]({{ site.url }}/2017/Article-polysemy/)).
 
-I now focus my research on ICU brain-injured patients, trying to improve assessment & treatment of patients suffering from consciousness disorders in the ICU.
+**I now focus my research on ICU brain-injured patients, trying to improve assessment & treatment of patients suffering from consciousness disorders in the ICU.**
 
 ---
 ## Links:
