@@ -10,7 +10,7 @@ permalink: conferences
 - *Exploration de la conscience chez les patients non communicants*  
 **27e congrès de l'Association québécoise de soins palliatifs (ASQP)**, Quebec May 2017 [article](https://www.aqsp.org/wp-content/uploads/2017/10/7859_Bulletin_AQSP-v25_no2_web.pdf).
 
-- *Event Related Potential in coma and consciousness disorders*  
+- *Event Related Potentials in coma and other consciousness disorders*  
 **Neurosciences in Intensive Care International Symposium (NICIS)-America**, Washington DC  March 2018 [program](https://nicis.org/index.php/agenda).
 
 - *Recovery of consciousness after brain injury*  
