@@ -6,6 +6,8 @@ permalink: media
 #### *Communications grand public / interviews:*
 
 ___
+### Sorties de coma et troubles de la conscience: des cas rarissimes qui fascinent
+Interview pour l'[AFP](https://information.tv5monde.com/info/sorties-de-coma-et-troubles-de-la-conscience-des-cas-rarissimes-qui-fascinent-297293) au sujet d'une patiente qui aurait émergé d'un état de conscience minimale 27 ans après un traumatisme crânien (article de la [BBC](https://www.bbc.com/news/world-middle-east-48020481); Avr 2019).
 
 ### La conscience dans tous ses états.
 Interview avec Lionel Naccache et Jacobo Sitt pour [Le Monde](https://www.lemonde.fr/sciences/article/2019/02/12/la-conscience-dans-tous-ses-etats_5422453_1650684.html) au sujet de nos articles publiés dans [*Science Advances*](http://advances.sciencemag.org/content/5/2/eaat7603) et [*BMJ open*](https://bmjopen.bmj.com/content/9/2/e026211) (Fev 2019).
