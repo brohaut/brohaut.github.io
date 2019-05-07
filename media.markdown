@@ -1,6 +1,8 @@
 ---
 title: Media
 permalink: media
+
+tags: [Disorders of Consciousness, Consciousness, Decision Making, ICU, MyPublications, En Francais]
 ---
 
 #### *Communications grand public / interviews:*
@@ -25,7 +27,7 @@ Interview pour [Science & Avenir](https://www.sciencesetavenir.fr/sante/cerveau-
  Interview pour [Science & Avenir](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/des-chercheurs-communiquent-avec-des-patients-atteints-de-la-maladie-de-charcot-et-totalement-paralyses_110426) au sujet d'un article de l'équipe de Niels Birbaumer utilisant une interface cerveau-machine publié dans [*Plos Biology*](http://dx.doi.org/10.1371/journal.pbio.1002593) (Février 2017).
 
 ### Un inconscient sous influence consciente.
- Article dans [Le Figaro] et interview sur [BFM] au sujet de notre article publié dans [*Neuroscience of Consciousness*]({{ site.url }}/2017/Article-Polysemy/) (Septembre 2016,voir aussi [post]({{ site.url }}/2017/Article-Polysemy/) sur cette publication)).
+ Article dans [Le Figaro] et interview sur [BFM] au sujet de notre article publié dans [*Neuroscience of Consciousness*]({{ site.url }}/2017/Article-Polysemy/) (Septembre 2016, voir aussi [post]({{ site.url }}/2017/Article-Polysemy/) sur cette publication)).
 
 ### Les pouvoirs du cerveau: "Déchiffrer la conscience, voyage dans l'étoffe de nos pensées".
 Participation au documentaire de Cécile Denjean ([ARTE], Avril 2016).
