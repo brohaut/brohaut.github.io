@@ -20,8 +20,8 @@ The figure shows the grand average ERPs curves recorded at Cz and Fz scalp posit
 ____
 
 
-**Reference:** Azabou E, Rohaut B,* Porcher R, Heming N, Kandelman S, Allary J, Moneger G, et al. **Mismatch negativity to predict subsequent awakening in deeply sedated critically ill patients.** [British Journal of Anaesthesia](https://doi.org/10.1016/j.bja.2018.06.029). 2018 Sep 3 [Epub ahead of print].
-
+**Reference:** Rohaut B,* Azabou E,* Porcher R, Heming N, Kandelman S, Allary J, Moneger G, et al. **Mismatch negativity to predict subsequent awakening in deeply sedated critically ill patients.** [British Journal of Anaesthesia](https://doi.org/10.1016/j.bja.2018.06.029). 2018 Dec;121(6):1290–97.  
+(* : first co-authors)
 
 <script type="text/javascript">
   reddit_url = "https://doi.org/10.1016/j.bja.2018.06.029";
