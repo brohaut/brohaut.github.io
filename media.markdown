@@ -6,8 +6,8 @@ permalink: media
 #### *Communications grand public / interviews:*
 
 ___
-### Coma, "Reveil" et troubles prolongés de la conscience : des cas qui fascinent.
-Interview pour l'[AFP](https://information.tv5monde.com/info/sorties-de-coma-et-troubles-de-la-conscience-des-cas-rarissimes-qui-fascinent-297293) et [Sciences et Avenir](https://www.sciencesetavenir.fr/sante/on-ne-se-reveille-pas-simplement-d-un-long-coma_133395) au sujet d'une patiente qui aurait émergé d'un état végétatif 27 ans après un traumatisme crânien (Avril 2019).
+### Coma, "réveil" et troubles prolongés de la conscience : des cas qui fascinent.
+Interview pour l'[AFP](https://www.france24.com/fr/20190426-sorties-coma-troubles-conscience-cas-rarissimes-fascinent) et [Sciences et Avenir](https://www.sciencesetavenir.fr/sante/on-ne-se-reveille-pas-simplement-d-un-long-coma_133395) au sujet d'une patiente qui aurait émergé d'un état végétatif 27 ans après un traumatisme crânien (Avril 2019).
 
 ### La conscience dans tous ses états.
 Interview avec Lionel Naccache et Jacobo Sitt pour [Le Monde](https://www.lemonde.fr/sciences/article/2019/02/12/la-conscience-dans-tous-ses-etats_5422453_1650684.html) au sujet de nos articles publiés dans [*Science Advances*](http://advances.sciencemag.org/content/5/2/eaat7603) et [*BMJ open*](https://bmjopen.bmj.com/content/9/2/e026211) (Février 2019).
