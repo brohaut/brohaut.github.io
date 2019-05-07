@@ -75,7 +75,7 @@ cognition?** [Eur J Neurosci](https://doi.org/10.1111/ejn.13930). 2018 Jun;47(11
 
 
 ### Brain dysfunction in the critically ill patients:
-- Azabou E,* Rohaut B,* Porcher R, Heming N, Kandelman S, Allary J, Moneger G, et al. **Mismatch negativity to predict subsequent awakening in deeply sedated critically ill patients.** [British Journal of Anaesthesia](https://doi.org/10.1016/j.bja.2018.06.029). 2018 Dec;121(6):1290–97. ([post]({{ site.url }}/2018/MMN_deep_sedation/) about this publication; [postprint]({{ site.url }}/images//MMN_deep_sed/Azabou _Rohaut_BJA_2018_postprint.pdf)).  
+- Rohaut B,* Azabou E,* Porcher R, Heming N, Kandelman S, Allary J, Moneger G, et al. **Mismatch negativity to predict subsequent awakening in deeply sedated critically ill patients.** [British Journal of Anaesthesia](https://doi.org/10.1016/j.bja.2018.06.029). 2018 Dec;121(6):1290–97. ([post]({{ site.url }}/2018/MMN_deep_sedation/) about this publication; [postprint]({{ site.url }}/images//MMN_deep_sed/Azabou _Rohaut_BJA_2018_postprint.pdf)).  
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.bja.2018.06.029" data-hide-less-than="10" class="altmetric-embed"></div>
 
 - Reynolds AS, Rohaut B, Holmes MG, Robinson D, Roth W, Velazquez A, et al. **Early myoclonus following anoxic brain injury.** [Neurology Clin Pract](https://doi.org/10.1212/CPJ.0000000000000466).  2018 Jun;8(3):249–56.
@@ -100,7 +100,7 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 
 
 ### Critical thinking & Medical decision making:
-- Hermann B, * Goudard G, * Courcoux K, * Valente M, Labat S, ... Rohaut B. **Wisdom of the caregivers: pooling individual subjective reports to diagnose states of consciousness in brain-injured patients, a monocentric prospective study.** [BMJopen](http://dx.doi.org/10.1136/bmjopen-2018-026211) 2018-026211. (post about this publication [in french]({{ site.url }}/2019/DoC-feeling_fr/) or [in english]({{ site.url }}/2018/DoC-feeling/))
+- Hermann B,* Goudard G,* Courcoux K,* Valente M, Labat S, ... Rohaut B. **Wisdom of the caregivers: pooling individual subjective reports to diagnose states of consciousness in brain-injured patients, a monocentric prospective study.** [BMJopen](http://dx.doi.org/10.1136/bmjopen-2018-026211) 2018-026211. (post about this publication [in french]({{ site.url }}/2019/DoC-feeling_fr/) or [in english]({{ site.url }}/2018/DoC-feeling/))
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1136/bmjopen-2018-026211" data-hide-less-than="10" class="altmetric-embed"></div>
 
 - Peiffer-Smadja N, Lescure FX, Maatoug R, Rohaut B. **Cognitive biases in the
