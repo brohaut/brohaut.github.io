@@ -1,6 +1,6 @@
 ---
 title:  "Assessment of consciousness in the ICU"
-date:   2019-02-27 00:00:00
+date:   2019-04-11 00:00:00
 categories: [Publi]
 tags: [Disorders of Consciousness, Consciousness, ICU, MyPublications]
 ---
