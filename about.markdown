@@ -31,7 +31,7 @@ During my Ph.D. at the [Sorbonne University](https://sorbonne-universite.fr/en) 
 
 
 
-## Membership:
+## Memberships:
 * European Academy of Neurology ([EAN](https://www.ean.org/); "Neurocritical Care" and "Coma and chronic disorders of consciousness" scientific panels)
 * Neurocritial Care Society ([NCS](https://www.neurocriticalcare.org/home); Research Operations Sub-Committee and Ethical Committee)
 * French Intensive Care Society ([FICS/SRLF](https://www.srlf.org/en/home/))
