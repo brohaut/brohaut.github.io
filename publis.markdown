@@ -19,7 +19,7 @@ permalink: publis
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1186/s13054-019-2370-4" data-hide-less-than="10" class="altmetric-embed"></div>
 
 - Demertzi A,* Tagliazucchi E*, Dehaene S, Deco G, Barttfeld P, Raimondo F, Martial C, et al.
- **Human consciousness is supported by dynamic complex patterns of brain signal coordination.** [Science Advance](https://doi.org/10.1126/sciadv.aat7603). 2019 Feb;5(2)eaat7603.
+ **Human consciousness is supported by dynamic complex patterns of brain signal coordination.** [Science Advances](https://doi.org/10.1126/sciadv.aat7603). 2019 Feb;5(2)eaat7603.
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1126/sciadv.aat7603" data-hide-less-than="10" class="altmetric-embed"></div>
 
 - Engemann DA,* Raimondo F,* King J-R, Rohaut B, Louppe G, Faugeras F, et al. **Robust EEG-based cross-site and cross-protocol classification of states of consciousness.** [Brain](https://doi.org/10.1093/brain/awy251). 2018 Nov;141(11):3179-3192.
