@@ -32,13 +32,18 @@ We discuss the various terminologies that can be used in the acute setting to de
 **Note:** *Italic terms* refer to the recently proposed [Naccache's terminology](https://doi.org/10.1093/brain/awx324). Ranging from 1 to 4, it takes into account both behavioral (“b”) and brain functional imaging (“a”) evidence. Note that as a consequence, the *Cortically Mediated State (CMS)* and the Conscious state appear both in the behaviorally and the brain functional imaging sections of this table (see original table for more details).
 
 
-We also summarise and discuss available clinical (i.e. the Glasgow Coma Scale [GCS] the Full Outline of UnResponsiveness [FOUR] score and the Coma Recovery Scale - Revised [CRS-R]) as well as brain imaging techniques (e.g. Local Global paradigm, multivariate resting state EEG analysis, resting state and mental imagery MRI, motor imagery EEG paradigm ...) that can be used to assess consciousness in the ICU (Table 2).
+We also summarise and discuss available clinical (i.e. the **Glasgow Coma Scale [GCS]** the **Full Outline of UnResponsiveness [FOUR]** score and the **Coma Recovery Scale - Revised [CRS-R]**) as well as brain imaging techniques (e.g. Local Global paradigm, multivariate resting state EEG analysis, resting state and mental imagery MRI, motor imagery EEG paradigm ...) that can be used to assess consciousness in the ICU (Table 2).  
+
+(**CRS-R:** [english]({{ site.url }}/images/CRS-R_en.pdf) and [french]({{ site.url }}/images/CRS-R_fr.pdf) versions)
+
 
 ## Table 2: Approaches to assess consciousness in the ICU
 ![Table-2]({{ site.url }}/images/Assessement_of_consciousness.png)
 
 
 Finally, we discuss future Brain Computer Interface (BCI) perspectives for ICU patients.
+
+
 
 
 ---
