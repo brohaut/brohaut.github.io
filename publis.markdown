@@ -12,6 +12,10 @@ permalink: publis
 
 
 ### Disorders of Consciousness:
+- Claassen J, Doyle K, Matory A, Couch C, Burger KM, Velazquez A, ... , Rohaut B.
+**Detection of Brain Activation in Unresponsive Patients with Acute Brain Injury.** [NEJM](https://doi.org/10.1056/NEJMoa1812757). 2019 Jun 27;380(26):2497-2505.
+    <div data-badge-popover="right" data-badge-type="4" data-doi="10.1056/NEJMoa1812757" data-hide-less-than="10" class="altmetric-embed"></div>
+
 - Rohaut B, Doyle KW, Reynolds AS, Igwe K, Couch C, Matory A, et al. **Deep structural brain lesions associated with consciousness impairment early after hemorrhagic stroke.** [Scientific Reports](https://www.nature.com/articles/s41598-019-41042-2). 2019.s41598-019-41042-2.
     <div data-badge-popover="right" data-badge-type="4" data-doi="s41598-019-41042-2" data-hide-less-than="10" class="altmetric-embed"></div>
 
@@ -100,7 +104,7 @@ pilot study.** [Ann Intensive Care](https://doi.org/10.1186/s13613-017-0290-5). 
 
 
 ### Critical thinking & Medical decision making:
-- Hermann B,* Goudard G,* Courcoux K,* Valente M, Labat S, ... Rohaut B. **Wisdom of the caregivers: pooling individual subjective reports to diagnose states of consciousness in brain-injured patients, a monocentric prospective study.** [BMJopen](http://dx.doi.org/10.1136/bmjopen-2018-026211) 2018-026211. (post about this publication [in french]({{ site.url }}/2019/DoC-feeling_fr/) or [in english]({{ site.url }}/2018/DoC-feeling/))
+- Hermann B,* Goudard G,* Courcoux K,* Valente M, Labat S, ... , Rohaut B. **Wisdom of the caregivers: pooling individual subjective reports to diagnose states of consciousness in brain-injured patients, a monocentric prospective study.** [BMJopen](http://dx.doi.org/10.1136/bmjopen-2018-026211) 2018-026211. (post about this publication [in french]({{ site.url }}/2019/DoC-feeling_fr/) or [in english]({{ site.url }}/2018/DoC-feeling/))
     <div data-badge-popover="right" data-badge-type="4" data-doi="10.1136/bmjopen-2018-026211" data-hide-less-than="10" class="altmetric-embed"></div>
 
 - Peiffer-Smadja N, Lescure FX, Maatoug R, Rohaut B. **Cognitive biases in the
