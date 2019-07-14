@@ -28,8 +28,14 @@ permalink: conferences
 **Journées de Neurologie de Langue Française (JNLF)**, Lille Avril 2019 [program](https://www.jnlf.fr/congres-jnlf-2019/programme-jnlf-2019)
 
 
+-  *La conscience en questions.*  
+**25ème congrès de la Société Française d'accompagnement et de soins palliatifs (SFAP)**, Paris June 2019 [program](http://congres.sfap.org/sites/default/files/2019-06/Paris-program-def-V-Web-min_0.pdf)
+
+-  *Evaluation des patients post-coma: la DOC feeling.*  
+**2ème journée francophone interdisciplinaire autour du thème de la prise en charge des patients post-coma**, Liège June 2019 [program](https://www.eventbrite.fr/e/troubles-de-la-conscience-rencontre-entre-recherche-pratique-clinique-et-enjeux-ethiques-tickets-56165695106#)
+
+- *Teaching Course: Diagnosing coma and disorders of consciousness: pearls and pitfalls from a new EAN guideline.*  
+**European Academy of Neurology (EAN)**, Oslo June 2019 [program](https://www.ean.org/oslo2019/fileadmin/user_upload/EAN_FinalProgramme_2019_Oslo_WEB.pdf)
+
 ### Upcoming:
-* **25ème congrès de la Société Française d'accompagnement et de soins palliatifs (SFAP)**, Paris June 2019
-* **2ème journée francophone interdisciplinaire autour du thème de la prise en charge des patients post-coma**, Liège, June 2019
-* **European Academy of Neurology (EAN)**, Oslo June 2019
 * **European College of Neuropsychopharmacology (ECNP)**, Copenhagen Septembre 2019
