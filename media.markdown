@@ -8,6 +8,11 @@ tags: [Disorders of Consciousness, Consciousness, Decision Making, ICU, MyPublic
 #### *Communications grand public / interviews:*
 
 ___
+
+### Vers un diagnostic affiné de l’état de conscience après une lésion cérébrale.
+Interview pour [Le Monde](https://www.lemonde.fr/sciences/article/2019/07/01/vers-un-diagnostic-affine-de-l-etat-de-conscience-apres-une-lesion-cerebrale_5483617_1650684.html) au sujet de notre article publié avec Jan Claassen dans le [*New England Journal of Medicine*](https://www.nejm.org/doi/full/10.1056/NEJMoa1812757) (Juillet 2019).
+
+
 ### Coma, "réveil" et troubles prolongés de la conscience : des cas qui fascinent.
 Interview pour l'[AFP](https://www.france24.com/fr/20190426-sorties-coma-troubles-conscience-cas-rarissimes-fascinent) et [Sciences & Avenir](https://www.sciencesetavenir.fr/sante/on-ne-se-reveille-pas-simplement-d-un-long-coma_133395) au sujet d'une patiente qui aurait émergé d'un état végétatif 27 ans après un traumatisme crânien (Avril 2019).
 
